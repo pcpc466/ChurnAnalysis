@@ -1,0 +1,2669 @@
+customerID,MonthlyCharges,tenure,contract,InternetService,churn,risk_score,category,Cluster
+0004-TLHLJ,73.9,4,Month-to-month,Fiber optic,Yes,90,High,0
+0011-IGKFF,98.0,13,Month-to-month,Fiber optic,Yes,80,High,0
+0013-EXCHZ,83.9,3,Month-to-month,Fiber optic,Yes,85,High,0
+0018-NYROU,68.95,5,Month-to-month,Fiber optic,No,90,High,0
+0021-IKXGC,72.1,1,Month-to-month,Fiber optic,No,90,High,0
+0023-XUOPT,94.1,13,Month-to-month,Fiber optic,Yes,80,High,0
+0027-KWYKW,83.75,23,Month-to-month,Fiber optic,No,70,Medium,0
+0036-IHMOT,103.7,55,One year,Fiber optic,No,50,Medium,0
+0048-LUMLS,91.2,37,One year,Fiber optic,No,55,Medium,0
+0052-DCKON,115.8,66,One year,Fiber optic,No,45,Medium,0
+0058-EVZWM,89.8,55,Month-to-month,Fiber optic,No,65,Medium,0
+0060-FUALY,94.75,59,Month-to-month,Fiber optic,No,65,Medium,0
+0064-YIJGF,75.75,27,Month-to-month,Fiber optic,No,60,Medium,0
+0080-OROZO,99.25,35,One year,Fiber optic,No,50,Medium,0
+0082-OQIQY,94.2,29,Month-to-month,Fiber optic,No,65,Medium,0
+0089-IIQKO,99.95,39,Month-to-month,Fiber optic,No,65,Medium,0
+0093-EXYQL,91.55,40,Month-to-month,Fiber optic,No,70,Medium,0
+0093-XWZFY,104.5,40,Month-to-month,Fiber optic,Yes,70,Medium,0
+0094-OIFMO,95.0,11,Month-to-month,Fiber optic,Yes,90,High,0
+0100-DUVFC,104.8,70,One year,Fiber optic,No,55,Medium,0
+0103-CSITQ,109.4,57,One year,Fiber optic,No,50,Medium,0
+0107-YHINA,99.75,1,Month-to-month,Fiber optic,Yes,100,High,0
+0111-KLBQG,93.95,32,Month-to-month,Fiber optic,No,70,Medium,0
+0112-QAWRZ,90.8,16,Month-to-month,Fiber optic,No,80,High,0
+0114-PEGZZ,107.55,33,Month-to-month,Fiber optic,No,70,Medium,0
+0115-TFERT,111.2,21,Month-to-month,Fiber optic,Yes,75,Medium,0
+0118-JPNOY,85.8,26,Month-to-month,Fiber optic,No,65,Medium,0
+0122-OAHPZ,73.85,7,Month-to-month,Fiber optic,Yes,80,High,0
+0125-LZQXK,101.35,15,Month-to-month,Fiber optic,Yes,75,Medium,0
+0129-KPTWJ,94.65,72,Month-to-month,Fiber optic,No,70,Medium,0
+0130-SXOUN,89.4,66,Month-to-month,Fiber optic,No,70,Medium,0
+0133-BMFZO,86.25,2,Month-to-month,Fiber optic,Yes,90,High,0
+0135-NMXAP,89.75,12,Month-to-month,Fiber optic,Yes,90,High,0
+0137-OCGAB,80.2,1,Month-to-month,Fiber optic,Yes,90,High,0
+0139-IVFJG,90.35,2,Month-to-month,Fiber optic,No,95,High,0
+0141-YEAYS,86.45,27,Month-to-month,Fiber optic,No,70,Medium,0
+0147-ESWWR,101.25,39,Month-to-month,Fiber optic,No,65,Medium,0
+0148-DCDOS,94.7,25,Month-to-month,Fiber optic,Yes,70,Medium,0
+0151-ONTOV,70.9,1,Month-to-month,Fiber optic,Yes,90,High,0
+0168-XZKBB,86.85,19,Month-to-month,Fiber optic,No,80,High,0
+0177-PXBAT,109.9,33,Month-to-month,Fiber optic,No,60,Medium,0
+0178-SZBHO,87.2,47,Month-to-month,Fiber optic,No,70,Medium,0
+0186-CAERR,116.3,71,One year,Fiber optic,No,45,Medium,0
+0187-QSXOE,89.0,7,Month-to-month,Fiber optic,No,90,High,0
+0187-WZNAB,74.4,27,Month-to-month,Fiber optic,No,55,Medium,0
+0193-ESZXP,105.5,58,One year,Fiber optic,Yes,45,Medium,0
+0195-IESCP,85.25,10,Month-to-month,Fiber optic,Yes,90,High,0
+0196-JTUQI,75.2,9,Month-to-month,Fiber optic,No,80,High,0
+0196-VULGZ,84.35,6,Month-to-month,Fiber optic,Yes,90,High,0
+0197-PNKNK,84.45,69,One year,Fiber optic,No,40,Medium,0
+0201-OAMXR,115.55,70,One year,Fiber optic,Yes,45,Medium,0
+0206-TBWLC,114.65,54,One year,Fiber optic,No,45,Medium,0
+0207-MDKNV,105.1,15,Month-to-month,Fiber optic,Yes,70,Medium,0
+0215-BQKGS,84.3,30,Month-to-month,Fiber optic,No,55,Medium,0
+0218-QNVAS,100.55,71,One year,Fiber optic,No,55,Medium,0
+0219-YTZUE,84.8,4,Month-to-month,Fiber optic,Yes,90,High,0
+0220-EBGCE,85.85,2,Month-to-month,Fiber optic,Yes,100,High,0
+0221-WMXNQ,75.35,4,Month-to-month,Fiber optic,No,85,High,0
+0225-ZORZP,84.3,3,Month-to-month,Fiber optic,No,90,High,0
+0231-LXVAP,75.9,1,Month-to-month,Fiber optic,Yes,85,High,0
+0233-FTHAV,79.2,60,One year,Fiber optic,No,45,Medium,0
+0235-KGSLC,85.55,1,Month-to-month,Fiber optic,Yes,100,High,0
+0236-HFWSV,93.35,15,Month-to-month,Fiber optic,Yes,80,High,0
+0237-YFUTL,109.65,50,Month-to-month,Fiber optic,No,60,Medium,0
+0239-OXEXL,84.25,46,Month-to-month,Fiber optic,No,55,Medium,0
+0256-LTHVJ,81.05,28,Month-to-month,Fiber optic,Yes,60,Medium,0
+0257-ZESQC,75.2,27,Month-to-month,Fiber optic,Yes,55,Medium,0
+0258-NOKBL,90.4,3,Month-to-month,Fiber optic,No,100,High,0
+0259-GBZSH,85.65,2,Month-to-month,Fiber optic,Yes,100,High,0
+0265-EDXBD,74.9,32,Month-to-month,Fiber optic,Yes,60,Medium,0
+0265-PSUAE,100.7,16,Month-to-month,Fiber optic,No,75,Medium,0
+0280-XJGEX,103.7,49,Month-to-month,Fiber optic,Yes,70,Medium,0
+0295-PPHDO,95.45,1,Month-to-month,Fiber optic,Yes,100,High,0
+0302-JOIVN,101.15,8,Month-to-month,Fiber optic,Yes,90,High,0
+0306-JAELE,96.1,5,Month-to-month,Fiber optic,Yes,95,High,0
+0308-GIQJT,105.75,71,One year,Fiber optic,No,50,Medium,0
+0310-MVLET,99.15,61,Month-to-month,Fiber optic,Yes,70,Medium,0
+0311-UNPFF,88.8,26,Month-to-month,Fiber optic,Yes,70,Medium,0
+0315-LVCRK,84.8,11,Month-to-month,Fiber optic,No,80,High,0
+0318-QUUOB,80.55,1,Month-to-month,Fiber optic,Yes,90,High,0
+0320-JDNQG,99.85,23,Month-to-month,Fiber optic,Yes,70,Medium,0
+0324-BRPCJ,100.2,68,Month-to-month,Fiber optic,Yes,70,Medium,0
+0325-XBFAC,94.7,8,Month-to-month,Fiber optic,Yes,90,High,0
+0326-VDYXE,97.65,70,One year,Fiber optic,No,55,Medium,0
+0327-WFZSY,100.0,39,One year,Fiber optic,No,55,Medium,0
+0328-GRPMV,70.1,1,Month-to-month,Fiber optic,Yes,90,High,0
+0329-GTIAJ,97.9,3,Month-to-month,Fiber optic,Yes,95,High,0
+0330-BGYZE,102.5,60,One year,Fiber optic,No,55,Medium,0
+0330-IVZHA,69.95,5,Month-to-month,Fiber optic,Yes,90,High,0
+0334-GDDSO,81.35,3,Month-to-month,Fiber optic,Yes,90,High,0
+0337-CNPZE,106.3,41,Month-to-month,Fiber optic,Yes,70,Medium,0
+0345-HKJVM,89.3,6,Month-to-month,Fiber optic,Yes,100,High,0
+0348-SDKOL,102.1,58,Month-to-month,Fiber optic,Yes,65,Medium,0
+0354-WYROK,98.9,31,Month-to-month,Fiber optic,Yes,65,Medium,0
+0362-ZBZWJ,84.9,36,Month-to-month,Fiber optic,Yes,60,Medium,0
+0363-QJVFX,108.15,32,Month-to-month,Fiber optic,Yes,60,Medium,0
+0365-BZUWY,102.55,17,Month-to-month,Fiber optic,No,80,High,0
+0365-GXEZS,78.2,18,Month-to-month,Fiber optic,No,65,Medium,0
+0365-TRTPY,91.2,37,Month-to-month,Fiber optic,No,65,Medium,0
+0369-ZGOVK,70.4,28,One year,Fiber optic,No,45,Medium,0
+0376-OIWME,93.6,36,Month-to-month,Fiber optic,No,65,Medium,0
+0376-YMCJC,90.6,23,Month-to-month,Fiber optic,Yes,75,Medium,0
+0378-NHQXU,88.25,17,Month-to-month,Fiber optic,Yes,80,High,0
+0378-TOVMS,85.8,3,Month-to-month,Fiber optic,Yes,95,High,0
+0380-NEAVX,99.85,34,One year,Fiber optic,No,55,Medium,0
+0388-EOPEX,74.4,2,Month-to-month,Fiber optic,Yes,85,High,0
+0390-DCFDQ,70.45,1,Month-to-month,Fiber optic,Yes,90,High,0
+0396-YCHWO,95.4,36,Month-to-month,Fiber optic,No,70,Medium,0
+0397-GZBBC,93.85,59,Month-to-month,Fiber optic,Yes,70,Medium,0
+0402-CQAJN,101.9,37,Month-to-month,Fiber optic,Yes,70,Medium,0
+0404-SWRVG,74.4,3,Month-to-month,Fiber optic,Yes,90,High,0
+0406-BPDVR,101.5,54,One year,Fiber optic,Yes,55,Medium,0
+0407-BDJKB,95.75,60,Month-to-month,Fiber optic,Yes,70,Medium,0
+0409-WTMPL,110.65,58,One year,Fiber optic,No,50,Medium,0
+0410-IPFTY,83.85,31,Month-to-month,Fiber optic,No,60,Medium,0
+0419-YAAPX,85.3,49,Month-to-month,Fiber optic,No,70,Medium,0
+0420-HLGXF,99.75,39,Month-to-month,Fiber optic,No,70,Medium,0
+0422-UXFAP,98.85,51,One year,Fiber optic,No,55,Medium,0
+0428-IKYCP,87.0,22,Month-to-month,Fiber optic,No,80,High,0
+0431-APWVY,90.1,28,One year,Fiber optic,Yes,55,Medium,0
+0432-CAJZV,90.7,3,Month-to-month,Fiber optic,No,100,High,0
+0434-CSFON,100.5,47,Month-to-month,Fiber optic,No,70,Medium,0
+0439-IFYUN,74.7,18,Month-to-month,Fiber optic,No,70,Medium,0
+0440-UEDAI,94.45,53,One year,Fiber optic,No,50,Medium,0
+0442-ZXKVS,115.6,54,One year,Fiber optic,No,45,Medium,0
+0447-RXSGD,99.65,24,Month-to-month,Fiber optic,No,80,High,0
+0455-XFASS,69.55,3,Month-to-month,Fiber optic,No,90,High,0
+0461-CVKMU,83.8,23,Month-to-month,Fiber optic,Yes,65,Medium,0
+0468-YRPXN,98.8,29,Month-to-month,Fiber optic,No,65,Medium,0
+0471-ARVMX,104.85,62,One year,Fiber optic,No,50,Medium,0
+0475-RIJEP,77.85,43,Month-to-month,Fiber optic,Yes,60,Medium,0
+0480-BIXDE,96.8,19,Month-to-month,Fiber optic,No,80,High,0
+0481-SUMCB,102.15,45,One year,Fiber optic,No,55,Medium,0
+0486-HECZI,96.75,55,Month-to-month,Fiber optic,Yes,65,Medium,0
+0487-RPVUM,99.4,61,Month-to-month,Fiber optic,No,60,Medium,0
+0488-GSLFR,69.5,1,Month-to-month,Fiber optic,Yes,90,High,0
+0491-KAPQG,73.7,21,Month-to-month,Fiber optic,No,70,Medium,0
+0495-RVCBF,79.7,1,Month-to-month,Fiber optic,Yes,90,High,0
+0495-ZBNGW,79.9,5,Month-to-month,Fiber optic,Yes,90,High,0
+0504-HHAPI,88.3,27,Month-to-month,Fiber optic,Yes,70,Medium,0
+0506-LVNGN,75.55,5,Month-to-month,Fiber optic,Yes,90,High,0
+0508-OOLTO,71.65,2,Month-to-month,Fiber optic,No,90,High,0
+0511-JTEOY,71.1,1,Month-to-month,Fiber optic,Yes,90,High,0
+0512-FLFDW,100.5,60,One year,Fiber optic,No,55,Medium,0
+0515-YPMCW,70.45,1,Month-to-month,Fiber optic,Yes,90,High,0
+0516-OOHAR,100.35,28,One year,Fiber optic,No,55,Medium,0
+0516-UXRMT,92.05,62,One year,Fiber optic,No,50,Medium,0
+0519-XUZJU,70.75,1,Month-to-month,Fiber optic,Yes,90,High,0
+0520-FDVVT,102.35,35,One year,Fiber optic,Yes,55,Medium,0
+0524-IAVZO,85.0,30,Month-to-month,Fiber optic,Yes,60,Medium,0
+0529-ONKER,75.65,15,Month-to-month,Fiber optic,Yes,70,Medium,0
+0531-ZZJWQ,74.0,55,Month-to-month,Fiber optic,No,60,Medium,0
+0533-BNWKF,85.45,55,Month-to-month,Fiber optic,Yes,70,Medium,0
+0537-QYZZN,79.85,24,Month-to-month,Fiber optic,No,65,Medium,0
+0549-CYCQN,79.6,51,One year,Fiber optic,No,45,Medium,0
+0564-JJHGS,95.5,9,Month-to-month,Fiber optic,Yes,90,High,0
+0564-MUUQK,95.5,20,Month-to-month,Fiber optic,No,75,Medium,0
+0565-JUPYD,104.5,63,One year,Fiber optic,No,45,Medium,0
+0570-BFQHT,80.55,9,Month-to-month,Fiber optic,No,80,High,0
+0575-CUQOV,97.95,60,One year,Fiber optic,No,55,Medium,0
+0576-WNXXC,95.55,27,Month-to-month,Fiber optic,Yes,70,Medium,0
+0577-WHMEV,90.7,16,Month-to-month,Fiber optic,No,75,Medium,0
+0578-SKVMF,83.3,22,Month-to-month,Fiber optic,Yes,70,Medium,0
+0580-PIQHM,101.6,41,One year,Fiber optic,No,50,Medium,0
+0581-BXBUB,72.75,4,Month-to-month,Fiber optic,No,90,High,0
+0581-MDMPW,88.95,24,Month-to-month,Fiber optic,No,80,High,0
+0585-EGDDA,80.0,40,Month-to-month,Fiber optic,No,60,Medium,0
+0595-ITUDF,91.8,64,Month-to-month,Fiber optic,No,65,Medium,0
+0596-BQCEQ,100.15,62,Month-to-month,Fiber optic,Yes,70,Medium,0
+0599-XNYDO,69.8,20,Month-to-month,Fiber optic,No,70,Medium,0
+0611-DFXKO,89.0,20,Month-to-month,Fiber optic,Yes,80,High,0
+0617-FHSGK,75.2,49,Month-to-month,Fiber optic,Yes,60,Medium,0
+0618-XWMSS,74.9,28,Month-to-month,Fiber optic,Yes,55,Medium,0
+0620-DLSLK,81.9,13,Month-to-month,Fiber optic,No,70,Medium,0
+0621-HJWXJ,81.55,63,Month-to-month,Fiber optic,No,60,Medium,0
+0623-EJQEG,93.55,65,One year,Fiber optic,No,45,Medium,0
+0634-SZPQA,90.05,23,Month-to-month,Fiber optic,Yes,75,Medium,0
+0637-KVDLV,76.5,2,Month-to-month,Fiber optic,Yes,90,High,0
+0637-UBJRP,84.05,13,Month-to-month,Fiber optic,Yes,65,Medium,0
+0637-YLETY,95.6,16,Month-to-month,Fiber optic,Yes,80,High,0
+0639-TSIQW,102.95,67,Month-to-month,Fiber optic,Yes,65,Medium,0
+0641-EVBOJ,82.3,3,Month-to-month,Fiber optic,No,80,High,0
+0643-OKLRP,80.35,47,Month-to-month,Fiber optic,Yes,55,Medium,0
+0644-OQMDK,70.65,4,Month-to-month,Fiber optic,No,90,High,0
+0650-BWOZN,73.55,18,Month-to-month,Fiber optic,No,70,Medium,0
+0654-HMSHN,104.4,21,Month-to-month,Fiber optic,Yes,80,High,0
+0655-RBDUG,98.05,7,Month-to-month,Fiber optic,Yes,90,High,0
+0666-UXTJO,85.2,34,Month-to-month,Fiber optic,No,70,Medium,0
+0670-ANMUU,97.65,71,One year,Fiber optic,No,45,Medium,0
+0674-DGMAQ,93.5,32,Month-to-month,Fiber optic,No,70,Medium,0
+0679-IDSTG,69.25,1,Month-to-month,Fiber optic,Yes,90,High,0
+0680-DFNNY,101.1,15,Month-to-month,Fiber optic,Yes,80,High,0
+0682-USIXD,86.05,21,Month-to-month,Fiber optic,No,75,Medium,0
+0684-AOSIH,95.0,1,Month-to-month,Fiber optic,Yes,95,High,0
+0685-MLYYM,70.75,2,Month-to-month,Fiber optic,Yes,90,High,0
+0689-DSXGL,85.8,52,Month-to-month,Fiber optic,No,65,Medium,0
+0689-NKYLF,83.2,13,Month-to-month,Fiber optic,Yes,70,Medium,0
+0691-IFBQW,110.0,46,One year,Fiber optic,Yes,50,Medium,0
+0691-JVSYA,94.85,53,One year,Fiber optic,Yes,55,Medium,0
+0691-NIKRI,105.95,40,One year,Fiber optic,No,50,Medium,0
+0697-ZMSWS,85.65,4,Month-to-month,Fiber optic,Yes,100,High,0
+0701-RFGFI,95.4,49,Month-to-month,Fiber optic,No,70,Medium,0
+0702-PGIBZ,101.7,4,Month-to-month,Fiber optic,Yes,100,High,0
+0709-TVGUR,74.55,9,Month-to-month,Fiber optic,Yes,80,High,0
+0722-SVSFK,100.4,7,Month-to-month,Fiber optic,No,85,High,0
+0722-TROQR,74.9,4,Month-to-month,Fiber optic,Yes,90,High,0
+0723-DRCLG,74.45,1,Month-to-month,Fiber optic,Yes,90,High,0
+0727-BMPLR,100.0,55,One year,Fiber optic,Yes,55,Medium,0
+0727-IWKVK,79.9,9,Month-to-month,Fiber optic,Yes,80,High,0
+0730-KOAVE,94.3,30,Month-to-month,Fiber optic,No,65,Medium,0
+0742-NXBGR,82.3,1,Month-to-month,Fiber optic,Yes,90,High,0
+0744-GKNGE,86.8,64,Month-to-month,Fiber optic,No,60,Medium,0
+0748-RDGGM,109.5,70,One year,Fiber optic,Yes,45,Medium,0
+0750-EBAIU,91.25,52,One year,Fiber optic,No,50,Medium,0
+0754-UKWQP,95.85,2,Month-to-month,Fiber optic,Yes,100,High,0
+0771-WLCLA,112.95,16,Month-to-month,Fiber optic,No,70,Medium,0
+0772-GYEQQ,88.35,3,Month-to-month,Fiber optic,Yes,95,High,0
+0781-LKXBR,100.5,9,Month-to-month,Fiber optic,Yes,90,High,0
+0786-IVLAW,108.1,66,One year,Fiber optic,No,55,Medium,0
+0793-TWELN,80.15,4,Month-to-month,Fiber optic,No,85,High,0
+0795-GMVQO,109.9,67,One year,Fiber optic,No,50,Medium,0
+0812-WUPTB,70.85,1,Month-to-month,Fiber optic,Yes,90,High,0
+0818-OCPZO,81.45,27,Month-to-month,Fiber optic,Yes,60,Medium,0
+0824-VWDPO,96.75,45,One year,Fiber optic,No,50,Medium,0
+0829-XXPLX,89.4,20,Month-to-month,Fiber optic,No,75,Medium,0
+0840-DFEZH,75.35,7,Month-to-month,Fiber optic,No,80,High,0
+0843-WTBXE,85.45,53,Month-to-month,Fiber optic,Yes,70,Medium,0
+0848-ZGQIJ,94.65,16,Month-to-month,Fiber optic,No,80,High,0
+0853-NWIFK,100.3,45,One year,Fiber optic,No,50,Medium,0
+0864-FVJNJ,113.35,64,One year,Fiber optic,No,45,Medium,0
+0867-MKZVY,82.4,20,Month-to-month,Fiber optic,Yes,65,Medium,0
+0869-PAPRP,85.7,26,Month-to-month,Fiber optic,No,70,Medium,0
+0871-URUWO,102.25,13,Month-to-month,Fiber optic,Yes,80,High,0
+0872-NXJYS,79.55,9,Month-to-month,Fiber optic,Yes,80,High,0
+0875-CABNR,84.6,10,Month-to-month,Fiber optic,Yes,80,High,0
+0876-WDUUZ,85.4,5,Month-to-month,Fiber optic,Yes,95,High,0
+0877-SDMBN,103.95,54,One year,Fiber optic,Yes,50,Medium,0
+0880-FVFWF,86.4,56,Month-to-month,Fiber optic,No,65,Medium,0
+0880-TKATG,101.15,4,Month-to-month,Fiber optic,Yes,100,High,0
+0886-QGENL,101.25,27,Month-to-month,Fiber optic,Yes,65,Medium,0
+0887-WBJVH,93.45,53,One year,Fiber optic,No,50,Medium,0
+0895-DQHEW,104.3,54,Month-to-month,Fiber optic,Yes,70,Medium,0
+0897-FEGMU,99.5,11,Month-to-month,Fiber optic,Yes,90,High,0
+0898-XCGTF,96.5,61,One year,Fiber optic,No,55,Medium,0
+0899-LIIBW,100.85,34,Month-to-month,Fiber optic,No,70,Medium,0
+0899-WZRSD,105.35,56,Month-to-month,Fiber optic,No,60,Medium,0
+0913-XWSCN,85.5,55,Month-to-month,Fiber optic,No,70,Medium,0
+0916-QOFDP,95.8,14,Month-to-month,Fiber optic,No,80,High,0
+0921-OHLVP,83.05,22,Month-to-month,Fiber optic,No,70,Medium,0
+0923-PNFUB,83.75,3,Month-to-month,Fiber optic,Yes,90,High,0
+0924-BJCRC,89.45,60,Month-to-month,Fiber optic,No,70,Medium,0
+0925-VYDLG,75.25,3,Month-to-month,Fiber optic,Yes,90,High,0
+0927-LCSMG,74.65,7,Month-to-month,Fiber optic,Yes,80,High,0
+0928-XUTSN,80.5,13,Month-to-month,Fiber optic,No,70,Medium,0
+0929-PECLO,89.6,63,Month-to-month,Fiber optic,No,70,Medium,0
+0931-MHTEM,100.05,54,One year,Fiber optic,No,50,Medium,0
+0939-YAPAF,100.25,35,Month-to-month,Fiber optic,Yes,70,Medium,0
+0940-OUQEC,80.7,10,Month-to-month,Fiber optic,Yes,80,High,0
+0943-ZQPXH,92.95,44,Month-to-month,Fiber optic,No,70,Medium,0
+0946-CLJTI,98.7,58,Month-to-month,Fiber optic,Yes,70,Medium,0
+0947-IDHRQ,80.3,7,Month-to-month,Fiber optic,Yes,80,High,0
+0947-MUGVO,73.65,20,Month-to-month,Fiber optic,Yes,70,Medium,0
+0952-KMEEH,98.15,13,Month-to-month,Fiber optic,Yes,75,Medium,0
+0956-ACVZC,94.1,54,One year,Fiber optic,No,55,Medium,0
+0958-YHXGP,69.9,7,Month-to-month,Fiber optic,No,80,High,0
+0959-WHOKV,99.0,42,One year,Fiber optic,No,50,Medium,0
+0961-ZWLVI,109.2,49,One year,Fiber optic,No,50,Medium,0
+0963-ZBDRN,96.2,32,Month-to-month,Fiber optic,Yes,65,Medium,0
+0968-GSIKN,70.8,1,Month-to-month,Fiber optic,Yes,90,High,0
+0970-ETWGE,89.55,1,Month-to-month,Fiber optic,Yes,100,High,0
+0979-PHULV,99.45,69,Month-to-month,Fiber optic,Yes,70,Medium,0
+1004-NOZNR,94.8,56,One year,Fiber optic,No,50,Medium,0
+1010-DIAUQ,96.5,5,Month-to-month,Fiber optic,Yes,100,High,0
+1013-QCWAM,100.8,66,Month-to-month,Fiber optic,No,70,Medium,0
+1016-DJTSV,69.7,8,Month-to-month,Fiber optic,No,80,High,0
+1017-FBQMM,106.05,62,One year,Fiber optic,No,50,Medium,0
+1020-JPQOW,90.55,56,Month-to-month,Fiber optic,No,65,Medium,0
+1024-KPRBB,89.1,38,One year,Fiber optic,No,55,Medium,0
+1024-VRZHF,74.95,11,Month-to-month,Fiber optic,Yes,80,High,0
+1025-FALIX,69.05,26,Month-to-month,Fiber optic,No,60,Medium,0
+1028-FFNJK,101.5,30,Month-to-month,Fiber optic,No,65,Medium,0
+1031-IIDEO,70.85,1,Month-to-month,Fiber optic,Yes,90,High,0
+1035-IPQPU,103.5,63,Month-to-month,Fiber optic,No,70,Medium,0
+1041-RXHRA,70.25,41,Month-to-month,Fiber optic,Yes,60,Medium,0
+1047-NNCBF,70.55,20,Month-to-month,Fiber optic,No,70,Medium,0
+1060-ENTOF,105.4,67,One year,Fiber optic,No,45,Medium,0
+1061-PNTHC,109.6,56,Month-to-month,Fiber optic,No,60,Medium,0
+1062-LHZOD,69.9,1,Month-to-month,Fiber optic,Yes,90,High,0
+1069-XAIEM,85.05,1,Month-to-month,Fiber optic,Yes,100,High,0
+1074-AMIOH,108.25,53,Month-to-month,Fiber optic,No,65,Medium,0
+1075-BGWOH,98.75,16,Month-to-month,Fiber optic,Yes,80,High,0
+1077-HUUJM,71.05,7,Month-to-month,Fiber optic,No,80,High,0
+1084-UQCHV,69.75,1,Month-to-month,Fiber optic,Yes,90,High,0
+1086-LXKFY,69.1,1,Month-to-month,Fiber optic,Yes,90,High,0
+1090-PYKCI,105.1,69,One year,Fiber optic,No,45,Medium,0
+1091-SOZGA,99.8,56,One year,Fiber optic,No,55,Medium,0
+1092-GANHU,76.65,17,Month-to-month,Fiber optic,Yes,70,Medium,0
+1095-JUDTC,95.05,47,Month-to-month,Fiber optic,Yes,65,Medium,0
+1096-ADRUX,74.25,66,One year,Fiber optic,No,45,Medium,0
+1104-TNLZA,105.8,28,Month-to-month,Fiber optic,No,65,Medium,0
+1110-KYLGQ,108.25,63,Month-to-month,Fiber optic,No,65,Medium,0
+1112-CUNAO,89.85,15,Month-to-month,Fiber optic,Yes,80,High,0
+1113-IUJYX,105.95,14,One year,Fiber optic,Yes,55,Medium,0
+1122-JWTJW,70.65,1,Month-to-month,Fiber optic,Yes,90,High,0
+1131-SUEKT,98.45,61,One year,Fiber optic,No,50,Medium,0
+1135-HIORI,111.45,64,One year,Fiber optic,No,50,Medium,0
+1142-IHLOO,87.55,51,One year,Fiber optic,No,55,Medium,0
+1143-NMNQJ,85.7,2,Month-to-month,Fiber optic,Yes,100,High,0
+1150-FTQGN,94.15,60,One year,Fiber optic,No,50,Medium,0
+1157-BQCUW,74.95,1,Month-to-month,Fiber optic,Yes,90,High,0
+1169-SAOCL,106.65,49,One year,Fiber optic,No,50,Medium,0
+1169-WCVAK,88.8,19,Month-to-month,Fiber optic,No,70,Medium,0
+1170-SASML,85.4,69,Month-to-month,Fiber optic,No,70,Medium,0
+1173-NOEYG,90.15,27,Month-to-month,Fiber optic,No,70,Medium,0
+1173-XZPYF,89.2,11,Month-to-month,Fiber optic,No,90,High,0
+1174-FGIFN,90.45,28,One year,Fiber optic,No,50,Medium,0
+1184-PJVDB,79.95,10,Month-to-month,Fiber optic,Yes,80,High,0
+1193-RTSLK,83.9,38,Month-to-month,Fiber optic,Yes,55,Medium,0
+1194-HVAIF,95.0,27,Month-to-month,Fiber optic,No,70,Medium,0
+1195-OIYEJ,91.1,13,Month-to-month,Fiber optic,Yes,80,High,0
+1196-AMORA,73.6,7,Month-to-month,Fiber optic,Yes,80,High,0
+1197-BVMVG,74.45,4,Month-to-month,Fiber optic,No,90,High,0
+1200-TUZHR,85.2,8,Month-to-month,Fiber optic,No,90,High,0
+1212-GLHMD,86.05,3,Month-to-month,Fiber optic,No,95,High,0
+1215-FIGMP,89.9,60,Month-to-month,Fiber optic,No,70,Medium,0
+1216-BGTSP,108.45,45,Month-to-month,Fiber optic,No,60,Medium,0
+1216-JWVUX,75.5,25,Month-to-month,Fiber optic,No,60,Medium,0
+1217-VASWC,100.55,43,One year,Fiber optic,No,55,Medium,0
+1219-NNDDO,76.85,9,Month-to-month,Fiber optic,No,80,High,0
+1226-IENZN,78.75,16,Month-to-month,Fiber optic,No,70,Medium,0
+1228-FZFRV,105.95,50,Month-to-month,Fiber optic,Yes,65,Medium,0
+1228-ZLNBX,75.3,21,Month-to-month,Fiber optic,No,70,Medium,0
+1229-RCALF,115.0,64,One year,Fiber optic,No,45,Medium,0
+1236-WFCDV,90.45,14,Month-to-month,Fiber optic,Yes,80,High,0
+1251-STYSZ,80.25,4,Month-to-month,Fiber optic,No,85,High,0
+1254-IZEYF,99.95,31,Month-to-month,Fiber optic,Yes,70,Medium,0
+1258-YMZNM,110.5,27,One year,Fiber optic,No,50,Medium,0
+1262-OPMFY,75.75,9,Month-to-month,Fiber optic,Yes,80,High,0
+1264-BYWMS,96.8,55,Month-to-month,Fiber optic,Yes,70,Medium,0
+1265-XTECC,96.55,68,One year,Fiber optic,Yes,50,Medium,0
+1268-ASBGA,85.35,16,Month-to-month,Fiber optic,Yes,80,High,0
+1273-MTETI,88.85,4,Month-to-month,Fiber optic,Yes,100,High,0
+1285-OKIPP,79.9,1,Month-to-month,Fiber optic,Yes,90,High,0
+1297-VQDRP,107.15,68,One year,Fiber optic,No,50,Medium,0
+1302-UHBDD,89.95,20,Month-to-month,Fiber optic,No,80,High,0
+1304-NECVQ,78.55,2,Month-to-month,Fiber optic,Yes,90,High,0
+1307-ATKGB,89.55,24,Month-to-month,Fiber optic,No,80,High,0
+1307-TVUFB,79.35,42,Month-to-month,Fiber optic,No,60,Medium,0
+1309-BXVOQ,106.1,21,Month-to-month,Fiber optic,Yes,75,Medium,0
+1319-YLZJG,84.6,12,Month-to-month,Fiber optic,No,75,Medium,0
+1320-HTRDR,75.5,3,Month-to-month,Fiber optic,Yes,90,High,0
+1320-REHCS,110.75,52,Month-to-month,Fiber optic,No,65,Medium,0
+1323-OOEPC,98.4,53,Month-to-month,Fiber optic,Yes,70,Medium,0
+1334-PDUKM,86.45,68,One year,Fiber optic,No,55,Medium,0
+1335-HQMKX,101.35,72,One year,Fiber optic,No,55,Medium,0
+1342-JPNKI,86.05,10,Month-to-month,Fiber optic,Yes,90,High,0
+1343-EHPYB,103.4,63,Month-to-month,Fiber optic,Yes,70,Medium,0
+1346-PJWTK,94.15,61,Month-to-month,Fiber optic,No,65,Medium,0
+1346-UFHAX,80.0,13,Month-to-month,Fiber optic,No,65,Medium,0
+1347-KTTTA,102.45,64,One year,Fiber optic,No,50,Medium,0
+1357-BIJKI,98.25,50,One year,Fiber optic,No,55,Medium,0
+1360-JYXKQ,99.1,54,One year,Fiber optic,No,50,Medium,0
+1360-XFJMR,109.7,67,One year,Fiber optic,No,50,Medium,0
+1363-TXLSL,70.3,1,Month-to-month,Fiber optic,Yes,90,High,0
+1370-GGAWX,94.15,46,One year,Fiber optic,No,55,Medium,0
+1374-DMZUI,94.3,4,Month-to-month,Fiber optic,Yes,100,High,0
+1379-FRVEB,91.0,15,Month-to-month,Fiber optic,No,80,High,0
+1384-RCUXW,80.55,16,Month-to-month,Fiber optic,No,70,Medium,0
+1389-CXMLU,91.05,3,Month-to-month,Fiber optic,Yes,100,High,0
+1391-UBDAR,72.9,11,Month-to-month,Fiber optic,No,80,High,0
+1393-IMKZG,95.85,1,Month-to-month,Fiber optic,No,95,High,0
+1394-SUIUH,85.15,44,Month-to-month,Fiber optic,No,60,Medium,0
+1396-QWFBJ,74.05,21,Month-to-month,Fiber optic,Yes,70,Medium,0
+1400-MMYXY,105.9,3,Month-to-month,Fiber optic,Yes,100,High,0
+1415-YFWLT,89.3,1,Month-to-month,Fiber optic,Yes,100,High,0
+1421-HCERK,105.7,30,Month-to-month,Fiber optic,No,60,Medium,0
+1422-DGUBX,79.25,32,One year,Fiber optic,No,40,Medium,0
+1427-VERSM,98.7,56,Month-to-month,Fiber optic,No,65,Medium,0
+1428-GTBJJ,74.55,11,Month-to-month,Fiber optic,Yes,80,High,0
+1442-OKRJE,103.15,66,One year,Fiber optic,No,50,Medium,0
+1444-VVSGW,115.65,70,One year,Fiber optic,Yes,45,Medium,0
+1447-GIQMR,69.15,1,Month-to-month,Fiber optic,Yes,90,High,0
+1448-CYWKC,105.2,58,One year,Fiber optic,No,55,Medium,0
+1448-PWKYE,80.0,1,Month-to-month,Fiber optic,Yes,90,High,0
+1450-GALXR,98.5,10,Month-to-month,Fiber optic,Yes,85,High,0
+1450-SKCVI,73.85,56,Month-to-month,Fiber optic,Yes,60,Medium,0
+1452-KIOVK,89.1,22,Month-to-month,Fiber optic,No,80,High,0
+1452-VOQCH,75.1,1,Month-to-month,Fiber optic,No,90,High,0
+1455-ESIQH,89.1,1,Month-to-month,Fiber optic,Yes,100,High,0
+1455-UGQVH,98.5,10,Month-to-month,Fiber optic,Yes,90,High,0
+1465-VINDH,102.1,10,Month-to-month,Fiber optic,Yes,90,High,0
+1469-LBJQJ,105.2,66,Month-to-month,Fiber optic,No,70,Medium,0
+1470-PSXNM,93.65,49,One year,Fiber optic,No,55,Medium,0
+1472-TNCWL,94.7,36,Month-to-month,Fiber optic,No,70,Medium,0
+1475-VWVDO,74.9,7,Month-to-month,Fiber optic,No,80,High,0
+1480-IVEVR,81.6,35,One year,Fiber optic,No,45,Medium,0
+1481-ZUWZA,94.5,28,Month-to-month,Fiber optic,Yes,65,Medium,0
+1482-OXZSY,100.4,30,Month-to-month,Fiber optic,No,65,Medium,0
+1485-YDHMM,93.25,52,Month-to-month,Fiber optic,No,65,Medium,0
+1502-XFCVR,106.45,58,One year,Fiber optic,Yes,50,Medium,0
+1508-DFXCU,81.45,12,Month-to-month,Fiber optic,No,80,High,0
+1513-XNPPH,89.4,12,Month-to-month,Fiber optic,Yes,85,High,0
+1522-VVDMG,89.75,7,Month-to-month,Fiber optic,Yes,85,High,0
+1543-LLLFT,98.3,61,One year,Fiber optic,No,50,Medium,0
+1545-ACTAS,99.7,48,One year,Fiber optic,No,50,Medium,0
+1548-FEHVL,106.2,61,Month-to-month,Fiber optic,No,65,Medium,0
+1550-EENBN,104.35,31,Month-to-month,Fiber optic,No,65,Medium,0
+1550-LOAHA,84.15,32,Month-to-month,Fiber optic,Yes,60,Medium,0
+1552-AAGRX,106.4,30,Month-to-month,Fiber optic,No,60,Medium,0
+1564-NTYXF,82.0,13,Month-to-month,Fiber optic,Yes,70,Medium,0
+1565-RHDJD,84.05,4,Month-to-month,Fiber optic,Yes,90,High,0
+1567-DSCIC,94.0,8,Month-to-month,Fiber optic,Yes,90,High,0
+1569-TTNYJ,78.75,5,Month-to-month,Fiber optic,Yes,90,High,0
+1571-SAVHK,99.95,12,Month-to-month,Fiber optic,Yes,85,High,0
+1573-LGXBA,97.55,57,One year,Fiber optic,No,55,Medium,0
+1579-KLYDT,90.45,7,Month-to-month,Fiber optic,Yes,90,High,0
+1580-BMCMR,87.3,19,Month-to-month,Fiber optic,No,75,Medium,0
+1583-IHQZE,112.95,12,Month-to-month,Fiber optic,Yes,85,High,0
+1587-FKLZB,99.5,66,Month-to-month,Fiber optic,Yes,70,Medium,0
+1591-MQJTP,93.65,51,One year,Fiber optic,No,50,Medium,0
+1591-NFNLQ,80.0,51,Month-to-month,Fiber optic,Yes,60,Medium,0
+1596-BBVTG,75.35,35,Month-to-month,Fiber optic,Yes,60,Medium,0
+1597-LHYNC,95.0,26,Month-to-month,Fiber optic,Yes,65,Medium,0
+1599-MMYRQ,81.45,62,One year,Fiber optic,No,40,Medium,0
+1602-IJQQE,75.35,4,Month-to-month,Fiber optic,Yes,90,High,0
+1608-GMEWB,93.9,45,Month-to-month,Fiber optic,No,70,Medium,0
+1618-CFHME,75.9,2,Month-to-month,Fiber optic,Yes,90,High,0
+1624-NALOJ,89.8,5,Month-to-month,Fiber optic,Yes,100,High,0
+1624-WOIWJ,84.7,10,Month-to-month,Fiber optic,Yes,75,Medium,0
+1625-JAIIY,83.0,68,One year,Fiber optic,Yes,45,Medium,0
+1626-ERCMM,94.55,20,Month-to-month,Fiber optic,Yes,80,High,0
+1628-BIZYP,85.0,1,Month-to-month,Fiber optic,No,90,High,0
+1640-PLFMP,70.25,1,Month-to-month,Fiber optic,No,90,High,0
+1641-RQDAY,100.4,32,Month-to-month,Fiber optic,No,70,Medium,0
+1644-IRKSF,93.8,33,One year,Fiber optic,Yes,55,Medium,0
+1656-DRSMG,109.85,63,Month-to-month,Fiber optic,No,65,Medium,0
+1658-BYGOY,95.45,18,Month-to-month,Fiber optic,Yes,80,High,0
+1658-TJVOA,74.1,6,Month-to-month,Fiber optic,No,85,High,0
+1658-XUHBX,88.75,59,Month-to-month,Fiber optic,No,70,Medium,0
+1666-JXLKU,100.05,37,Month-to-month,Fiber optic,No,70,Medium,0
+1670-SVOWZ,89.65,14,Month-to-month,Fiber optic,Yes,75,Medium,0
+1678-FYZOW,79.4,3,Month-to-month,Fiber optic,Yes,90,High,0
+1679-JRFBR,108.15,70,One year,Fiber optic,No,50,Medium,0
+1685-BQULA,93.4,40,Month-to-month,Fiber optic,No,70,Medium,0
+1689-MRZQR,78.3,34,Month-to-month,Fiber optic,Yes,60,Medium,0
+1689-YQBYY,76.6,12,Month-to-month,Fiber optic,No,80,High,0
+1696-HXOWK,95.65,71,One year,Fiber optic,No,50,Medium,0
+1698-XFZCI,107.75,61,One year,Fiber optic,No,50,Medium,0
+1704-NRWYE,80.85,9,Month-to-month,Fiber optic,Yes,80,High,0
+1707-HABPF,91.3,46,One year,Fiber optic,No,55,Medium,0
+1710-RCXUS,90.35,51,One year,Fiber optic,No,55,Medium,0
+1723-HKXJQ,101.75,42,Month-to-month,Fiber optic,Yes,70,Medium,0
+1724-BQUHA,89.5,5,Month-to-month,Fiber optic,Yes,100,High,0
+1728-CXQBE,94.25,64,Month-to-month,Fiber optic,No,70,Medium,0
+1730-ZMAME,79.5,32,Month-to-month,Fiber optic,No,60,Medium,0
+1731-TVIUK,93.5,4,Month-to-month,Fiber optic,Yes,95,High,0
+1732-FEKLD,94.75,54,One year,Fiber optic,No,55,Medium,0
+1732-VHUBQ,70.55,47,Month-to-month,Fiber optic,Yes,60,Medium,0
+1746-TGTWV,75.35,1,Month-to-month,Fiber optic,No,90,High,0
+1751-NCDLI,98.85,46,Month-to-month,Fiber optic,No,70,Medium,0
+1754-GKYPY,89.75,22,Month-to-month,Fiber optic,No,80,High,0
+1761-AEZZR,79.55,1,Month-to-month,Fiber optic,Yes,90,High,0
+1766-GKNMI,84.9,29,Month-to-month,Fiber optic,No,60,Medium,0
+1769-GRUIK,71.1,18,Month-to-month,Fiber optic,No,70,Medium,0
+1771-OADNZ,95.9,29,Month-to-month,Fiber optic,Yes,70,Medium,0
+1784-EZDKJ,106.8,51,One year,Fiber optic,No,55,Medium,0
+1785-BPHTP,85.45,28,Month-to-month,Fiber optic,No,70,Medium,0
+1792-UXAFY,89.15,17,Month-to-month,Fiber optic,Yes,80,High,0
+1810-BOHSY,96.4,51,One year,Fiber optic,No,50,Medium,0
+1818-ESQMW,89.2,27,Month-to-month,Fiber optic,No,65,Medium,0
+1820-TQVEV,69.55,1,Month-to-month,Fiber optic,Yes,90,High,0
+1833-TCXKK,107.75,45,Month-to-month,Fiber optic,No,70,Medium,0
+1833-VGRUM,74.2,1,Month-to-month,Fiber optic,Yes,90,High,0
+1842-EZJMK,103.7,50,Month-to-month,Fiber optic,Yes,65,Medium,0
+1845-CSBRZ,85.35,22,Month-to-month,Fiber optic,No,80,High,0
+1846-XWOQN,70.15,1,Month-to-month,Fiber optic,Yes,90,High,0
+1853-UDXBW,70.0,1,Month-to-month,Fiber optic,Yes,90,High,0
+1855-AGAWH,93.8,31,One year,Fiber optic,No,55,Medium,0
+1866-OBPNR,74.6,1,Month-to-month,Fiber optic,No,90,High,0
+1866-RZZQS,98.4,41,Month-to-month,Fiber optic,Yes,70,Medium,0
+1867-BDVFH,74.35,11,Month-to-month,Fiber optic,Yes,80,High,0
+1867-TJHTS,79.8,58,Month-to-month,Fiber optic,No,55,Medium,0
+1871-MOWRM,80.85,12,Month-to-month,Fiber optic,Yes,70,Medium,0
+1875-QIVME,104.4,2,Month-to-month,Fiber optic,Yes,95,High,0
+1891-FZYSA,89.95,69,Month-to-month,Fiber optic,Yes,70,Medium,0
+1891-UAWWU,90.8,20,Month-to-month,Fiber optic,Yes,80,High,0
+1894-IGFSG,89.25,22,Month-to-month,Fiber optic,Yes,80,High,0
+1899-VXWXM,106.1,48,One year,Fiber optic,Yes,55,Medium,0
+1902-XBTFB,89.4,22,Month-to-month,Fiber optic,Yes,80,High,0
+1907-UBQFC,72.85,10,Month-to-month,Fiber optic,Yes,80,High,0
+1910-FMXJM,80.4,36,Month-to-month,Fiber optic,No,60,Medium,0
+1915-IOFGU,70.5,1,Month-to-month,Fiber optic,Yes,90,High,0
+1918-ZBFQJ,79.25,13,Month-to-month,Fiber optic,Yes,70,Medium,0
+1925-TIBLE,86.5,7,Month-to-month,Fiber optic,Yes,90,High,0
+1930-WNXSB,92.85,58,Month-to-month,Fiber optic,No,70,Medium,0
+1932-UEDCX,100.6,33,Month-to-month,Fiber optic,No,70,Medium,0
+1935-IMVBB,89.7,56,Month-to-month,Fiber optic,No,70,Medium,0
+1941-HOSAM,90.1,1,Month-to-month,Fiber optic,No,100,High,0
+1950-KSVVJ,113.3,45,One year,Fiber optic,No,45,Medium,0
+1956-YIFGE,100.05,22,One year,Fiber optic,No,65,Medium,0
+1960-UYCNN,95.25,10,Month-to-month,Fiber optic,No,90,High,0
+1965-AKTSX,78.95,14,Month-to-month,Fiber optic,Yes,70,Medium,0
+1965-DDBWU,89.05,16,Month-to-month,Fiber optic,Yes,75,Medium,0
+1977-STDKI,73.0,1,Month-to-month,Fiber optic,Yes,90,High,0
+1980-KXVPM,75.05,3,Month-to-month,Fiber optic,Yes,90,High,0
+1981-INRFU,79.75,2,Month-to-month,Fiber optic,Yes,90,High,0
+1984-FCOWB,109.5,70,One year,Fiber optic,Yes,50,Medium,0
+1989-PRJHP,75.5,27,Month-to-month,Fiber optic,Yes,60,Medium,0
+1996-DBMUS,70.65,48,Month-to-month,Fiber optic,No,60,Medium,0
+2000-MPKCA,107.75,58,One year,Fiber optic,No,50,Medium,0
+2003-CKLOR,99.5,66,Month-to-month,Fiber optic,Yes,70,Medium,0
+2004-OCQXK,81.95,1,Month-to-month,Fiber optic,Yes,90,High,0
+2012-NWRPA,99.55,11,Month-to-month,Fiber optic,Yes,90,High,0
+2013-SGDXK,84.3,1,Month-to-month,Fiber optic,Yes,90,High,0
+2014-MKGMH,101.1,46,One year,Fiber optic,No,55,Medium,0
+2018-PZKMU,103.1,9,Month-to-month,Fiber optic,No,85,High,0
+2018-QKYGT,81.05,1,Month-to-month,Fiber optic,No,90,High,0
+2024-BASKD,74.6,1,Month-to-month,Fiber optic,Yes,90,High,0
+2025-JKFWI,99.0,13,Month-to-month,Fiber optic,Yes,75,Medium,0
+2026-TGDHM,79.3,7,Month-to-month,Fiber optic,Yes,80,High,0
+2027-CWDNU,85.6,18,Month-to-month,Fiber optic,No,75,Medium,0
+2027-FECZV,106.7,12,Month-to-month,Fiber optic,Yes,90,High,0
+2027-WKXMW,108.75,63,Month-to-month,Fiber optic,No,65,Medium,0
+2034-CGRHZ,102.95,24,Month-to-month,Fiber optic,Yes,80,High,0
+2034-GDRCN,90.4,2,Month-to-month,Fiber optic,Yes,100,High,0
+2037-SGXHH,94.65,38,Month-to-month,Fiber optic,Yes,70,Medium,0
+2037-XJFUP,95.8,33,One year,Fiber optic,Yes,55,Medium,0
+2038-LLMLM,103.85,48,Month-to-month,Fiber optic,No,65,Medium,0
+2038-OEQZH,86.05,4,Month-to-month,Fiber optic,No,100,High,0
+2040-OBMLJ,81.7,31,One year,Fiber optic,No,40,Medium,0
+2040-VZIKE,100.85,49,Month-to-month,Fiber optic,No,65,Medium,0
+2055-PDADH,70.4,3,Month-to-month,Fiber optic,Yes,90,High,0
+2056-EVGZL,105.75,68,One year,Fiber optic,No,50,Medium,0
+2057-ZBLPD,86.5,21,Month-to-month,Fiber optic,Yes,80,High,0
+2058-DCJBE,69.75,5,Month-to-month,Fiber optic,Yes,90,High,0
+2067-QYTCF,111.15,64,Month-to-month,Fiber optic,No,65,Medium,0
+2070-FNEXE,76.45,7,Month-to-month,Fiber optic,Yes,75,Medium,0
+2070-XYMFH,79.35,23,Month-to-month,Fiber optic,No,70,Medium,0
+2074-GKOWZ,89.55,2,Month-to-month,Fiber optic,Yes,100,High,0
+2074-GUHPQ,92.7,17,Month-to-month,Fiber optic,No,75,Medium,0
+2077-MPJQO,75.4,7,Month-to-month,Fiber optic,No,80,High,0
+2079-FBMZK,69.25,6,Month-to-month,Fiber optic,Yes,90,High,0
+2080-CAZNM,104.4,41,Month-to-month,Fiber optic,No,70,Medium,0
+2080-GKCWQ,74.95,2,Month-to-month,Fiber optic,No,90,High,0
+2081-VEYEH,107.95,3,Month-to-month,Fiber optic,No,95,High,0
+2082-OJVTK,89.2,29,Month-to-month,Fiber optic,Yes,70,Medium,0
+2085-BOJKI,96.65,17,One year,Fiber optic,No,65,Medium,0
+2091-RFFBA,73.9,31,Month-to-month,Fiber optic,Yes,60,Medium,0
+2101-RANCD,73.1,55,Month-to-month,Fiber optic,No,60,Medium,0
+2105-PHWON,95.0,33,Month-to-month,Fiber optic,No,65,Medium,0
+2107-FBPTK,104.1,30,Month-to-month,Fiber optic,No,70,Medium,0
+2114-MGINA,89.8,14,Month-to-month,Fiber optic,Yes,80,High,0
+2115-BFTIW,70.95,25,Month-to-month,Fiber optic,Yes,60,Medium,0
+2122-YWVYA,75.4,18,Month-to-month,Fiber optic,No,65,Medium,0
+2123-AGEEN,84.35,7,Month-to-month,Fiber optic,No,80,High,0
+2133-TSRRM,105.35,34,Month-to-month,Fiber optic,No,65,Medium,0
+2135-DQWAQ,85.3,5,Month-to-month,Fiber optic,No,100,High,0
+2139-FQHLM,89.95,19,Month-to-month,Fiber optic,No,75,Medium,0
+2144-BFDSO,108.75,50,Month-to-month,Fiber optic,No,65,Medium,0
+2153-MREFK,99.2,37,One year,Fiber optic,Yes,45,Medium,0
+2154-KVJFF,79.75,15,Month-to-month,Fiber optic,Yes,70,Medium,0
+2165-VOEGB,105.2,46,One year,Fiber optic,Yes,45,Medium,0
+2172-EJXVF,105.9,71,One year,Fiber optic,No,55,Medium,0
+2178-PMGCJ,69.7,22,Month-to-month,Fiber optic,No,70,Medium,0
+2180-DXNEG,96.0,12,Month-to-month,Fiber optic,Yes,90,High,0
+2187-PKZAY,79.95,12,Month-to-month,Fiber optic,No,80,High,0
+2189-WWOEW,85.9,15,Month-to-month,Fiber optic,Yes,80,High,0
+2190-BCXEC,78.85,40,Month-to-month,Fiber optic,No,55,Medium,0
+2195-ZRVAX,85.3,47,Month-to-month,Fiber optic,Yes,70,Medium,0
+2202-CUYXZ,84.85,1,Month-to-month,Fiber optic,Yes,90,High,0
+2203-GHNWN,79.65,24,Month-to-month,Fiber optic,No,70,Medium,0
+2205-LPVGL,89.85,58,One year,Fiber optic,No,45,Medium,0
+2205-YMZZJ,84.8,7,Month-to-month,Fiber optic,Yes,80,High,0
+2207-QPJED,90.0,37,Month-to-month,Fiber optic,No,65,Medium,0
+2208-NQBCT,81.95,26,Month-to-month,Fiber optic,No,55,Medium,0
+2208-UGTGR,98.6,56,Month-to-month,Fiber optic,No,70,Medium,0
+2215-ZAFGX,85.5,9,Month-to-month,Fiber optic,No,90,High,0
+2227-JRSJX,99.15,21,Month-to-month,Fiber optic,No,75,Medium,0
+2234-XADUH,103.2,72,One year,Fiber optic,No,55,Medium,0
+2237-ZFSMY,95.55,39,One year,Fiber optic,Yes,45,Medium,0
+2239-JALAW,103.25,58,One year,Fiber optic,Yes,55,Medium,0
+2240-HSJQD,81.85,38,Month-to-month,Fiber optic,No,60,Medium,0
+2242-MFOTG,80.1,33,One year,Fiber optic,No,40,Medium,0
+2249-YPRNG,105.85,20,Month-to-month,Fiber optic,Yes,80,High,0
+2250-IVBWA,81.05,64,Month-to-month,Fiber optic,No,55,Medium,0
+2252-ISRNH,90.35,9,One year,Fiber optic,No,75,Medium,0
+2252-JHJGE,104.0,61,One year,Fiber optic,No,50,Medium,0
+2254-DLXRI,79.15,1,Month-to-month,Fiber optic,No,90,High,0
+2260-USTRB,70.2,2,Month-to-month,Fiber optic,Yes,90,High,0
+2262-SLNVK,70.1,1,Month-to-month,Fiber optic,No,90,High,0
+2265-CYWIV,99.6,4,Month-to-month,Fiber optic,Yes,95,High,0
+2266-SJNAT,109.15,72,One year,Fiber optic,No,50,Medium,0
+2267-FPIMA,94.4,50,Month-to-month,Fiber optic,No,65,Medium,0
+2267-WTPYD,94.0,57,Month-to-month,Fiber optic,No,70,Medium,0
+2270-CHBFN,95.1,44,Month-to-month,Fiber optic,No,60,Medium,0
+2272-JKMSI,110.8,62,One year,Fiber optic,No,50,Medium,0
+2272-QAGFO,74.3,14,Month-to-month,Fiber optic,Yes,70,Medium,0
+2276-YDAVZ,75.1,3,Month-to-month,Fiber optic,Yes,90,High,0
+2277-DJJDL,99.0,60,Month-to-month,Fiber optic,No,65,Medium,0
+2279-AXJJK,95.65,52,Month-to-month,Fiber optic,No,65,Medium,0
+2284-VFLKH,99.25,49,One year,Fiber optic,No,50,Medium,0
+2293-IJWPS,100.75,57,One year,Fiber optic,No,55,Medium,0
+2294-SALNE,86.8,23,One year,Fiber optic,No,60,Medium,0
+2302-ANTDP,117.45,48,Month-to-month,Fiber optic,Yes,60,Medium,0
+2305-MRGLV,76.55,28,Month-to-month,Fiber optic,No,55,Medium,0
+2311-QYMUQ,89.45,16,Month-to-month,Fiber optic,Yes,80,High,0
+2322-VCZHZ,90.0,23,Month-to-month,Fiber optic,No,75,Medium,0
+2325-NBPZG,74.55,3,Month-to-month,Fiber optic,No,85,High,0
+2325-WINES,104.05,32,One year,Fiber optic,No,55,Medium,0
+2330-PQGDQ,84.2,51,One year,Fiber optic,No,40,Medium,0
+2344-JMOGN,94.85,9,Month-to-month,Fiber optic,Yes,85,High,0
+2347-WKKAE,94.4,42,Month-to-month,Fiber optic,No,65,Medium,0
+2357-COQEK,103.3,28,Month-to-month,Fiber optic,Yes,65,Medium,0
+2359-KLTEK,94.9,41,Month-to-month,Fiber optic,No,70,Medium,0
+2359-KMGLI,80.25,24,Month-to-month,Fiber optic,Yes,70,Medium,0
+2359-QWQUL,104.7,39,One year,Fiber optic,Yes,45,Medium,0
+2360-RDGRO,104.25,65,Month-to-month,Fiber optic,No,65,Medium,0
+2362-IBOOY,84.75,36,Month-to-month,Fiber optic,Yes,60,Medium,0
+2369-UAPKZ,104.1,5,Month-to-month,Fiber optic,Yes,100,High,0
+2371-JQHZZ,93.0,24,Month-to-month,Fiber optic,No,80,High,0
+2371-KFUOG,99.15,58,One year,Fiber optic,No,50,Medium,0
+2378-HTWFW,91.0,35,Month-to-month,Fiber optic,No,65,Medium,0
+2378-VTKDH,104.35,65,Month-to-month,Fiber optic,No,70,Medium,0
+2379-ENZGV,84.85,6,Month-to-month,Fiber optic,Yes,90,High,0
+2379-GYFLQ,94.9,46,One year,Fiber optic,No,55,Medium,0
+2382-BCKQJ,100.15,62,One year,Fiber optic,Yes,55,Medium,0
+2386-OWURY,95.3,58,Month-to-month,Fiber optic,No,65,Medium,0
+2397-BRLOM,80.45,8,Month-to-month,Fiber optic,Yes,80,High,0
+2398-YPMUR,70.15,13,Month-to-month,Fiber optic,Yes,70,Medium,0
+2402-TAIRZ,80.05,37,One year,Fiber optic,No,45,Medium,0
+2403-BCASL,111.95,41,One year,Fiber optic,Yes,50,Medium,0
+2408-TZMJL,110.15,59,One year,Fiber optic,Yes,50,Medium,0
+2424-WVHPL,74.7,1,Month-to-month,Fiber optic,No,85,High,0
+2430-USGXP,101.05,24,Month-to-month,Fiber optic,Yes,80,High,0
+2432-TFSMK,89.6,18,One year,Fiber optic,No,65,Medium,0
+2439-LYPMQ,102.6,38,Month-to-month,Fiber optic,No,70,Medium,0
+2446-BEGGB,98.25,6,Month-to-month,Fiber optic,Yes,100,High,0
+2446-PLQVO,70.3,1,Month-to-month,Fiber optic,Yes,90,High,0
+2452-KDRRH,101.4,67,Month-to-month,Fiber optic,No,70,Medium,0
+2452-SNHFZ,75.45,47,Month-to-month,Fiber optic,No,55,Medium,0
+2454-RPBRZ,98.1,12,Month-to-month,Fiber optic,Yes,90,High,0
+2455-USLMV,84.75,31,Month-to-month,Fiber optic,No,55,Medium,0
+2460-NGXBJ,75.2,11,Month-to-month,Fiber optic,No,80,High,0
+2462-XIIJB,92.5,5,Month-to-month,Fiber optic,Yes,100,High,0
+2468-SJFLM,74.3,1,Month-to-month,Fiber optic,No,85,High,0
+2472-OVKUP,91.0,6,Month-to-month,Fiber optic,Yes,100,High,0
+2474-BRUCM,101.85,40,Month-to-month,Fiber optic,Yes,65,Medium,0
+2475-MROZF,95.0,30,Month-to-month,Fiber optic,No,60,Medium,0
+2476-YGEFM,76.0,29,Month-to-month,Fiber optic,No,60,Medium,0
+2479-BRAMR,83.75,41,Month-to-month,Fiber optic,Yes,55,Medium,0
+2480-EJWYP,97.8,58,One year,Fiber optic,No,55,Medium,0
+2482-CZGBB,70.0,10,Month-to-month,Fiber optic,Yes,80,High,0
+2495-KZNFB,90.65,33,Month-to-month,Fiber optic,No,65,Medium,0
+2501-XWWTZ,70.2,11,Month-to-month,Fiber optic,No,80,High,0
+2504-DSHIH,86.8,23,Month-to-month,Fiber optic,No,80,High,0
+2506-CLAKW,98.15,6,Month-to-month,Fiber optic,Yes,90,High,0
+2506-TNFCO,69.55,1,Month-to-month,Fiber optic,Yes,90,High,0
+2507-QZPQS,95.7,15,Month-to-month,Fiber optic,No,75,Medium,0
+2514-GINMM,79.5,1,Month-to-month,Fiber optic,Yes,90,High,0
+2516-VQRRV,75.45,2,Month-to-month,Fiber optic,Yes,90,High,0
+2519-FAKOD,99.25,38,Month-to-month,Fiber optic,Yes,70,Medium,0
+2519-LBNQL,104.35,60,One year,Fiber optic,No,55,Medium,0
+2522-AHJXR,109.45,60,Month-to-month,Fiber optic,No,60,Medium,0
+2523-EWWZL,76.1,27,Month-to-month,Fiber optic,No,60,Medium,0
+2528-HFYZX,76.45,17,Month-to-month,Fiber optic,Yes,70,Medium,0
+2545-EBUPK,84.05,2,Month-to-month,Fiber optic,No,90,High,0
+2558-BUOZZ,94.8,47,One year,Fiber optic,No,50,Medium,0
+2560-PPCHE,105.05,65,One year,Fiber optic,No,50,Medium,0
+2568-BRGYX,70.2,4,Month-to-month,Fiber optic,Yes,90,High,0
+2568-OIADY,99.5,37,Month-to-month,Fiber optic,Yes,70,Medium,0
+2573-GYRUU,91.05,48,Month-to-month,Fiber optic,No,70,Medium,0
+2575-GFSOE,69.0,7,Month-to-month,Fiber optic,Yes,80,High,0
+2587-EKXTS,111.5,44,Month-to-month,Fiber optic,No,65,Medium,0
+2603-HVKCG,101.4,31,Month-to-month,Fiber optic,No,70,Medium,0
+2604-IJPDU,96.55,20,Month-to-month,Fiber optic,No,70,Medium,0
+2608-BHKFN,70.05,4,Month-to-month,Fiber optic,Yes,90,High,0
+2609-IAICY,77.15,1,Month-to-month,Fiber optic,Yes,90,High,0
+2612-RANWT,100.15,12,Month-to-month,Fiber optic,Yes,90,High,0
+2612-RRIDN,81.0,4,Month-to-month,Fiber optic,Yes,90,High,0
+2615-YVMYX,107.5,71,Month-to-month,Fiber optic,No,65,Medium,0
+2619-WFQWU,70.15,1,Month-to-month,Fiber optic,Yes,90,High,0
+2623-DRYAM,101.75,70,One year,Fiber optic,No,55,Medium,0
+2632-UCGVD,100.05,66,Month-to-month,Fiber optic,Yes,65,Medium,0
+2636-ALXXZ,69.6,1,Month-to-month,Fiber optic,Yes,90,High,0
+2636-SJDOU,84.3,64,One year,Fiber optic,No,40,Medium,0
+2640-PMGFL,79.5,27,Month-to-month,Fiber optic,Yes,55,Medium,0
+2642-DTVCO,85.05,9,Month-to-month,Fiber optic,Yes,90,High,0
+2645-QTLMB,94.25,7,Month-to-month,Fiber optic,Yes,90,High,0
+2656-FMOKZ,74.45,15,Month-to-month,Fiber optic,Yes,70,Medium,0
+2656-TABEH,100.2,4,Month-to-month,Fiber optic,Yes,100,High,0
+2657-ALMWY,84.95,26,Month-to-month,Fiber optic,Yes,60,Medium,0
+2657-VPXTA,88.85,10,Month-to-month,Fiber optic,No,90,High,0
+2659-VXMWZ,111.3,67,One year,Fiber optic,Yes,50,Medium,0
+2660-EMUBI,95.35,10,Month-to-month,Fiber optic,Yes,90,High,0
+2665-NPTGL,98.1,26,Month-to-month,Fiber optic,No,70,Medium,0
+2669-OIDSD,100.05,48,Month-to-month,Fiber optic,No,65,Medium,0
+2669-QVCRG,81.3,41,Month-to-month,Fiber optic,No,55,Medium,0
+2672-HUYVI,91.1,6,Month-to-month,Fiber optic,Yes,100,High,0
+2672-TGEFF,88.8,37,Month-to-month,Fiber optic,No,70,Medium,0
+2673-CXQEU,110.5,56,One year,Fiber optic,No,50,Medium,0
+2674-MIAHT,80.3,4,Month-to-month,Fiber optic,No,90,High,0
+2674-MLXMN,99.65,71,Month-to-month,Fiber optic,No,70,Medium,0
+2675-DHUTR,98.9,58,Month-to-month,Fiber optic,No,70,Medium,0
+2675-OTVVJ,89.45,31,Month-to-month,Fiber optic,No,65,Medium,0
+2683-BPJSO,84.45,29,Month-to-month,Fiber optic,Yes,55,Medium,0
+2684-EIWEO,91.7,30,Month-to-month,Fiber optic,Yes,65,Medium,0
+2685-SREOM,89.1,25,Month-to-month,Fiber optic,Yes,70,Medium,0
+2688-BHGOG,79.55,9,Month-to-month,Fiber optic,No,80,High,0
+2691-NZETQ,85.35,9,Month-to-month,Fiber optic,Yes,90,High,0
+2692-AQCPF,108.05,65,One year,Fiber optic,No,50,Medium,0
+2692-BUCFV,101.45,29,Month-to-month,Fiber optic,No,70,Medium,0
+2694-CIUMO,79.55,12,Month-to-month,Fiber optic,No,75,Medium,0
+2696-ECXKC,100.9,55,One year,Fiber optic,No,50,Medium,0
+2696-NARTR,73.85,11,Month-to-month,Fiber optic,Yes,75,Medium,0
+2697-NQBPF,105.35,34,Month-to-month,Fiber optic,No,65,Medium,0
+2716-GFZOR,86.1,43,Month-to-month,Fiber optic,No,65,Medium,0
+2719-BDAQO,93.85,17,Month-to-month,Fiber optic,Yes,75,Medium,0
+2720-WGKHP,94.0,2,Month-to-month,Fiber optic,Yes,100,High,0
+2722-VOJQL,105.65,64,One year,Fiber optic,Yes,50,Medium,0
+2725-KXXWT,90.75,1,Month-to-month,Fiber optic,Yes,100,High,0
+2731-GJRDG,109.55,32,One year,Fiber optic,No,45,Medium,0
+2737-YNGYW,80.55,2,Month-to-month,Fiber optic,Yes,90,High,0
+2739-CACDQ,82.65,17,Month-to-month,Fiber optic,No,70,Medium,0
+2748-MYRVK,99.9,63,One year,Fiber optic,Yes,55,Medium,0
+2750-BJLSB,103.7,47,One year,Fiber optic,No,45,Medium,0
+2754-SDJRD,100.15,8,Month-to-month,Fiber optic,No,85,High,0
+2754-VDLTR,95.2,10,Month-to-month,Fiber optic,Yes,90,High,0
+2754-XBHTB,77.65,9,Month-to-month,Fiber optic,Yes,80,High,0
+2758-RNWXS,89.2,35,One year,Fiber optic,No,45,Medium,0
+2761-OCIAX,74.7,2,Month-to-month,Fiber optic,Yes,90,High,0
+2774-LVQUS,83.05,15,Month-to-month,Fiber optic,Yes,65,Medium,0
+2777-PHDEI,78.05,1,Month-to-month,Fiber optic,Yes,90,High,0
+2786-GCDPI,104.95,50,Month-to-month,Fiber optic,No,65,Medium,0
+2789-HQBOU,80.35,3,Month-to-month,Fiber optic,No,90,High,0
+2790-XUYMV,85.45,71,One year,Fiber optic,No,50,Medium,0
+2792-LSHWX,83.4,1,Month-to-month,Fiber optic,No,80,High,0
+2796-UUZZO,80.3,63,Month-to-month,Fiber optic,No,60,Medium,0
+2799-ARNLO,69.35,5,Month-to-month,Fiber optic,No,90,High,0
+2800-QQUSO,100.3,42,Month-to-month,Fiber optic,No,65,Medium,0
+2800-VEQXM,74.75,3,Month-to-month,Fiber optic,No,90,High,0
+2805-EDJPQ,99.75,56,One year,Fiber optic,No,50,Medium,0
+2806-MLNTI,105.1,52,One year,Fiber optic,No,55,Medium,0
+2809-ZMYOQ,101.35,32,Month-to-month,Fiber optic,No,70,Medium,0
+2811-POVEX,88.45,23,Month-to-month,Fiber optic,No,80,High,0
+2815-CPTUL,70.25,5,Month-to-month,Fiber optic,Yes,90,High,0
+2823-LKABH,95.05,18,Month-to-month,Fiber optic,No,75,Medium,0
+2824-MYYBN,95.25,37,Month-to-month,Fiber optic,No,70,Medium,0
+2826-UWHIS,81.4,45,Month-to-month,Fiber optic,No,60,Medium,0
+2830-LEWOA,103.9,61,One year,Fiber optic,No,50,Medium,0
+2832-KJCRD,103.65,38,Month-to-month,Fiber optic,No,65,Medium,0
+2834-SPCJV,84.1,52,Month-to-month,Fiber optic,Yes,55,Medium,0
+2840-XANRC,93.15,24,Month-to-month,Fiber optic,Yes,80,High,0
+2842-BCQGE,75.35,43,Month-to-month,Fiber optic,No,60,Medium,0
+2845-AFFTX,99.8,41,Month-to-month,Fiber optic,Yes,70,Medium,0
+2845-HSJCY,87.25,14,Month-to-month,Fiber optic,Yes,80,High,0
+2856-HYAPG,68.65,1,Month-to-month,Fiber optic,Yes,90,High,0
+2856-NNASM,89.55,43,Month-to-month,Fiber optic,Yes,70,Medium,0
+2858-EIMXH,95.85,53,One year,Fiber optic,No,55,Medium,0
+2860-RANUS,85.8,20,Month-to-month,Fiber optic,Yes,80,High,0
+2865-TCHJW,89.2,4,Month-to-month,Fiber optic,Yes,100,High,0
+2867-UIMSS,80.5,1,Month-to-month,Fiber optic,Yes,90,High,0
+2868-LLSKM,83.65,68,One year,Fiber optic,No,40,Medium,0
+2868-MZAGQ,79.25,1,Month-to-month,Fiber optic,Yes,90,High,0
+2868-SNELZ,80.6,2,Month-to-month,Fiber optic,Yes,90,High,0
+2869-ADAWR,89.3,45,Month-to-month,Fiber optic,Yes,70,Medium,0
+2873-ZLIWT,84.85,40,Month-to-month,Fiber optic,Yes,55,Medium,0
+2874-YXVVA,105.1,34,Month-to-month,Fiber optic,No,65,Medium,0
+2876-GZYZC,85.95,13,Month-to-month,Fiber optic,No,80,High,0
+2880-FPNAE,74.2,2,Month-to-month,Fiber optic,No,90,High,0
+2883-ILGWO,104.9,57,Month-to-month,Fiber optic,No,65,Medium,0
+2884-GBPFB,70.3,35,Month-to-month,Fiber optic,Yes,60,Medium,0
+2886-KEFUM,107.5,63,One year,Fiber optic,Yes,55,Medium,0
+2889-FPWRM,117.8,72,One year,Fiber optic,Yes,45,Medium,0
+2896-TBNBE,80.8,40,One year,Fiber optic,No,45,Medium,0
+2897-DOVND,69.8,2,Month-to-month,Fiber optic,No,90,High,0
+2898-MRKPI,101.05,68,One year,Fiber optic,No,55,Medium,0
+2905-KFQUV,70.4,2,Month-to-month,Fiber optic,No,90,High,0
+2911-WDXMV,80.55,18,Month-to-month,Fiber optic,No,70,Medium,0
+2916-BQZLN,84.75,19,Month-to-month,Fiber optic,No,65,Medium,0
+2919-HBCJO,76.65,4,Month-to-month,Fiber optic,Yes,90,High,0
+2920-RNCEZ,69.95,1,Month-to-month,Fiber optic,No,90,High,0
+2921-XWDJH,83.45,38,Month-to-month,Fiber optic,No,55,Medium,0
+2924-KHUVI,100.55,56,One year,Fiber optic,No,50,Medium,0
+2927-QRRQV,94.65,46,One year,Fiber optic,No,55,Medium,0
+2929-ERCFZ,94.2,8,Month-to-month,Fiber optic,Yes,90,High,0
+2929-QNSRW,98.25,56,One year,Fiber optic,Yes,55,Medium,0
+2931-SVLTV,110.1,40,Month-to-month,Fiber optic,No,60,Medium,0
+2931-VUVJN,94.05,59,One year,Fiber optic,No,45,Medium,0
+2931-XIQBR,103.05,50,One year,Fiber optic,No,50,Medium,0
+2951-QOQTK,80.8,4,Month-to-month,Fiber optic,Yes,85,High,0
+2952-QAYZF,85.3,5,Month-to-month,Fiber optic,Yes,100,High,0
+2955-BJZHG,80.85,17,Month-to-month,Fiber optic,Yes,70,Medium,0
+2956-GGUCQ,78.85,24,Month-to-month,Fiber optic,Yes,65,Medium,0
+2957-JIRMN,84.45,62,One year,Fiber optic,No,45,Medium,0
+2959-FENLU,85.3,9,Month-to-month,Fiber optic,No,90,High,0
+2959-MJHIC,80.35,4,Month-to-month,Fiber optic,Yes,90,High,0
+2960-NKRSO,85.95,24,Month-to-month,Fiber optic,No,75,Medium,0
+2968-SSGAA,100.6,10,Month-to-month,Fiber optic,Yes,90,High,0
+2972-YDYUW,94.7,57,One year,Fiber optic,No,50,Medium,0
+2974-GGUXS,91.95,36,Month-to-month,Fiber optic,No,70,Medium,0
+2979-SXESE,94.4,17,Month-to-month,Fiber optic,Yes,75,Medium,0
+2982-IHMFT,74.45,1,Month-to-month,Fiber optic,Yes,90,High,0
+2982-VPSGI,94.0,11,Month-to-month,Fiber optic,Yes,90,High,0
+2983-ZANRP,73.55,2,Month-to-month,Fiber optic,Yes,90,High,0
+2984-AFWNC,95.4,3,Month-to-month,Fiber optic,No,100,High,0
+2984-MIIZL,74.8,4,Month-to-month,Fiber optic,Yes,90,High,0
+2985-FMWYF,93.5,23,Month-to-month,Fiber optic,No,80,High,0
+2988-GBIVW,90.85,70,Month-to-month,Fiber optic,No,65,Medium,0
+2990-HWIML,89.5,6,Month-to-month,Fiber optic,Yes,100,High,0
+2995-UPRYS,99.2,40,One year,Fiber optic,Yes,50,Medium,0
+3001-CBHLQ,104.9,32,Month-to-month,Fiber optic,Yes,65,Medium,0
+3001-UNBTL,103.95,29,Month-to-month,Fiber optic,No,70,Medium,0
+3002-WQZWT,74.2,29,Month-to-month,Fiber optic,No,60,Medium,0
+3003-CMDUU,95.15,25,Month-to-month,Fiber optic,No,65,Medium,0
+3005-NFMTA,98.8,55,Month-to-month,Fiber optic,Yes,65,Medium,0
+3005-TYFRD,103.65,55,Month-to-month,Fiber optic,No,70,Medium,0
+3006-XIMLN,94.2,2,Month-to-month,Fiber optic,Yes,100,High,0
+3009-JWMPU,96.75,62,One year,Fiber optic,Yes,55,Medium,0
+3014-WJKSM,75.3,29,Month-to-month,Fiber optic,No,60,Medium,0
+3018-TFTSU,81.7,12,Month-to-month,Fiber optic,Yes,75,Medium,0
+3023-GFLBR,86.15,33,Month-to-month,Fiber optic,Yes,70,Medium,0
+3027-ZTDHO,89.9,1,Month-to-month,Fiber optic,Yes,100,High,0
+3030-YDNRM,74.85,8,Month-to-month,Fiber optic,No,80,High,0
+3045-XETSH,94.85,10,Month-to-month,Fiber optic,Yes,90,High,0
+3049-NDXFL,85.8,1,Month-to-month,Fiber optic,Yes,100,High,0
+3049-SOLAY,95.2,3,Month-to-month,Fiber optic,Yes,100,High,0
+3055-OYMSE,73.8,53,Month-to-month,Fiber optic,No,60,Medium,0
+3058-HJCUY,102.6,41,One year,Fiber optic,Yes,50,Medium,0
+3062-ICYZQ,93.8,51,Month-to-month,Fiber optic,No,65,Medium,0
+3066-RRJIO,69.95,1,Month-to-month,Fiber optic,Yes,90,High,0
+3068-OMWZA,88.8,1,Month-to-month,Fiber optic,Yes,100,High,0
+3070-DVEYC,73.75,7,Month-to-month,Fiber optic,Yes,80,High,0
+3071-VBYPO,89.85,3,Month-to-month,Fiber optic,No,95,High,0
+3074-GQWYX,75.9,5,Month-to-month,Fiber optic,Yes,90,High,0
+3086-RUCRN,103.1,66,Month-to-month,Fiber optic,No,60,Medium,0
+3088-LHEFH,79.0,11,Month-to-month,Fiber optic,No,75,Medium,0
+3092-IGHWF,87.4,67,One year,Fiber optic,Yes,55,Medium,0
+3094-JOJAI,74.15,18,Month-to-month,Fiber optic,No,70,Medium,0
+3096-GKWEB,94.75,18,Month-to-month,Fiber optic,No,80,High,0
+3096-IZETN,78.1,12,Month-to-month,Fiber optic,Yes,80,High,0
+3096-JRDSO,104.3,27,Month-to-month,Fiber optic,Yes,60,Medium,0
+3096-WPXBT,100.7,61,One year,Fiber optic,No,50,Medium,0
+3097-NQYSN,86.85,2,Month-to-month,Fiber optic,Yes,100,High,0
+3104-OWCGK,90.95,60,One year,Fiber optic,Yes,55,Medium,0
+3106-ULWFW,85.2,8,Month-to-month,Fiber optic,Yes,90,High,0
+3115-JPJDD,81.25,59,One year,Fiber optic,No,40,Medium,0
+3128-YOVTD,79.15,51,Month-to-month,Fiber optic,No,55,Medium,0
+3130-ICDUP,80.55,2,Month-to-month,Fiber optic,No,85,High,0
+3138-BKYAV,85.35,6,Month-to-month,Fiber optic,Yes,100,High,0
+3143-ILDAL,94.45,56,Month-to-month,Fiber optic,Yes,65,Medium,0
+3143-JQEGI,88.35,13,Month-to-month,Fiber optic,Yes,80,High,0
+3144-KMTWZ,93.25,71,Month-to-month,Fiber optic,No,70,Medium,0
+3154-CFSZG,90.05,47,Month-to-month,Fiber optic,No,65,Medium,0
+3158-MOERK,96.0,2,Month-to-month,Fiber optic,Yes,100,High,0
+3161-GETRM,90.05,34,Month-to-month,Fiber optic,No,70,Medium,0
+3162-KKZXO,100.15,55,One year,Fiber optic,No,55,Medium,0
+3162-ZJZFU,92.55,53,Month-to-month,Fiber optic,No,65,Medium,0
+3167-SNQPL,101.15,38,Month-to-month,Fiber optic,No,70,Medium,0
+3170-GWYKC,104.95,60,Month-to-month,Fiber optic,No,60,Medium,0
+3174-RKMOW,109.95,35,Month-to-month,Fiber optic,No,65,Medium,0
+3177-LASXD,71.35,1,Month-to-month,Fiber optic,Yes,90,High,0
+3178-FESZO,100.25,1,Month-to-month,Fiber optic,Yes,100,High,0
+3186-BAXNB,91.7,1,Month-to-month,Fiber optic,Yes,95,High,0
+3190-XFANI,100.6,49,One year,Fiber optic,Yes,50,Medium,0
+3191-CSNMG,80.7,3,Month-to-month,Fiber optic,No,90,High,0
+3192-LNKRK,84.05,34,Month-to-month,Fiber optic,No,60,Medium,0
+3194-ORPIK,84.4,50,Month-to-month,Fiber optic,Yes,60,Medium,0
+3196-NVXLZ,84.6,25,Month-to-month,Fiber optic,No,60,Medium,0
+3197-ARFOY,105.0,19,Month-to-month,Fiber optic,No,70,Medium,0
+3198-VELRD,84.75,3,Month-to-month,Fiber optic,Yes,90,High,0
+3199-NPKCN,111.25,67,One year,Fiber optic,No,45,Medium,0
+3199-XGZCY,75.25,8,Month-to-month,Fiber optic,No,80,High,0
+3207-OYBWH,95.25,57,Month-to-month,Fiber optic,Yes,70,Medium,0
+3208-YPIOE,75.25,39,Month-to-month,Fiber optic,Yes,60,Medium,0
+3211-AAPKX,98.55,20,Month-to-month,Fiber optic,No,75,Medium,0
+3211-ILJTT,70.4,17,Month-to-month,Fiber optic,Yes,70,Medium,0
+3214-IYUUQ,93.7,61,One year,Fiber optic,No,45,Medium,0
+3217-FZDMN,94.45,8,Month-to-month,Fiber optic,Yes,90,High,0
+3223-DWFIO,69.35,4,Month-to-month,Fiber optic,No,90,High,0
+3223-WZWJM,83.95,26,Month-to-month,Fiber optic,Yes,60,Medium,0
+3224-DFQNQ,89.0,66,One year,Fiber optic,No,45,Medium,0
+3235-ETOOB,74.5,8,Month-to-month,Fiber optic,Yes,75,Medium,0
+3244-DCJWY,70.25,1,Month-to-month,Fiber optic,Yes,90,High,0
+3247-ZVOUO,85.55,10,Month-to-month,Fiber optic,Yes,90,High,0
+3249-ZPQRG,78.45,4,Month-to-month,Fiber optic,Yes,90,High,0
+3253-HKOKL,100.3,52,One year,Fiber optic,No,50,Medium,0
+3254-YRILK,88.2,19,Month-to-month,Fiber optic,Yes,80,High,0
+3269-ATYWD,95.65,39,Month-to-month,Fiber optic,Yes,70,Medium,0
+3276-HDUEG,75.05,1,Month-to-month,Fiber optic,Yes,90,High,0
+3292-PBZEJ,111.4,11,Month-to-month,Fiber optic,No,85,High,0
+3295-YVUSR,72.6,2,Month-to-month,Fiber optic,No,90,High,0
+3296-SILRA,76.4,1,Month-to-month,Fiber optic,Yes,90,High,0
+3301-VKTGC,85.5,68,One year,Fiber optic,No,50,Medium,0
+3312-UUMZW,98.85,32,Month-to-month,Fiber optic,No,70,Medium,0
+3312-ZWLGF,79.3,29,Month-to-month,Fiber optic,No,55,Medium,0
+3313-QKNKB,85.55,59,One year,Fiber optic,Yes,55,Medium,0
+3315-TOTBP,76.0,15,Month-to-month,Fiber optic,Yes,70,Medium,0
+3316-UWXUY,93.5,50,Month-to-month,Fiber optic,No,60,Medium,0
+3317-VLGQT,78.1,14,Month-to-month,Fiber optic,No,70,Medium,0
+3318-NMQXL,92.0,3,Month-to-month,Fiber optic,No,100,High,0
+3318-OSATS,95.45,35,Month-to-month,Fiber optic,Yes,70,Medium,0
+3319-DWOEP,95.75,6,Month-to-month,Fiber optic,Yes,100,High,0
+3320-VEOYC,95.6,14,Month-to-month,Fiber optic,No,80,High,0
+3323-CPBWR,96.9,23,Month-to-month,Fiber optic,No,75,Medium,0
+3324-OIRTO,104.65,71,One year,Fiber optic,No,50,Medium,0
+3325-FUYCG,106.1,28,One year,Fiber optic,Yes,50,Medium,0
+3327-YBAKM,96.9,64,One year,Fiber optic,No,45,Medium,0
+3331-HQDTW,109.8,34,Month-to-month,Fiber optic,Yes,65,Medium,0
+3336-JORSO,110.45,33,Month-to-month,Fiber optic,Yes,65,Medium,0
+3338-CVVEH,94.55,12,Month-to-month,Fiber optic,No,90,High,0
+3339-EAQNV,97.25,72,One year,Fiber optic,No,55,Medium,0
+3348-CFRNX,92.35,28,Month-to-month,Fiber optic,Yes,65,Medium,0
+3349-ANQNH,99.5,59,One year,Fiber optic,No,55,Medium,0
+3351-NQLDI,94.35,67,One year,Fiber optic,Yes,45,Medium,0
+3352-ALMCK,102.65,40,Month-to-month,Fiber optic,No,70,Medium,0
+3365-SAIGS,83.55,17,Month-to-month,Fiber optic,No,70,Medium,0
+3370-GQEAL,85.45,30,Month-to-month,Fiber optic,No,70,Medium,0
+3370-HXOPH,76.1,3,Month-to-month,Fiber optic,No,90,High,0
+3372-KWFBM,86.6,16,Month-to-month,Fiber optic,Yes,80,High,0
+3374-LXDEV,89.4,13,Month-to-month,Fiber optic,Yes,75,Medium,0
+3376-BMGFE,70.9,4,Month-to-month,Fiber optic,Yes,90,High,0
+3384-CTMSF,104.1,47,Month-to-month,Fiber optic,No,70,Medium,0
+3387-VATUS,94.85,5,Month-to-month,Fiber optic,Yes,100,High,0
+3389-YGYAI,105.5,8,Month-to-month,Fiber optic,Yes,90,High,0
+3393-FMZPV,100.25,25,Month-to-month,Fiber optic,Yes,70,Medium,0
+3398-FSHON,91.3,12,Month-to-month,Fiber optic,Yes,90,High,0
+3398-ZOUAA,69.1,21,Month-to-month,Fiber optic,Yes,70,Medium,0
+3404-JNXAX,80.75,51,Month-to-month,Fiber optic,No,55,Medium,0
+3410-MHHUM,94.4,44,One year,Fiber optic,No,55,Medium,0
+3411-WLRSQ,74.6,3,Month-to-month,Fiber optic,No,90,High,0
+3413-DHLPB,103.75,60,Month-to-month,Fiber optic,No,65,Medium,0
+3419-SNJJD,105.25,65,Month-to-month,Fiber optic,Yes,65,Medium,0
+3420-YJLQT,79.55,2,Month-to-month,Fiber optic,No,90,High,0
+3420-ZDBMA,71.45,5,Month-to-month,Fiber optic,No,90,High,0
+3422-GALYP,79.45,2,Month-to-month,Fiber optic,No,90,High,0
+3422-LYEPQ,71.0,1,Month-to-month,Fiber optic,Yes,90,High,0
+3424-NMNBO,108.85,58,One year,Fiber optic,Yes,50,Medium,0
+3427-GGZZI,89.1,19,Month-to-month,Fiber optic,No,80,High,0
+3428-XZMAZ,69.35,1,Month-to-month,Fiber optic,Yes,90,High,0
+3440-JPSCL,99.95,6,Month-to-month,Fiber optic,Yes,95,High,0
+3452-ABWRL,86.05,47,Month-to-month,Fiber optic,No,70,Medium,0
+3452-GWUIN,94.95,19,Month-to-month,Fiber optic,No,80,High,0
+3452-SRFEG,74.6,49,Month-to-month,Fiber optic,No,60,Medium,0
+3453-RTHJQ,69.1,6,Month-to-month,Fiber optic,No,90,High,0
+3462-BJQQA,89.75,6,Month-to-month,Fiber optic,No,100,High,0
+3466-RITXD,92.4,26,Month-to-month,Fiber optic,No,65,Medium,0
+3473-XIIIT,100.0,16,Month-to-month,Fiber optic,Yes,80,High,0
+3481-JHUZH,80.25,41,Month-to-month,Fiber optic,No,60,Medium,0
+3488-PGMQJ,74.5,8,Month-to-month,Fiber optic,Yes,80,High,0
+3489-HHPFY,84.05,2,Month-to-month,Fiber optic,No,90,High,0
+3494-JCHRQ,70.05,1,Month-to-month,Fiber optic,Yes,90,High,0
+3496-LFSZU,70.5,4,Month-to-month,Fiber optic,No,90,High,0
+3500-RMZLT,96.3,15,Month-to-month,Fiber optic,Yes,70,Medium,0
+3503-TYDAY,80.45,43,Month-to-month,Fiber optic,No,60,Medium,0
+3509-GWQGF,70.0,24,Month-to-month,Fiber optic,No,70,Medium,0
+3511-APPBJ,99.95,23,One year,Fiber optic,No,60,Medium,0
+3519-ZKXGG,75.85,3,Month-to-month,Fiber optic,Yes,90,High,0
+3522-CDKHF,75.5,32,Month-to-month,Fiber optic,No,55,Medium,0
+3524-WQDSG,99.3,43,Month-to-month,Fiber optic,No,70,Medium,0
+3536-IQCTX,85.3,32,Month-to-month,Fiber optic,Yes,70,Medium,0
+3537-HPKQT,77.75,55,Month-to-month,Fiber optic,No,60,Medium,0
+3540-RZJYU,86.2,15,Month-to-month,Fiber optic,Yes,75,Medium,0
+3541-ZNUHK,85.1,55,Month-to-month,Fiber optic,No,65,Medium,0
+3545-CNWRG,98.35,49,Month-to-month,Fiber optic,No,70,Medium,0
+3550-SAHFP,83.35,33,Month-to-month,Fiber optic,Yes,60,Medium,0
+3551-HUAZH,74.4,1,Month-to-month,Fiber optic,Yes,90,High,0
+3565-UNOCC,99.05,29,Month-to-month,Fiber optic,Yes,70,Medium,0
+3567-PQTSO,105.25,53,One year,Fiber optic,No,55,Medium,0
+3569-EDBPQ,84.35,24,Month-to-month,Fiber optic,No,60,Medium,0
+3571-DPYUH,94.7,58,One year,Fiber optic,No,50,Medium,0
+3571-RFHAR,109.15,65,Month-to-month,Fiber optic,Yes,65,Medium,0
+3572-UOLYZ,84.8,46,Month-to-month,Fiber optic,No,55,Medium,0
+3583-KRKMD,75.9,18,Month-to-month,Fiber optic,No,65,Medium,0
+3584-WKTTW,111.55,51,One year,Fiber optic,No,45,Medium,0
+3585-ISXZP,95.65,8,Month-to-month,Fiber optic,Yes,90,High,0
+3587-PMCOY,98.9,10,One year,Fiber optic,No,70,Medium,0
+3588-WSTTJ,99.05,35,Month-to-month,Fiber optic,No,65,Medium,0
+3597-MVHJT,95.6,27,Month-to-month,Fiber optic,No,70,Medium,0
+3606-TWKGI,106.9,13,Month-to-month,Fiber optic,Yes,80,High,0
+3621-CEOVK,100.2,14,Month-to-month,Fiber optic,Yes,80,High,0
+3627-FCRDW,71.0,9,Month-to-month,Fiber optic,Yes,80,High,0
+3627-FHKBK,75.3,1,Month-to-month,Fiber optic,Yes,85,High,0
+3629-ZNKXA,101.8,17,Month-to-month,Fiber optic,No,80,High,0
+3640-PHQXK,89.9,31,Month-to-month,Fiber optic,Yes,70,Medium,0
+3642-GKTCT,115.1,61,One year,Fiber optic,No,45,Medium,0
+3643-AHCFP,95.6,7,Month-to-month,Fiber optic,Yes,90,High,0
+3644-QXEHN,97.0,13,Month-to-month,Fiber optic,No,80,High,0
+3647-GMGDH,94.7,22,Month-to-month,Fiber optic,Yes,80,High,0
+3657-COGMW,108.1,52,Month-to-month,Fiber optic,No,65,Medium,0
+3663-MITLP,101.25,15,Month-to-month,Fiber optic,Yes,80,High,0
+3671-SHRSP,80.6,4,Month-to-month,Fiber optic,Yes,85,High,0
+3672-YITQD,84.1,36,Month-to-month,Fiber optic,Yes,60,Medium,0
+3677-TNKIO,71.0,14,Month-to-month,Fiber optic,Yes,70,Medium,0
+3680-CTHUH,116.6,60,One year,Fiber optic,No,45,Medium,0
+3685-YLCMQ,104.65,58,One year,Fiber optic,Yes,50,Medium,0
+3692-JHONH,106.5,52,One year,Fiber optic,No,55,Medium,0
+3703-KBKZP,74.45,16,Month-to-month,Fiber optic,No,70,Medium,0
+3703-VAVCL,90.0,2,Month-to-month,Fiber optic,Yes,95,High,0
+3707-GNWHM,74.25,1,Month-to-month,Fiber optic,Yes,90,High,0
+3707-LRWZD,84.05,32,One year,Fiber optic,Yes,45,Medium,0
+3709-OIJEA,85.2,26,One year,Fiber optic,No,50,Medium,0
+3714-JTVOV,74.15,42,Month-to-month,Fiber optic,Yes,55,Medium,0
+3714-NTNFO,84.5,49,Month-to-month,Fiber optic,No,60,Medium,0
+3716-BDVDB,69.1,1,Month-to-month,Fiber optic,Yes,90,High,0
+3717-LNXKW,91.7,38,Month-to-month,Fiber optic,No,65,Medium,0
+3717-OEAUQ,70.7,2,Month-to-month,Fiber optic,No,90,High,0
+3721-CNEYS,70.95,2,Month-to-month,Fiber optic,Yes,90,High,0
+3722-WPXTK,88.35,1,Month-to-month,Fiber optic,Yes,100,High,0
+3727-RJMEO,82.85,6,Month-to-month,Fiber optic,Yes,90,High,0
+3733-LSYCE,75.35,15,Month-to-month,Fiber optic,No,70,Medium,0
+3733-UOCWF,85.55,61,One year,Fiber optic,No,50,Medium,0
+3736-BLEPA,91.25,28,One year,Fiber optic,No,50,Medium,0
+3737-GCSPV,96.2,11,Month-to-month,Fiber optic,Yes,80,High,0
+3737-XBQDD,84.85,24,Month-to-month,Fiber optic,No,70,Medium,0
+3744-ZRRDZ,82.35,21,Month-to-month,Fiber optic,Yes,70,Medium,0
+3746-EUBYR,74.6,1,Month-to-month,Fiber optic,Yes,90,High,0
+3750-CKVKH,67.75,2,Month-to-month,Fiber optic,Yes,90,High,0
+3753-TSEMP,88.15,15,Month-to-month,Fiber optic,Yes,80,High,0
+3755-JBMNH,71.8,16,Month-to-month,Fiber optic,Yes,70,Medium,0
+3756-VNWDH,100.75,65,One year,Fiber optic,No,50,Medium,0
+3757-NJYBX,106.35,32,Month-to-month,Fiber optic,Yes,70,Medium,0
+3758-CKOQL,107.0,59,One year,Fiber optic,No,45,Medium,0
+3761-FLYZI,108.8,65,Month-to-month,Fiber optic,No,70,Medium,0
+3763-GCZHZ,104.05,66,One year,Fiber optic,Yes,50,Medium,0
+3765-JXVKY,74.7,1,Month-to-month,Fiber optic,Yes,90,High,0
+3768-NLUBH,100.6,57,Month-to-month,Fiber optic,Yes,70,Medium,0
+3771-PZOBW,90.7,20,Month-to-month,Fiber optic,No,80,High,0
+3786-WOVKF,106.85,72,One year,Fiber optic,No,50,Medium,0
+3791-LGQCY,100.65,56,Month-to-month,Fiber optic,Yes,70,Medium,0
+3793-MMFUH,95.05,13,Month-to-month,Fiber optic,Yes,80,High,0
+3797-FKOGQ,86.2,11,Month-to-month,Fiber optic,No,90,High,0
+3799-ISUZQ,69.95,7,Month-to-month,Fiber optic,Yes,80,High,0
+3801-HMYNL,89.15,1,Month-to-month,Fiber optic,Yes,100,High,0
+3804-RVTGV,103.85,50,Month-to-month,Fiber optic,Yes,70,Medium,0
+3807-BPOMJ,94.75,55,One year,Fiber optic,No,50,Medium,0
+3811-VBYBZ,99.8,7,Month-to-month,Fiber optic,Yes,90,High,0
+3814-MLAXC,79.85,31,Month-to-month,Fiber optic,Yes,55,Medium,0
+3834-XUIFC,85.2,7,Month-to-month,Fiber optic,Yes,90,High,0
+3838-OZURD,105.0,66,Month-to-month,Fiber optic,Yes,70,Medium,0
+3842-IYKUE,85.3,35,Month-to-month,Fiber optic,Yes,65,Medium,0
+3842-QTGDL,80.75,16,Month-to-month,Fiber optic,No,65,Medium,0
+3853-LYGAM,95.65,17,Month-to-month,Fiber optic,No,75,Medium,0
+3855-ONCAR,78.9,4,Month-to-month,Fiber optic,No,90,High,0
+3858-VOBET,74.95,23,Month-to-month,Fiber optic,Yes,70,Medium,0
+3858-XHYJO,105.75,40,One year,Fiber optic,No,50,Medium,0
+3865-QBWSJ,80.45,38,Month-to-month,Fiber optic,No,55,Medium,0
+3865-YIOTT,106.1,72,One year,Fiber optic,No,50,Medium,0
+3865-ZYKAD,84.9,69,Month-to-month,Fiber optic,No,55,Medium,0
+3870-MQAMG,110.35,54,One year,Fiber optic,Yes,50,Medium,0
+3871-IKPYH,69.1,1,Month-to-month,Fiber optic,Yes,90,High,0
+3874-EQOEP,95.0,7,Month-to-month,Fiber optic,Yes,90,High,0
+3878-AVSOQ,71.25,1,Month-to-month,Fiber optic,No,90,High,0
+3884-HCSWG,70.0,17,Month-to-month,Fiber optic,Yes,70,Medium,0
+3886-CERTZ,109.25,72,One year,Fiber optic,Yes,50,Medium,0
+3898-GUYTS,97.05,45,Month-to-month,Fiber optic,No,60,Medium,0
+3902-FOIGH,101.35,12,Month-to-month,Fiber optic,Yes,90,High,0
+3904-UKFRE,80.1,4,Month-to-month,Fiber optic,No,85,High,0
+3908-BLSYF,83.9,6,Month-to-month,Fiber optic,Yes,90,High,0
+3914-FDRHP,86.25,9,Month-to-month,Fiber optic,No,85,High,0
+3916-NRPAP,85.7,3,Month-to-month,Fiber optic,No,100,High,0
+3923-CSIHK,71.05,50,Month-to-month,Fiber optic,Yes,60,Medium,0
+3927-NLNRY,94.25,53,One year,Fiber optic,Yes,55,Medium,0
+3932-CMDTD,105.65,4,One year,Fiber optic,Yes,80,High,0
+3932-IJWDZ,103.65,45,Month-to-month,Fiber optic,No,65,Medium,0
+3934-HXCFZ,99.25,23,Month-to-month,Fiber optic,Yes,75,Medium,0
+3943-KDREE,74.95,26,Month-to-month,Fiber optic,Yes,60,Medium,0
+3946-JEWRQ,95.2,47,One year,Fiber optic,No,55,Medium,0
+3951-NJCVI,95.05,42,Month-to-month,Fiber optic,No,70,Medium,0
+3955-JBZZM,78.8,20,Month-to-month,Fiber optic,No,70,Medium,0
+3956-CJUST,75.4,23,Month-to-month,Fiber optic,No,65,Medium,0
+3956-MGXOG,80.6,28,Month-to-month,Fiber optic,No,60,Medium,0
+3957-LXOLK,106.15,28,Month-to-month,Fiber optic,Yes,70,Medium,0
+3966-HRMZA,75.05,3,Month-to-month,Fiber optic,No,90,High,0
+3969-GYXEL,76.4,11,Month-to-month,Fiber optic,No,75,Medium,0
+3976-BWUCK,94.1,30,Month-to-month,Fiber optic,Yes,65,Medium,0
+3982-DQLUS,85.75,65,Month-to-month,Fiber optic,No,65,Medium,0
+3987-KQDDU,75.6,9,Month-to-month,Fiber optic,No,75,Medium,0
+3988-RQIXO,91.3,1,Month-to-month,Fiber optic,Yes,100,High,0
+3990-QYKBE,92.5,37,Month-to-month,Fiber optic,Yes,70,Medium,0
+3992-YWPKO,109.9,6,Month-to-month,Fiber optic,Yes,95,High,0
+3999-QGRJH,69.7,8,Month-to-month,Fiber optic,Yes,80,High,0
+4001-TSBTV,91.55,58,Month-to-month,Fiber optic,No,70,Medium,0
+4007-NHVHI,96.85,56,Month-to-month,Fiber optic,No,65,Medium,0
+4009-ALQFH,99.5,25,Month-to-month,Fiber optic,Yes,70,Medium,0
+4010-YLMVT,106.6,56,Month-to-month,Fiber optic,No,65,Medium,0
+4013-TLDHQ,78.25,19,Month-to-month,Fiber optic,Yes,70,Medium,0
+4021-RQSNY,98.5,29,Month-to-month,Fiber optic,Yes,70,Medium,0
+4029-HPFVY,70.3,3,Month-to-month,Fiber optic,No,90,High,0
+4039-HEUNW,96.5,36,Month-to-month,Fiber optic,Yes,70,Medium,0
+4059-IIEBK,78.55,7,Month-to-month,Fiber optic,No,80,High,0
+4060-LDNLU,96.2,7,Month-to-month,Fiber optic,No,90,High,0
+4062-HBMOS,103.05,52,Month-to-month,Fiber optic,No,70,Medium,0
+4067-HLYQI,70.4,33,Month-to-month,Fiber optic,No,60,Medium,0
+4070-OKWVH,94.6,52,Month-to-month,Fiber optic,No,70,Medium,0
+4075-JFPGR,93.5,51,One year,Fiber optic,No,50,Medium,0
+4077-CROMM,104.2,31,Month-to-month,Fiber optic,Yes,65,Medium,0
+4078-SAYYN,100.75,11,Month-to-month,Fiber optic,Yes,90,High,0
+4083-BFNYK,95.0,38,One year,Fiber optic,No,50,Medium,0
+4086-YQSNZ,80.4,3,Month-to-month,Fiber optic,Yes,90,High,0
+4088-YLDSU,104.15,55,One year,Fiber optic,Yes,50,Medium,0
+4090-KPJIP,74.95,3,Month-to-month,Fiber optic,No,90,High,0
+4094-NSEDU,94.25,21,Month-to-month,Fiber optic,Yes,80,High,0
+4097-YODCF,103.8,34,One year,Fiber optic,No,50,Medium,0
+4098-NAUKP,84.65,68,Month-to-month,Fiber optic,No,60,Medium,0
+4102-OQUPX,74.4,1,Month-to-month,Fiber optic,Yes,90,High,0
+4110-PFEUZ,69.55,1,Month-to-month,Fiber optic,Yes,90,High,0
+4112-LUEIZ,89.5,10,Month-to-month,Fiber optic,Yes,90,High,0
+4115-NZRKS,89.15,7,Month-to-month,Fiber optic,No,90,High,0
+4116-TZAQJ,74.25,9,Month-to-month,Fiber optic,Yes,75,Medium,0
+4118-CEVPF,110.8,35,One year,Fiber optic,No,45,Medium,0
+4123-DVHPH,88.05,9,Month-to-month,Fiber optic,No,85,High,0
+4124-MMETB,94.65,22,Month-to-month,Fiber optic,Yes,80,High,0
+4128-ETESU,99.7,47,Month-to-month,Fiber optic,No,70,Medium,0
+4132-KALRO,100.85,4,Month-to-month,Fiber optic,No,95,High,0
+4137-BTIKL,90.75,2,Month-to-month,Fiber optic,No,95,High,0
+4138-NAXED,81.0,51,Month-to-month,Fiber optic,No,60,Medium,0
+4140-MUHUG,86.85,3,Month-to-month,Fiber optic,Yes,100,High,0
+4143-HHPMK,85.35,52,Month-to-month,Fiber optic,Yes,70,Medium,0
+4143-OOBWZ,81.3,5,Month-to-month,Fiber optic,Yes,90,High,0
+4145-UQXUQ,92.1,8,Month-to-month,Fiber optic,Yes,90,High,0
+4154-AQUGT,89.05,13,Month-to-month,Fiber optic,Yes,75,Medium,0
+4176-FXYBO,109.55,54,Month-to-month,Fiber optic,No,65,Medium,0
+4183-MYFRB,90.05,21,Month-to-month,Fiber optic,No,80,High,0
+4183-WCSEP,78.45,31,Month-to-month,Fiber optic,Yes,55,Medium,0
+4184-TJFAN,88.3,3,Month-to-month,Fiber optic,Yes,90,High,0
+4184-VODJZ,91.35,63,One year,Fiber optic,No,55,Medium,0
+4187-CINZD,95.25,46,One year,Fiber optic,Yes,55,Medium,0
+4188-FRABG,103.05,57,Month-to-month,Fiber optic,No,60,Medium,0
+4191-XOVOM,105.4,63,Month-to-month,Fiber optic,No,65,Medium,0
+4192-GORJT,94.45,5,Month-to-month,Fiber optic,Yes,100,High,0
+4194-WHFCB,96.65,59,Month-to-month,Fiber optic,No,65,Medium,0
+4210-QFJMF,79.15,4,Month-to-month,Fiber optic,Yes,90,High,0
+4220-TINQT,106.35,61,Month-to-month,Fiber optic,No,65,Medium,0
+4228-ZGYUW,90.05,4,Month-to-month,Fiber optic,Yes,100,High,0
+4229-CZMLL,74.9,6,Month-to-month,Fiber optic,Yes,90,High,0
+4234-XTNEA,79.95,2,Month-to-month,Fiber optic,No,90,High,0
+4236-XPXAV,99.15,5,Month-to-month,Fiber optic,Yes,95,High,0
+4238-HFHSN,82.15,61,Month-to-month,Fiber optic,No,60,Medium,0
+4238-JSSWH,102.05,35,Month-to-month,Fiber optic,No,70,Medium,0
+4248-HCETZ,79.65,30,Month-to-month,Fiber optic,Yes,60,Medium,0
+4248-QPAVC,85.35,17,Month-to-month,Fiber optic,Yes,75,Medium,0
+4250-WAROZ,93.25,60,Month-to-month,Fiber optic,No,65,Medium,0
+4250-ZBWLV,108.45,68,One year,Fiber optic,Yes,50,Medium,0
+4273-MBHYA,89.35,1,Month-to-month,Fiber optic,No,100,High,0
+4274-DRSQT,88.9,66,One year,Fiber optic,No,55,Medium,0
+4274-OWWYO,74.35,1,Month-to-month,Fiber optic,Yes,90,High,0
+4277-PVRAN,80.1,8,Month-to-month,Fiber optic,Yes,80,High,0
+4282-MSACW,117.2,68,One year,Fiber optic,No,45,Medium,0
+4282-YMKNA,74.75,9,Month-to-month,Fiber optic,Yes,80,High,0
+4283-FUTGF,79.85,19,Month-to-month,Fiber optic,Yes,70,Medium,0
+4285-GYRQC,86.25,7,Month-to-month,Fiber optic,Yes,90,High,0
+4289-DTDKW,101.3,40,Month-to-month,Fiber optic,Yes,70,Medium,0
+4290-BSXUX,79.65,3,Month-to-month,Fiber optic,Yes,85,High,0
+4291-SHSBH,69.55,7,Month-to-month,Fiber optic,No,80,High,0
+4298-OYIFC,103.45,15,Month-to-month,Fiber optic,No,75,Medium,0
+4299-SIMNS,81.15,9,Month-to-month,Fiber optic,No,75,Medium,0
+4301-VVZKA,75.4,16,Month-to-month,Fiber optic,No,70,Medium,0
+4307-KTUMW,93.9,53,Month-to-month,Fiber optic,Yes,65,Medium,0
+4315-MURBD,98.9,12,Month-to-month,Fiber optic,Yes,80,High,0
+4323-OHFOW,105.55,70,One year,Fiber optic,No,50,Medium,0
+4325-NFSKC,90.6,19,Month-to-month,Fiber optic,Yes,75,Medium,0
+4329-YPDDQ,108.2,20,Month-to-month,Fiber optic,No,70,Medium,0
+4332-MUOEZ,94.3,20,One year,Fiber optic,No,55,Medium,0
+4342-HENTK,70.65,2,Month-to-month,Fiber optic,Yes,90,High,0
+4343-EJVQB,74.35,7,Month-to-month,Fiber optic,No,75,Medium,0
+4350-ZTLPI,108.95,53,One year,Fiber optic,No,50,Medium,0
+4355-CVPVS,88.9,56,One year,Fiber optic,No,55,Medium,0
+4360-PNRQB,75.6,18,Month-to-month,Fiber optic,No,70,Medium,0
+4361-BKAXE,114.5,41,Month-to-month,Fiber optic,Yes,60,Medium,0
+4369-HTUIF,85.15,6,Month-to-month,Fiber optic,Yes,95,High,0
+4373-MAVJG,90.9,14,Month-to-month,Fiber optic,Yes,80,High,0
+4374-YMUSQ,116.25,34,One year,Fiber optic,No,45,Medium,0
+4377-VDHYI,90.8,32,One year,Fiber optic,No,50,Medium,0
+4385-GZQXV,94.45,16,Month-to-month,Fiber optic,Yes,75,Medium,0
+4391-LNRXK,94.95,22,Month-to-month,Fiber optic,No,75,Medium,0
+4391-RESHN,104.05,23,Month-to-month,Fiber optic,Yes,75,Medium,0
+4393-RYCRE,106.05,44,One year,Fiber optic,No,50,Medium,0
+4395-PZMSN,85.55,5,Month-to-month,Fiber optic,No,100,High,0
+4402-FTBXC,89.8,54,Month-to-month,Fiber optic,No,65,Medium,0
+4412-YLTKF,78.05,27,Month-to-month,Fiber optic,Yes,60,Medium,0
+4415-IJZTP,74.5,1,Month-to-month,Fiber optic,Yes,90,High,0
+4423-JWZJN,90.25,64,One year,Fiber optic,No,55,Medium,0
+4423-YLHDV,104.4,21,Month-to-month,Fiber optic,Yes,75,Medium,0
+4424-TKOPW,93.85,2,Month-to-month,Fiber optic,Yes,100,High,0
+4433-JCGCG,101.0,46,Month-to-month,Fiber optic,Yes,70,Medium,0
+4439-JMPMT,85.75,5,Month-to-month,Fiber optic,Yes,95,High,0
+4441-NIHPT,74.3,13,Month-to-month,Fiber optic,Yes,70,Medium,0
+4445-ZJNMU,99.3,9,Month-to-month,Fiber optic,No,90,High,0
+4446-BZKHU,105.55,61,Month-to-month,Fiber optic,Yes,70,Medium,0
+4450-DLLMH,71.3,2,Month-to-month,Fiber optic,No,90,High,0
+4450-MDZFX,74.35,60,Month-to-month,Fiber optic,No,60,Medium,0
+4455-BFSPD,101.15,61,One year,Fiber optic,No,50,Medium,0
+4462-CYWMH,89.8,62,Month-to-month,Fiber optic,No,70,Medium,0
+4465-VDKIQ,77.8,18,Month-to-month,Fiber optic,No,70,Medium,0
+4471-KXAUH,84.3,42,Month-to-month,Fiber optic,Yes,55,Medium,0
+4472-VESGY,98.15,52,Month-to-month,Fiber optic,No,65,Medium,0
+4476-OSWTN,110.55,69,One year,Fiber optic,No,45,Medium,0
+4480-MBMLB,104.8,36,One year,Fiber optic,No,55,Medium,0
+4480-QQRHC,74.05,8,Month-to-month,Fiber optic,No,80,High,0
+4482-EWFMI,69.7,2,Month-to-month,Fiber optic,No,90,High,0
+4484-GLZOU,105.05,52,Month-to-month,Fiber optic,Yes,70,Medium,0
+4488-KQFDT,103.95,61,One year,Fiber optic,No,55,Medium,0
+4501-EQDRN,69.7,1,Month-to-month,Fiber optic,Yes,90,High,0
+4503-BDXBD,74.95,11,Month-to-month,Fiber optic,Yes,80,High,0
+4505-EXZHB,74.4,6,Month-to-month,Fiber optic,Yes,90,High,0
+4510-HIMLV,69.8,1,Month-to-month,Fiber optic,Yes,90,High,0
+4512-ZUIYL,70.0,2,Month-to-month,Fiber optic,Yes,90,High,0
+4514-GFCFI,84.75,16,Month-to-month,Fiber optic,Yes,70,Medium,0
+4521-YEEHE,88.85,18,Month-to-month,Fiber optic,No,75,Medium,0
+4523-WXCEF,101.1,59,Month-to-month,Fiber optic,Yes,70,Medium,0
+4525-VZCZG,105.85,54,One year,Fiber optic,No,45,Medium,0
+4526-ZJJTM,88.4,25,Month-to-month,Fiber optic,No,70,Medium,0
+4529-CKBCL,80.2,2,Month-to-month,Fiber optic,Yes,90,High,0
+4531-AUZNK,95.15,51,One year,Fiber optic,No,45,Medium,0
+4536-PLEQY,85.05,12,Month-to-month,Fiber optic,No,90,High,0
+4546-FOKWR,74.75,16,Month-to-month,Fiber optic,No,70,Medium,0
+4547-KQRTM,80.05,10,Month-to-month,Fiber optic,Yes,80,High,0
+4547-LYTDD,72.65,16,Month-to-month,Fiber optic,Yes,70,Medium,0
+4548-SDBKE,85.2,5,Month-to-month,Fiber optic,Yes,100,High,0
+4550-EVXNY,69.65,1,Month-to-month,Fiber optic,Yes,90,High,0
+4550-VBOFE,102.95,70,Month-to-month,Fiber optic,Yes,70,Medium,0
+4553-DVPZG,101.35,62,Month-to-month,Fiber optic,No,70,Medium,0
+4554-YGZIH,90.05,49,Month-to-month,Fiber optic,Yes,70,Medium,0
+4558-FANTW,91.85,17,Month-to-month,Fiber optic,Yes,70,Medium,0
+4559-UWIHT,82.65,14,Month-to-month,Fiber optic,No,70,Medium,0
+4566-GOLUK,107.35,47,Month-to-month,Fiber optic,Yes,65,Medium,0
+4566-NECEV,96.55,5,Month-to-month,Fiber optic,No,100,High,0
+4567-AKPIA,109.1,41,One year,Fiber optic,No,50,Medium,0
+4572-DVCGN,80.25,10,Month-to-month,Fiber optic,Yes,80,High,0
+4581-SSPWD,75.8,3,Month-to-month,Fiber optic,Yes,90,High,0
+4583-PARNH,91.55,16,Month-to-month,Fiber optic,No,75,Medium,0
+4585-HETAI,73.75,4,Month-to-month,Fiber optic,Yes,90,High,0
+4587-NUKOX,79.1,3,Month-to-month,Fiber optic,Yes,85,High,0
+4587-VVTOX,105.3,6,Month-to-month,Fiber optic,Yes,100,High,0
+4597-NUCQV,101.25,24,Month-to-month,Fiber optic,Yes,80,High,0
+4598-XLKNJ,98.5,25,Month-to-month,Fiber optic,Yes,70,Medium,0
+4603-JANFB,69.85,1,Month-to-month,Fiber optic,Yes,90,High,0
+4607-CHPCA,90.4,25,One year,Fiber optic,Yes,55,Medium,0
+4612-SSVHJ,81.45,20,Month-to-month,Fiber optic,No,70,Medium,0
+4612-THJBS,104.75,56,One year,Fiber optic,Yes,55,Medium,0
+4614-NUVZD,81.1,1,Month-to-month,Fiber optic,Yes,90,High,0
+4619-EVPHY,91.0,20,One year,Fiber optic,No,65,Medium,0
+4626-GYCZP,93.85,7,Month-to-month,Fiber optic,Yes,90,High,0
+4628-WQCQQ,85.15,35,One year,Fiber optic,Yes,55,Medium,0
+4629-NRXKX,70.4,2,Month-to-month,Fiber optic,Yes,90,High,0
+4631-OACRM,79.4,15,Month-to-month,Fiber optic,Yes,70,Medium,0
+4633-MKHYU,88.4,9,Month-to-month,Fiber optic,No,90,High,0
+4636-JGAAI,88.85,34,Month-to-month,Fiber optic,No,70,Medium,0
+4636-QRJKY,80.5,6,Month-to-month,Fiber optic,Yes,85,High,0
+4647-MUZON,95.95,18,Month-to-month,Fiber optic,No,80,High,0
+4652-NNHNY,73.85,16,Month-to-month,Fiber optic,Yes,70,Medium,0
+4654-DLAMQ,97.0,64,One year,Fiber optic,No,50,Medium,0
+4657-FWVFY,96.35,40,Month-to-month,Fiber optic,No,70,Medium,0
+4658-HCOHW,102.8,21,Month-to-month,Fiber optic,Yes,75,Medium,0
+4659-NZRUF,95.15,19,Month-to-month,Fiber optic,Yes,75,Medium,0
+4660-IRIBM,87.9,18,Month-to-month,Fiber optic,No,75,Medium,0
+4673-KKSLS,87.6,31,Month-to-month,Fiber optic,No,60,Medium,0
+4676-MQUEA,101.9,50,One year,Fiber optic,No,50,Medium,0
+4685-ERGHK,86.9,57,One year,Fiber optic,No,55,Medium,0
+4686-UXDML,99.85,21,Month-to-month,Fiber optic,No,80,High,0
+4690-PKDQG,95.55,42,Month-to-month,Fiber optic,No,70,Medium,0
+4692-NNQRU,79.2,21,One year,Fiber optic,No,50,Medium,0
+4695-WJZUE,88.55,2,Month-to-month,Fiber optic,Yes,100,High,0
+4702-IOQDC,70.1,1,Month-to-month,Fiber optic,Yes,90,High,0
+4704-ERYFC,69.25,22,Month-to-month,Fiber optic,Yes,70,Medium,0
+4706-AXVKM,84.8,11,Month-to-month,Fiber optic,Yes,80,High,0
+4710-FDUIZ,100.3,56,One year,Fiber optic,Yes,55,Medium,0
+4713-LZDRV,79.6,2,Month-to-month,Fiber optic,Yes,90,High,0
+4716-HHKQH,107.05,20,Month-to-month,Fiber optic,No,75,Medium,0
+4720-VSTSI,84.8,44,Month-to-month,Fiber optic,Yes,60,Medium,0
+4724-WXVWF,95.4,48,Month-to-month,Fiber optic,No,60,Medium,0
+4735-ASGMA,98.35,26,Month-to-month,Fiber optic,Yes,70,Medium,0
+4741-WWJQZ,80.15,2,Month-to-month,Fiber optic,No,80,High,0
+4742-DRORA,95.4,60,One year,Fiber optic,No,50,Medium,0
+4749-OJKQU,75.65,4,Month-to-month,Fiber optic,No,90,High,0
+4750-ZRXIU,84.6,4,Month-to-month,Fiber optic,Yes,90,High,0
+4753-PADAS,105.7,67,One year,Fiber optic,No,55,Medium,0
+4759-TRPLW,70.4,1,Month-to-month,Fiber optic,Yes,90,High,0
+4760-THGOT,94.1,43,Month-to-month,Fiber optic,No,65,Medium,0
+4763-PGDPO,70.4,4,Month-to-month,Fiber optic,Yes,90,High,0
+4767-HZZHQ,82.05,30,Month-to-month,Fiber optic,No,60,Medium,0
+4770-UEZOX,74.75,2,Month-to-month,Fiber optic,No,90,High,0
+4789-KWMXN,110.85,47,One year,Fiber optic,Yes,45,Medium,0
+4791-QRGMF,99.5,59,One year,Fiber optic,Yes,55,Medium,0
+4795-KTRTH,81.0,5,Month-to-month,Fiber optic,Yes,90,High,0
+4800-CZMPC,103.25,48,One year,Fiber optic,Yes,50,Medium,0
+4803-AXVYP,99.55,38,Month-to-month,Fiber optic,Yes,65,Medium,0
+4806-HIPDW,68.95,1,Month-to-month,Fiber optic,Yes,90,High,0
+4806-KEXQR,79.9,4,Month-to-month,Fiber optic,Yes,90,High,0
+4811-JBUVU,89.9,30,Month-to-month,Fiber optic,No,65,Medium,0
+4813-HQMGZ,90.25,8,Month-to-month,Fiber optic,No,85,High,0
+4815-YOSUK,104.9,72,One year,Fiber optic,No,45,Medium,0
+4816-LXZYW,79.15,23,Month-to-month,Fiber optic,Yes,70,Medium,0
+4816-OKWNX,103.4,50,One year,Fiber optic,No,50,Medium,0
+4817-QRJSX,81.0,10,Month-to-month,Fiber optic,Yes,80,High,0
+4817-VYYWS,100.2,30,Month-to-month,Fiber optic,Yes,70,Medium,0
+4818-DRBQT,80.15,29,Month-to-month,Fiber optic,Yes,60,Medium,0
+4818-QIUFN,79.15,20,Month-to-month,Fiber optic,Yes,65,Medium,0
+4821-SJHJV,89.6,32,Month-to-month,Fiber optic,No,65,Medium,0
+4822-NGOCH,84.45,13,Month-to-month,Fiber optic,Yes,70,Medium,0
+4822-RVYBB,100.6,8,Month-to-month,Fiber optic,Yes,90,High,0
+4822-YCXMX,84.8,25,Month-to-month,Fiber optic,Yes,60,Medium,0
+4824-GUCBY,81.7,22,Month-to-month,Fiber optic,No,65,Medium,0
+4826-TZEVA,74.8,40,Month-to-month,Fiber optic,No,60,Medium,0
+4826-XTSOH,86.05,1,Month-to-month,Fiber optic,Yes,100,High,0
+4827-LTQRJ,110.6,66,One year,Fiber optic,No,45,Medium,0
+4828-FAZPK,79.95,16,Month-to-month,Fiber optic,No,70,Medium,0
+4829-AUOAX,96.05,46,Month-to-month,Fiber optic,Yes,70,Medium,0
+4831-EOBFE,94.65,29,Month-to-month,Fiber optic,Yes,65,Medium,0
+4832-VRBMR,103.15,65,One year,Fiber optic,No,55,Medium,0
+4833-QTJNO,83.85,67,Month-to-month,Fiber optic,No,55,Medium,0
+4837-QUSFT,100.15,65,One year,Fiber optic,No,45,Medium,0
+4840-ORQXB,104.75,56,Month-to-month,Fiber optic,No,70,Medium,0
+4844-JJWUY,86.0,1,Month-to-month,Fiber optic,Yes,100,High,0
+4846-WHAFZ,76.5,37,Month-to-month,Fiber optic,Yes,60,Medium,0
+4847-TAJYI,89.35,6,Month-to-month,Fiber optic,No,100,High,0
+4851-BQDNX,85.05,40,One year,Fiber optic,No,55,Medium,0
+4853-OITSN,89.15,5,Month-to-month,Fiber optic,No,95,High,0
+4854-CIDCF,73.85,3,Month-to-month,Fiber optic,No,90,High,0
+4860-IJUDE,73.75,13,Month-to-month,Fiber optic,No,65,Medium,0
+4868-AADLV,116.25,66,One year,Fiber optic,No,45,Medium,0
+4869-EPIUS,80.9,56,One year,Fiber optic,No,45,Medium,0
+4871-JTKJF,69.65,1,Month-to-month,Fiber optic,Yes,90,High,0
+4873-ILOLJ,90.35,24,Month-to-month,Fiber optic,Yes,80,High,0
+4879-GZLFH,92.15,42,Month-to-month,Fiber optic,No,70,Medium,0
+4883-QICIH,69.75,32,Month-to-month,Fiber optic,Yes,60,Medium,0
+4884-ZTHVF,87.1,8,Month-to-month,Fiber optic,No,90,High,0
+4902-OHLSK,98.65,29,Month-to-month,Fiber optic,Yes,65,Medium,0
+4908-XAXAY,89.85,49,One year,Fiber optic,No,55,Medium,0
+4910-AQFFX,79.35,9,Month-to-month,Fiber optic,Yes,80,High,0
+4910-GMJOT,94.6,1,Month-to-month,Fiber optic,Yes,100,High,0
+4911-BANWH,86.55,31,Month-to-month,Fiber optic,Yes,70,Medium,0
+4912-PIGUY,84.6,1,Month-to-month,Fiber optic,No,90,High,0
+4913-EHYUI,104.55,56,One year,Fiber optic,Yes,50,Medium,0
+4918-FYJNT,90.45,55,Month-to-month,Fiber optic,No,65,Medium,0
+4919-IKATY,84.5,5,Month-to-month,Fiber optic,Yes,85,High,0
+4919-MOAVT,69.65,3,Month-to-month,Fiber optic,Yes,90,High,0
+4927-WWOOZ,91.45,2,Month-to-month,Fiber optic,No,100,High,0
+4929-XIHVW,95.5,2,Month-to-month,Fiber optic,No,100,High,0
+4937-QPZPO,99.9,61,One year,Fiber optic,No,55,Medium,0
+4947-DSMXK,97.7,34,Month-to-month,Fiber optic,No,70,Medium,0
+4948-WBBKL,74.9,36,Month-to-month,Fiber optic,No,60,Medium,0
+4951-UKAAQ,88.95,4,Month-to-month,Fiber optic,Yes,100,High,0
+4952-YSOGZ,85.95,4,Month-to-month,Fiber optic,Yes,100,High,0
+4958-XCBDQ,101.4,35,Month-to-month,Fiber optic,Yes,70,Medium,0
+4971-PUYQO,94.55,27,Month-to-month,Fiber optic,Yes,70,Medium,0
+4983-CCWMC,69.6,3,Month-to-month,Fiber optic,No,90,High,0
+4983-CLMLV,102.7,52,Month-to-month,Fiber optic,No,65,Medium,0
+4988-IQIGL,75.35,1,Month-to-month,Fiber optic,Yes,90,High,0
+4989-LIXVT,95.9,68,Month-to-month,Fiber optic,No,70,Medium,0
+4993-JCRGJ,84.3,26,Month-to-month,Fiber optic,No,55,Medium,0
+4998-IKFSE,100.45,30,Month-to-month,Fiber optic,No,70,Medium,0
+5002-GCQFH,93.85,49,Month-to-month,Fiber optic,No,65,Medium,0
+5014-WUQMG,96.1,47,One year,Fiber optic,No,50,Medium,0
+5016-IBERQ,84.25,23,Month-to-month,Fiber optic,No,70,Medium,0
+5018-GWURO,85.6,56,Month-to-month,Fiber optic,No,70,Medium,0
+5019-GQVCR,84.85,43,Month-to-month,Fiber optic,No,60,Medium,0
+5022-JNQEQ,75.85,9,Month-to-month,Fiber optic,No,75,Medium,0
+5022-KVDQT,81.3,27,Month-to-month,Fiber optic,No,60,Medium,0
+5027-QPKTE,69.35,7,Month-to-month,Fiber optic,Yes,80,High,0
+5027-YOCXN,110.05,51,One year,Fiber optic,No,45,Medium,0
+5028-GZLDO,70.7,2,Month-to-month,Fiber optic,Yes,90,High,0
+5032-MIYKT,70.7,1,Month-to-month,Fiber optic,No,90,High,0
+5035-BVCXS,75.9,11,Month-to-month,Fiber optic,No,80,High,0
+5035-PGZXH,106.8,56,One year,Fiber optic,No,55,Medium,0
+5043-TRZWM,75.55,1,Month-to-month,Fiber optic,No,90,High,0
+5044-LRQAQ,69.2,7,Month-to-month,Fiber optic,No,80,High,0
+5052-PNLOS,105.35,3,Month-to-month,Fiber optic,Yes,100,High,0
+5054-IEXZT,75.35,1,Month-to-month,Fiber optic,Yes,90,High,0
+5055-MGMGF,105.05,65,Month-to-month,Fiber optic,No,65,Medium,0
+5056-FIMPT,106.0,43,One year,Fiber optic,No,45,Medium,0
+5060-TQUQN,83.55,30,Month-to-month,Fiber optic,No,55,Medium,0
+5067-XJQFU,108.45,66,One year,Fiber optic,No,50,Medium,0
+5074-FBGHB,104.65,64,One year,Fiber optic,No,50,Medium,0
+5076-YVXCM,83.4,51,Month-to-month,Fiber optic,No,60,Medium,0
+5091-HFAZW,91.15,2,Month-to-month,Fiber optic,No,95,High,0
+5095-AESKG,91.5,3,Month-to-month,Fiber optic,Yes,100,High,0
+5099-BAILX,110.75,43,Month-to-month,Fiber optic,Yes,65,Medium,0
+5108-ADXWO,73.5,11,Month-to-month,Fiber optic,Yes,75,Medium,0
+5117-IFGPS,84.3,29,Month-to-month,Fiber optic,No,60,Medium,0
+5118-MUEYH,105.1,48,Month-to-month,Fiber optic,No,65,Medium,0
+5119-KEPFY,95.0,36,Month-to-month,Fiber optic,No,70,Medium,0
+5119-NZPTV,70.1,2,Month-to-month,Fiber optic,No,90,High,0
+5129-JLPIS,105.5,25,Month-to-month,Fiber optic,No,60,Medium,0
+5130-IEKQT,105.95,25,Month-to-month,Fiber optic,Yes,70,Medium,0
+5131-PONJI,90.4,49,Month-to-month,Fiber optic,No,70,Medium,0
+5134-IKDAY,69.8,1,Month-to-month,Fiber optic,Yes,90,High,0
+5136-GFPMB,89.4,54,Month-to-month,Fiber optic,No,70,Medium,0
+5136-KCKGI,103.7,33,One year,Fiber optic,Yes,50,Medium,0
+5138-WVKYJ,98.55,10,Month-to-month,Fiber optic,Yes,85,High,0
+5140-FOMCQ,109.15,59,One year,Fiber optic,No,50,Medium,0
+5141-ZUVBH,93.0,9,Month-to-month,Fiber optic,No,80,High,0
+5144-TVGLP,94.75,38,Month-to-month,Fiber optic,No,70,Medium,0
+5146-CBVOE,75.1,16,Month-to-month,Fiber optic,No,70,Medium,0
+5149-CUZUJ,92.9,28,One year,Fiber optic,No,50,Medium,0
+5149-QYTTU,95.15,71,One year,Fiber optic,No,45,Medium,0
+5149-TGWDZ,104.55,21,One year,Fiber optic,No,60,Medium,0
+5150-ITWWB,94.85,3,Month-to-month,Fiber optic,No,100,High,0
+5150-LJNSR,98.05,31,One year,Fiber optic,No,50,Medium,0
+5153-RTHKF,85.35,34,Month-to-month,Fiber optic,No,70,Medium,0
+5159-YFPKQ,75.8,2,Month-to-month,Fiber optic,Yes,90,High,0
+5167-ZFFMM,90.85,1,Month-to-month,Fiber optic,Yes,100,High,0
+5168-MQQCA,108.5,72,One year,Fiber optic,No,50,Medium,0
+5168-MSWXT,94.75,8,Month-to-month,Fiber optic,No,90,High,0
+5174-ITUMV,105.4,67,One year,Fiber optic,No,55,Medium,0
+5175-WLYXL,78.85,22,Month-to-month,Fiber optic,No,70,Medium,0
+5176-LDKUH,75.15,48,One year,Fiber optic,No,45,Medium,0
+5178-LMXOP,95.1,1,Month-to-month,Fiber optic,Yes,100,High,0
+5183-SNMJQ,95.1,10,Month-to-month,Fiber optic,No,85,High,0
+5186-SAMNZ,69.5,1,Month-to-month,Fiber optic,Yes,90,High,0
+5188-HGMLP,74.0,54,Month-to-month,Fiber optic,No,60,Medium,0
+5192-EBGOV,85.7,1,Month-to-month,Fiber optic,Yes,100,High,0
+5195-KPUNQ,96.75,53,One year,Fiber optic,No,45,Medium,0
+5196-SGOAK,75.7,1,Month-to-month,Fiber optic,Yes,90,High,0
+5197-PYEPU,94.45,42,One year,Fiber optic,No,50,Medium,0
+5198-EFNBM,90.65,57,One year,Fiber optic,No,55,Medium,0
+5198-HQAEN,89.7,35,One year,Fiber optic,No,50,Medium,0
+5201-FRKKS,74.3,25,Month-to-month,Fiber optic,No,55,Medium,0
+5201-USSQZ,85.9,26,Month-to-month,Fiber optic,No,65,Medium,0
+5206-XZZQI,80.6,53,Month-to-month,Fiber optic,No,55,Medium,0
+5213-TWWJU,91.0,28,Month-to-month,Fiber optic,No,65,Medium,0
+5216-WASFJ,84.85,31,Month-to-month,Fiber optic,No,60,Medium,0
+5219-YIPTK,104.4,33,Month-to-month,Fiber optic,Yes,70,Medium,0
+5222-IMUKT,91.05,32,Month-to-month,Fiber optic,No,70,Medium,0
+5223-UZAVK,100.3,64,One year,Fiber optic,No,50,Medium,0
+5226-NOZFC,85.75,26,Month-to-month,Fiber optic,No,70,Medium,0
+5228-EXCET,80.85,13,Month-to-month,Fiber optic,Yes,70,Medium,0
+5229-PRWKT,86.55,8,Month-to-month,Fiber optic,Yes,90,High,0
+5233-AOZUF,74.95,29,Month-to-month,Fiber optic,No,60,Medium,0
+5240-CAOYT,87.55,57,Month-to-month,Fiber optic,No,60,Medium,0
+5240-IJOQT,74.7,1,Month-to-month,Fiber optic,Yes,90,High,0
+5243-SAOTC,79.85,54,Month-to-month,Fiber optic,No,60,Medium,0
+5244-IRFIH,94.5,33,Month-to-month,Fiber optic,Yes,70,Medium,0
+5268-DSMNQ,97.95,62,One year,Fiber optic,No,55,Medium,0
+5271-DBYSJ,79.15,11,Month-to-month,Fiber optic,No,80,High,0
+5274-XHAKY,94.3,41,Month-to-month,Fiber optic,No,65,Medium,0
+5275-SQEIZ,80.85,1,Month-to-month,Fiber optic,Yes,90,High,0
+5276-KQWHG,69.6,2,Month-to-month,Fiber optic,Yes,90,High,0
+5277-ZLOOR,85.55,2,Month-to-month,Fiber optic,Yes,100,High,0
+5281-BUZGT,90.85,36,Month-to-month,Fiber optic,Yes,65,Medium,0
+5285-MVEHD,105.6,56,One year,Fiber optic,No,50,Medium,0
+5287-QWLKY,105.1,71,Month-to-month,Fiber optic,Yes,65,Medium,0
+5288-AHOUP,78.5,11,Month-to-month,Fiber optic,No,80,High,0
+5293-WXJAK,104.05,11,Month-to-month,Fiber optic,Yes,85,High,0
+5294-DMSFH,87.8,29,Month-to-month,Fiber optic,No,70,Medium,0
+5294-IMHHT,97.75,53,One year,Fiber optic,No,50,Medium,0
+5297-MDOIR,81.15,63,One year,Fiber optic,No,40,Medium,0
+5298-GSTLM,101.4,60,One year,Fiber optic,No,50,Medium,0
+5299-RULOA,100.25,10,Month-to-month,Fiber optic,Yes,85,High,0
+5299-SJCZT,101.55,3,Month-to-month,Fiber optic,Yes,100,High,0
+5301-GAUUY,80.35,32,Month-to-month,Fiber optic,Yes,60,Medium,0
+5302-BDJNT,95.5,35,Month-to-month,Fiber optic,No,65,Medium,0
+5307-DZCVC,85.95,32,Month-to-month,Fiber optic,Yes,70,Medium,0
+5312-IRCFR,92.85,64,One year,Fiber optic,No,55,Medium,0
+5312-UXESG,98.05,41,Month-to-month,Fiber optic,No,70,Medium,0
+5318-IXUZF,87.15,2,Month-to-month,Fiber optic,Yes,100,High,0
+5325-UWTWJ,90.55,31,Month-to-month,Fiber optic,No,60,Medium,0
+5331-RGMTT,99.05,54,Month-to-month,Fiber optic,No,70,Medium,0
+5334-JLAXU,94.1,60,Month-to-month,Fiber optic,No,65,Medium,0
+5336-UFNZP,107.45,65,One year,Fiber optic,No,55,Medium,0
+5339-PXDVH,90.65,4,Month-to-month,Fiber optic,No,95,High,0
+5339-TJFEK,105.5,62,Month-to-month,Fiber optic,No,65,Medium,0
+5343-SGUBI,80.2,52,One year,Fiber optic,No,45,Medium,0
+5348-CAGXB,89.55,12,Month-to-month,Fiber optic,No,90,High,0
+5349-IECLD,94.95,2,Month-to-month,Fiber optic,Yes,100,High,0
+5357-TZHPP,84.4,9,Month-to-month,Fiber optic,Yes,80,High,0
+5364-EVNIB,79.8,13,Month-to-month,Fiber optic,Yes,70,Medium,0
+5364-XYIRR,94.65,51,Month-to-month,Fiber optic,Yes,70,Medium,0
+5366-IJEQJ,88.7,20,Month-to-month,Fiber optic,Yes,80,High,0
+5370-IIVVL,104.5,37,One year,Fiber optic,No,50,Medium,0
+5371-VYLSX,83.4,50,Month-to-month,Fiber optic,No,55,Medium,0
+5373-SFODM,85.25,36,Month-to-month,Fiber optic,Yes,70,Medium,0
+5376-DEQCP,70.6,1,Month-to-month,Fiber optic,Yes,90,High,0
+5376-PCKNB,104.45,72,One year,Fiber optic,No,55,Medium,0
+5380-AFSSK,93.9,5,Month-to-month,Fiber optic,Yes,100,High,0
+5380-WJKOV,106.35,34,Month-to-month,Fiber optic,Yes,70,Medium,0
+5382-SOYZL,95.1,22,Month-to-month,Fiber optic,No,80,High,0
+5383-MMTWC,84.0,8,Month-to-month,Fiber optic,Yes,80,High,0
+5385-SUIRI,104.2,52,Month-to-month,Fiber optic,Yes,65,Medium,0
+5389-FFVKB,80.3,32,Month-to-month,Fiber optic,Yes,60,Medium,0
+5393-RXQSZ,79.6,1,Month-to-month,Fiber optic,Yes,90,High,0
+5394-SVGJV,98.8,37,Month-to-month,Fiber optic,Yes,65,Medium,0
+5397-TUPSH,70.95,65,One year,Fiber optic,No,45,Medium,0
+5399-ZIMKF,74.65,5,Month-to-month,Fiber optic,No,90,High,0
+5405-ZMYXQ,74.6,8,Month-to-month,Fiber optic,No,80,High,0
+5419-CONWX,99.8,4,Month-to-month,Fiber optic,Yes,100,High,0
+5419-JKZNQ,77.9,30,Month-to-month,Fiber optic,No,60,Medium,0
+5419-JPRRN,101.45,1,Month-to-month,Fiber optic,Yes,100,High,0
+5419-KLXBN,89.15,25,Month-to-month,Fiber optic,Yes,70,Medium,0
+5429-LWCMV,89.15,12,Month-to-month,Fiber optic,No,90,High,0
+5433-KYGHE,86.0,14,Month-to-month,Fiber optic,No,70,Medium,0
+5439-WIKXB,94.55,41,Month-to-month,Fiber optic,No,70,Medium,0
+5440-VHLUL,105.2,69,One year,Fiber optic,No,50,Medium,0
+5442-BHQNG,70.35,2,Month-to-month,Fiber optic,No,90,High,0
+5442-UTCVD,91.85,3,Month-to-month,Fiber optic,Yes,100,High,0
+5442-XSDCW,79.5,11,Month-to-month,Fiber optic,Yes,80,High,0
+5443-SCMKX,94.3,58,One year,Fiber optic,No,55,Medium,0
+5445-PZWGX,102.0,62,One year,Fiber optic,Yes,45,Medium,0
+5445-UTODQ,81.1,7,Month-to-month,Fiber optic,Yes,80,High,0
+5447-WZAFP,100.3,53,One year,Fiber optic,No,55,Medium,0
+5449-FIBXJ,103.3,19,Month-to-month,Fiber optic,Yes,75,Medium,0
+5453-AXEPF,80.5,17,Month-to-month,Fiber optic,No,70,Medium,0
+5461-QKNTN,94.3,43,Month-to-month,Fiber optic,No,65,Medium,0
+5469-CTCWN,106.0,61,One year,Fiber optic,Yes,50,Medium,0
+5473-KHBPS,95.7,52,One year,Fiber optic,No,55,Medium,0
+5480-TBGPH,99.3,24,Month-to-month,Fiber optic,Yes,80,High,0
+5481-NTDOH,107.05,67,One year,Fiber optic,No,50,Medium,0
+5482-VXSXJ,93.2,22,Month-to-month,Fiber optic,No,80,High,0
+5494-HECPR,80.25,1,Month-to-month,Fiber optic,Yes,90,High,0
+5498-TXHLF,87.45,34,Month-to-month,Fiber optic,Yes,70,Medium,0
+5502-RLUYV,103.95,69,Month-to-month,Fiber optic,Yes,70,Medium,0
+5504-WSIUR,90.25,70,One year,Fiber optic,No,50,Medium,0
+5515-AKOAJ,100.1,54,Month-to-month,Fiber optic,Yes,65,Medium,0
+5519-NPHVG,94.2,12,Month-to-month,Fiber optic,Yes,90,High,0
+5519-YLDGW,103.9,21,Month-to-month,Fiber optic,Yes,75,Medium,0
+5520-FVEWJ,84.5,12,Month-to-month,Fiber optic,Yes,80,High,0
+5522-NYKPB,85.9,25,Month-to-month,Fiber optic,No,65,Medium,0
+5536-RTPWK,99.05,49,Month-to-month,Fiber optic,Yes,70,Medium,0
+5536-SLHPM,77.75,55,Month-to-month,Fiber optic,Yes,60,Medium,0
+5539-TMZLF,69.75,1,Month-to-month,Fiber optic,Yes,90,High,0
+5542-TBBWB,69.9,1,Month-to-month,Fiber optic,No,90,High,0
+5550-VFRLC,69.85,1,Month-to-month,Fiber optic,Yes,90,High,0
+5553-AOINX,104.9,66,One year,Fiber optic,No,55,Medium,0
+5561-NWEVX,79.2,2,Month-to-month,Fiber optic,Yes,90,High,0
+5564-NEMQO,75.3,1,Month-to-month,Fiber optic,Yes,90,High,0
+5565-FILXA,96.15,16,Month-to-month,Fiber optic,Yes,80,High,0
+5566-SOEZD,80.65,27,One year,Fiber optic,No,40,Medium,0
+5567-WSELE,94.6,3,Month-to-month,Fiber optic,Yes,100,High,0
+5569-IDSEY,105.7,71,One year,Fiber optic,No,55,Medium,0
+5569-KGJHX,85.35,9,Month-to-month,Fiber optic,Yes,90,High,0
+5569-OUICF,101.3,28,Month-to-month,Fiber optic,Yes,65,Medium,0
+5570-PTWEH,75.15,3,Month-to-month,Fiber optic,Yes,90,High,0
+5572-ZDXHY,84.3,22,Month-to-month,Fiber optic,Yes,70,Medium,0
+5575-TPIZQ,89.15,46,Month-to-month,Fiber optic,No,65,Medium,0
+5578-NKCXI,99.25,58,One year,Fiber optic,No,50,Medium,0
+5583-SXDAG,70.0,1,Month-to-month,Fiber optic,Yes,90,High,0
+5590-BYNII,100.75,22,Month-to-month,Fiber optic,Yes,75,Medium,0
+5593-SUAOO,83.15,24,One year,Fiber optic,No,55,Medium,0
+5597-GLBUC,85.45,1,Month-to-month,Fiber optic,Yes,100,High,0
+5599-HVLTW,80.35,14,Month-to-month,Fiber optic,No,70,Medium,0
+5600-KTXFM,69.95,2,Month-to-month,Fiber optic,No,90,High,0
+5605-IYGFG,69.85,7,Month-to-month,Fiber optic,No,80,High,0
+5606-AMZBO,78.15,10,Month-to-month,Fiber optic,No,75,Medium,0
+5609-CEBID,94.1,20,Month-to-month,Fiber optic,Yes,80,High,0
+5609-IMCGG,84.35,15,Month-to-month,Fiber optic,No,65,Medium,0
+5626-MGTUK,89.1,20,Month-to-month,Fiber optic,No,75,Medium,0
+5628-FCGYG,84.1,21,Month-to-month,Fiber optic,No,70,Medium,0
+5628-RKIFK,101.55,49,Month-to-month,Fiber optic,No,65,Medium,0
+5630-IXDXV,106.35,47,Month-to-month,Fiber optic,No,70,Medium,0
+5644-PDMZC,89.5,2,Month-to-month,Fiber optic,Yes,100,High,0
+5647-FXOTP,105.9,60,Month-to-month,Fiber optic,No,70,Medium,0
+5649-ANRML,95.1,2,Month-to-month,Fiber optic,Yes,95,High,0
+5649-RXQTV,99.0,51,Month-to-month,Fiber optic,No,70,Medium,0
+5649-VUKMC,95.5,12,One year,Fiber optic,Yes,75,Medium,0
+5650-YLIBA,81.15,31,Month-to-month,Fiber optic,No,60,Medium,0
+5651-CRHKQ,86.2,41,One year,Fiber optic,No,50,Medium,0
+5651-YLPRD,86.1,32,Month-to-month,Fiber optic,No,70,Medium,0
+5652-MSDEY,75.75,10,Month-to-month,Fiber optic,No,80,High,0
+5655-JSMZM,96.2,49,Month-to-month,Fiber optic,Yes,70,Medium,0
+5666-CYCYZ,89.55,24,Month-to-month,Fiber optic,No,75,Medium,0
+5671-UUNXD,100.65,50,One year,Fiber optic,No,50,Medium,0
+5678-VFNEQ,104.1,71,One year,Fiber optic,No,50,Medium,0
+5681-LLOEI,91.25,43,One year,Fiber optic,No,45,Medium,0
+5685-IIXLY,83.6,5,Month-to-month,Fiber optic,Yes,90,High,0
+5686-CMAWK,86.75,17,One year,Fiber optic,No,60,Medium,0
+5692-ICXLW,90.7,31,Month-to-month,Fiber optic,No,70,Medium,0
+5698-BQJOH,94.4,9,Month-to-month,Fiber optic,Yes,90,High,0
+5701-YVSVF,82.9,11,Month-to-month,Fiber optic,No,75,Medium,0
+5708-EVONK,93.4,58,Month-to-month,Fiber optic,Yes,65,Medium,0
+5712-AHQNN,91.65,43,Month-to-month,Fiber optic,No,70,Medium,0
+5712-PTIWW,79.85,2,Month-to-month,Fiber optic,Yes,85,High,0
+5716-LIBJC,104.15,13,One year,Fiber optic,No,65,Medium,0
+5729-KLZAR,80.85,4,Month-to-month,Fiber optic,Yes,90,High,0
+5732-IKGQH,104.45,52,One year,Fiber optic,No,45,Medium,0
+5734-EJKXG,118.6,61,One year,Fiber optic,No,45,Medium,0
+5740-YHGTW,97.55,70,Month-to-month,Fiber optic,No,65,Medium,0
+5747-PMBSQ,92.5,10,Month-to-month,Fiber optic,Yes,85,High,0
+5760-FXFVO,78.95,6,Month-to-month,Fiber optic,No,85,High,0
+5760-IFJOZ,107.95,3,Month-to-month,Fiber optic,No,100,High,0
+5797-APWZC,90.6,1,Month-to-month,Fiber optic,Yes,100,High,0
+5802-ADBRC,104.4,50,One year,Fiber optic,No,50,Medium,0
+5804-HYIEZ,106.05,70,Month-to-month,Fiber optic,No,65,Medium,0
+5804-LEPIM,70.35,2,Month-to-month,Fiber optic,Yes,90,High,0
+5811-IWXYM,101.25,52,One year,Fiber optic,No,55,Medium,0
+5813-UECBU,83.85,33,Month-to-month,Fiber optic,Yes,60,Medium,0
+5816-QVHRX,100.3,37,Month-to-month,Fiber optic,No,65,Medium,0
+5827-MWCZK,96.95,56,Month-to-month,Fiber optic,No,65,Medium,0
+5828-AVIPD,100.95,19,One year,Fiber optic,Yes,60,Medium,0
+5828-DWPIL,89.1,62,Month-to-month,Fiber optic,No,65,Medium,0
+5832-XKAES,69.8,2,Month-to-month,Fiber optic,Yes,90,High,0
+5834-ASPWA,75.45,1,Month-to-month,Fiber optic,Yes,90,High,0
+5835-BEQEU,76.95,3,Month-to-month,Fiber optic,Yes,90,High,0
+5839-SUYVZ,74.55,16,Month-to-month,Fiber optic,No,65,Medium,0
+5842-POCOP,88.9,5,Month-to-month,Fiber optic,Yes,95,High,0
+5846-QFDFI,88.6,33,Month-to-month,Fiber optic,No,65,Medium,0
+5857-TYBCJ,89.2,44,Month-to-month,Fiber optic,No,70,Medium,0
+5868-YWPDW,84.2,6,Month-to-month,Fiber optic,Yes,90,High,0
+5875-YPQFJ,69.9,1,Month-to-month,Fiber optic,Yes,90,High,0
+5879-SESNB,75.25,11,Month-to-month,Fiber optic,No,80,High,0
+5883-GTGVD,99.95,19,Month-to-month,Fiber optic,Yes,80,High,0
+5884-GCYMI,69.4,1,Month-to-month,Fiber optic,Yes,90,High,0
+5886-VLQVU,89.85,35,Month-to-month,Fiber optic,No,65,Medium,0
+5889-JTMUL,95.05,50,Month-to-month,Fiber optic,Yes,70,Medium,0
+5889-LFOLL,84.6,13,Month-to-month,Fiber optic,Yes,70,Medium,0
+5895-QSXOD,70.05,9,Month-to-month,Fiber optic,No,80,High,0
+5897-ZYEKH,105.6,67,One year,Fiber optic,No,50,Medium,0
+5898-IGSLP,89.3,31,Month-to-month,Fiber optic,No,60,Medium,0
+5899-MQZZL,75.0,13,Month-to-month,Fiber optic,Yes,70,Medium,0
+5899-OUVKV,94.5,31,Month-to-month,Fiber optic,No,70,Medium,0
+5908-QMGOE,74.2,15,Month-to-month,Fiber optic,Yes,70,Medium,0
+5913-INRQV,90.15,34,One year,Fiber optic,No,45,Medium,0
+5914-DVBWJ,85.45,18,Month-to-month,Fiber optic,Yes,75,Medium,0
+5919-TMRGD,79.35,1,Month-to-month,Fiber optic,Yes,90,High,0
+5921-NGYRH,73.55,64,Month-to-month,Fiber optic,No,55,Medium,0
+5922-ABDVO,89.65,19,Month-to-month,Fiber optic,Yes,80,High,0
+5923-GXUOC,104.4,10,Month-to-month,Fiber optic,Yes,85,High,0
+5928-QLDHB,76.25,9,Month-to-month,Fiber optic,No,80,High,0
+5931-FLJJF,70.1,7,Month-to-month,Fiber optic,Yes,80,High,0
+5934-RMPOV,84.75,22,Month-to-month,Fiber optic,No,70,Medium,0
+5934-TSSAU,75.3,23,Month-to-month,Fiber optic,No,70,Medium,0
+5935-FCCNB,94.2,17,Month-to-month,Fiber optic,No,80,High,0
+5937-EORGB,96.5,15,Month-to-month,Fiber optic,No,75,Medium,0
+5940-AHUHD,70.6,1,Month-to-month,Fiber optic,Yes,90,High,0
+5940-NFXKV,83.65,19,Month-to-month,Fiber optic,Yes,70,Medium,0
+5945-AZYHT,109.6,71,One year,Fiber optic,No,50,Medium,0
+5947-SGKCL,105.35,15,Month-to-month,Fiber optic,No,80,High,0
+5949-XIKAE,83.55,8,Month-to-month,Fiber optic,Yes,80,High,0
+5950-AAAGJ,84.3,18,Month-to-month,Fiber optic,No,70,Medium,0
+5955-ERIHD,94.7,18,Month-to-month,Fiber optic,Yes,80,High,0
+5956-VKDTT,74.35,5,Month-to-month,Fiber optic,Yes,90,High,0
+5956-YHHRX,104.35,21,Month-to-month,Fiber optic,No,80,High,0
+5959-BELXA,96.15,32,Month-to-month,Fiber optic,Yes,70,Medium,0
+5960-WPXQM,79.05,1,Month-to-month,Fiber optic,Yes,90,High,0
+5966-EMAZU,108.5,64,One year,Fiber optic,No,45,Medium,0
+5968-XQIVE,89.7,72,One year,Fiber optic,No,55,Medium,0
+5973-EJGDP,87.35,51,Month-to-month,Fiber optic,No,65,Medium,0
+5976-JCJRH,70.3,10,Month-to-month,Fiber optic,Yes,80,High,0
+5977-CKHON,92.55,43,Month-to-month,Fiber optic,No,70,Medium,0
+5980-NOPLP,96.1,44,Month-to-month,Fiber optic,Yes,70,Medium,0
+5981-ITEMU,97.1,40,Month-to-month,Fiber optic,Yes,70,Medium,0
+5981-ZVXOT,108.35,35,One year,Fiber optic,No,50,Medium,0
+5982-FPVQN,95.15,37,Month-to-month,Fiber optic,No,70,Medium,0
+5985-BEHZK,105.0,72,One year,Fiber optic,No,55,Medium,0
+5989-PGKJB,86.25,16,Month-to-month,Fiber optic,No,80,High,0
+5995-SNNEW,104.45,23,Month-to-month,Fiber optic,No,80,High,0
+5996-NRVXR,98.15,40,One year,Fiber optic,No,45,Medium,0
+5998-VVEJY,80.5,26,Month-to-month,Fiber optic,Yes,55,Medium,0
+6000-APYLU,80.8,9,Month-to-month,Fiber optic,Yes,80,High,0
+6005-OBZPH,89.15,26,Month-to-month,Fiber optic,Yes,70,Medium,0
+6015-VVHHE,83.15,5,Month-to-month,Fiber optic,Yes,90,High,0
+6017-PPLPX,70.45,20,Month-to-month,Fiber optic,Yes,70,Medium,0
+6022-UGGSO,74.4,32,Month-to-month,Fiber optic,Yes,60,Medium,0
+6023-YEBUP,100.95,3,Month-to-month,Fiber optic,Yes,100,High,0
+6029-WTIPC,101.1,37,Month-to-month,Fiber optic,Yes,70,Medium,0
+6030-REHUX,110.85,28,Month-to-month,Fiber optic,No,65,Medium,0
+6032-KRXXO,90.25,30,Month-to-month,Fiber optic,Yes,70,Medium,0
+6034-YMTOB,75.65,5,Month-to-month,Fiber optic,No,85,High,0
+6047-YHPVI,69.7,5,Month-to-month,Fiber optic,Yes,90,High,0
+6050-IJRHS,106.5,70,One year,Fiber optic,No,55,Medium,0
+6060-DRTNL,84.85,5,Month-to-month,Fiber optic,Yes,90,High,0
+6067-NGCEU,111.05,65,Month-to-month,Fiber optic,No,65,Medium,0
+6075-SLNIL,95.1,38,Month-to-month,Fiber optic,No,70,Medium,0
+6077-BDPXA,70.15,3,Month-to-month,Fiber optic,No,90,High,0
+6078-VESFR,70.45,13,Month-to-month,Fiber optic,No,70,Medium,0
+6080-TCMYC,81.2,40,Month-to-month,Fiber optic,No,60,Medium,0
+6086-ESGRL,80.15,1,Month-to-month,Fiber optic,Yes,90,High,0
+6087-MVHJH,88.45,16,Month-to-month,Fiber optic,Yes,80,High,0
+6088-BXMRG,98.85,32,Month-to-month,Fiber optic,No,70,Medium,0
+6097-EQISJ,102.45,66,One year,Fiber optic,Yes,55,Medium,0
+6100-QQHEB,92.55,17,Month-to-month,Fiber optic,Yes,80,High,0
+6101-IMRMM,94.5,6,Month-to-month,Fiber optic,Yes,100,High,0
+6103-BOCOU,80.7,26,Month-to-month,Fiber optic,No,60,Medium,0
+6108-OQZDQ,97.95,4,Month-to-month,Fiber optic,Yes,100,High,0
+6110-OHIHY,79.25,3,Month-to-month,Fiber optic,Yes,90,High,0
+6116-RFVHN,100.45,34,Month-to-month,Fiber optic,No,70,Medium,0
+6127-ISGTU,84.95,16,Month-to-month,Fiber optic,Yes,70,Medium,0
+6137-NICCO,94.05,6,Month-to-month,Fiber optic,No,100,High,0
+6140-QNRQQ,71.55,1,Month-to-month,Fiber optic,Yes,90,High,0
+6156-UZDLF,87.15,26,One year,Fiber optic,No,45,Medium,0
+6161-UUUTA,79.9,3,Month-to-month,Fiber optic,Yes,90,High,0
+6166-ILMNY,69.75,2,Month-to-month,Fiber optic,Yes,90,High,0
+6168-WFVVF,70.3,3,Month-to-month,Fiber optic,Yes,90,High,0
+6168-YBYNP,111.35,59,Month-to-month,Fiber optic,No,65,Medium,0
+6172-FECYY,84.5,49,Month-to-month,Fiber optic,Yes,60,Medium,0
+6173-GOLSU,94.65,67,Month-to-month,Fiber optic,No,70,Medium,0
+6173-ITPWD,83.35,47,Month-to-month,Fiber optic,Yes,60,Medium,0
+6175-IRFIT,78.75,5,Month-to-month,Fiber optic,No,90,High,0
+6178-KFNHS,78.3,12,Month-to-month,Fiber optic,Yes,75,Medium,0
+6179-GJPSO,108.15,43,Month-to-month,Fiber optic,Yes,60,Medium,0
+6198-PNNSZ,109.8,56,One year,Fiber optic,No,50,Medium,0
+6198-RTPMF,92.6,17,Month-to-month,Fiber optic,No,80,High,0
+6198-ZFIOJ,75.6,5,Month-to-month,Fiber optic,No,90,High,0
+6199-IWKGC,100.25,46,One year,Fiber optic,No,50,Medium,0
+6202-DYYFX,76.0,22,One year,Fiber optic,No,55,Medium,0
+6204-IEUXJ,80.1,3,Month-to-month,Fiber optic,Yes,85,High,0
+6210-KBBPI,99.45,9,Month-to-month,Fiber optic,Yes,90,High,0
+6212-ATMLK,95.7,50,Month-to-month,Fiber optic,No,70,Medium,0
+6215-NQCPY,99.7,15,Month-to-month,Fiber optic,No,75,Medium,0
+6221-AVQYL,73.25,2,Month-to-month,Fiber optic,Yes,90,High,0
+6227-FBDXH,99.5,69,One year,Fiber optic,No,55,Medium,0
+6227-HWPWX,69.0,15,Month-to-month,Fiber optic,Yes,70,Medium,0
+6229-LSCKB,79.7,6,Month-to-month,Fiber optic,No,90,High,0
+6230-BSUXY,85.0,1,Month-to-month,Fiber optic,Yes,90,High,0
+6233-HXJMX,89.3,45,Month-to-month,Fiber optic,No,70,Medium,0
+6234-PFPXL,95.9,22,Month-to-month,Fiber optic,No,70,Medium,0
+6242-MBHPK,95.1,23,Month-to-month,Fiber optic,No,75,Medium,0
+6242-SGYTS,94.95,62,One year,Fiber optic,No,50,Medium,0
+6250-CGGUN,84.4,54,One year,Fiber optic,No,35,Low,0
+6259-WJQLC,81.1,32,Month-to-month,Fiber optic,No,60,Medium,0
+6265-SXWBU,95.75,69,One year,Fiber optic,No,55,Medium,0
+6266-QHOJZ,89.85,65,One year,Fiber optic,No,45,Medium,0
+6267-DCFFZ,90.05,30,Month-to-month,Fiber optic,No,70,Medium,0
+6270-OMFIW,94.4,60,One year,Fiber optic,Yes,55,Medium,0
+6275-YDUVO,86.2,2,Month-to-month,Fiber optic,Yes,100,High,0
+6284-AHOOQ,90.5,22,Month-to-month,Fiber optic,Yes,75,Medium,0
+6284-KMNUF,98.0,56,One year,Fiber optic,No,50,Medium,0
+6288-LBEAR,79.1,23,Month-to-month,Fiber optic,No,65,Medium,0
+6298-QDFNH,79.35,22,Month-to-month,Fiber optic,Yes,70,Medium,0
+6300-BWMJX,93.35,59,Month-to-month,Fiber optic,No,65,Medium,0
+6305-YLBMM,104.05,69,One year,Fiber optic,Yes,50,Medium,0
+6311-UEUME,78.9,29,Month-to-month,Fiber optic,Yes,60,Medium,0
+6319-IEJWJ,90.2,20,Month-to-month,Fiber optic,Yes,80,High,0
+6326-MTTXK,100.85,8,Month-to-month,Fiber optic,Yes,90,High,0
+6328-ZPBGN,95.15,11,Month-to-month,Fiber optic,Yes,90,High,0
+6330-JKLPC,80.5,11,Month-to-month,Fiber optic,Yes,80,High,0
+6331-EWIEB,85.25,20,Month-to-month,Fiber optic,Yes,80,High,0
+6333-YDVLT,110.0,65,One year,Fiber optic,No,45,Medium,0
+6339-YPSAH,73.8,9,Month-to-month,Fiber optic,No,80,High,0
+6341-AEVKX,104.3,62,One year,Fiber optic,No,45,Medium,0
+6345-ULYRW,88.4,44,One year,Fiber optic,Yes,55,Medium,0
+6347-DCUIK,74.15,10,Month-to-month,Fiber optic,Yes,80,High,0
+6350-XFYGW,94.75,4,Month-to-month,Fiber optic,No,100,High,0
+6352-TWCAU,86.45,35,Month-to-month,Fiber optic,Yes,70,Medium,0
+6353-BRMMA,104.1,54,Month-to-month,Fiber optic,No,65,Medium,0
+6356-ELRKD,95.6,1,Month-to-month,Fiber optic,Yes,95,High,0
+6357-JJPQT,80.5,3,Month-to-month,Fiber optic,No,90,High,0
+6358-LYNGM,74.9,1,Month-to-month,Fiber optic,Yes,90,High,0
+6360-SVNWV,73.55,31,Month-to-month,Fiber optic,No,55,Medium,0
+6362-QHAFM,108.3,42,One year,Fiber optic,No,50,Medium,0
+6365-MTGZX,96.0,24,Month-to-month,Fiber optic,Yes,75,Medium,0
+6372-RFVNS,78.8,1,Month-to-month,Fiber optic,Yes,90,High,0
+6376-GAHQE,77.85,4,Month-to-month,Fiber optic,Yes,90,High,0
+6377-WHAOX,106.15,60,Month-to-month,Fiber optic,No,70,Medium,0
+6379-RXJRQ,70.1,10,Month-to-month,Fiber optic,Yes,80,High,0
+6383-ZTSIW,99.1,39,One year,Fiber optic,No,50,Medium,0
+6390-DSAZX,73.6,1,Month-to-month,Fiber optic,Yes,85,High,0
+6393-WRYZE,97.65,34,Month-to-month,Fiber optic,Yes,70,Medium,0
+6394-MFYNG,107.4,48,Month-to-month,Fiber optic,Yes,70,Medium,0
+6400-BWQKW,79.05,6,Month-to-month,Fiber optic,Yes,85,High,0
+6402-ZFPPI,102.8,25,Month-to-month,Fiber optic,Yes,65,Medium,0
+6407-UTSLV,83.8,2,Month-to-month,Fiber optic,No,90,High,0
+6408-OTUBZ,104.55,66,One year,Fiber optic,No,45,Medium,0
+6413-XKKPU,89.4,17,Month-to-month,Fiber optic,Yes,75,Medium,0
+6416-TVAIH,68.5,1,Month-to-month,Fiber optic,Yes,90,High,0
+6416-YJTTB,79.5,11,Month-to-month,Fiber optic,No,75,Medium,0
+6421-SZVEM,82.85,28,One year,Fiber optic,No,40,Medium,0
+6424-ELEYH,74.75,3,Month-to-month,Fiber optic,Yes,90,High,0
+6425-YQLLO,105.95,66,One year,Fiber optic,Yes,50,Medium,0
+6432-TWQLB,85.4,5,Month-to-month,Fiber optic,Yes,95,High,0
+6435-SRWBJ,82.75,5,Month-to-month,Fiber optic,No,85,High,0
+6437-UKHMV,79.7,7,Month-to-month,Fiber optic,Yes,80,High,0
+6439-GTPCA,87.25,45,Month-to-month,Fiber optic,Yes,65,Medium,0
+6457-GIRWB,69.35,1,Month-to-month,Fiber optic,Yes,90,High,0
+6457-USBER,80.8,1,Month-to-month,Fiber optic,Yes,90,High,0
+6458-CYIDZ,80.7,5,Month-to-month,Fiber optic,No,85,High,0
+6465-GSRCL,106.6,67,One year,Fiber optic,No,50,Medium,0
+6467-CHFZW,99.35,47,Month-to-month,Fiber optic,Yes,70,Medium,0
+6474-FVJLC,86.0,2,Month-to-month,Fiber optic,Yes,100,High,0
+6480-YAGIY,112.2,45,One year,Fiber optic,No,45,Medium,0
+6481-ESCNL,100.55,29,Month-to-month,Fiber optic,No,70,Medium,0
+6481-OGDOO,90.6,67,One year,Fiber optic,Yes,50,Medium,0
+6486-LHTMA,90.7,31,One year,Fiber optic,No,55,Medium,0
+6496-JDSSB,80.0,8,Month-to-month,Fiber optic,No,80,High,0
+6496-SLWHQ,105.0,3,Month-to-month,Fiber optic,Yes,100,High,0
+6500-JVEGC,101.35,68,One year,Fiber optic,No,50,Medium,0
+6502-HCJTI,94.7,7,Month-to-month,Fiber optic,Yes,85,High,0
+6502-MJQAE,69.6,1,Month-to-month,Fiber optic,Yes,90,High,0
+6507-ZJSUR,90.45,23,Month-to-month,Fiber optic,No,80,High,0
+6513-EECDB,73.55,1,Month-to-month,Fiber optic,Yes,90,High,0
+6518-LGAOV,105.0,38,Month-to-month,Fiber optic,Yes,65,Medium,0
+6521-YYTYI,93.3,1,Month-to-month,Fiber optic,Yes,100,High,0
+6522-YRBXD,94.55,35,Month-to-month,Fiber optic,No,65,Medium,0
+6538-POCHL,79.0,33,Month-to-month,Fiber optic,No,60,Medium,0
+6543-XRMYR,99.7,30,Month-to-month,Fiber optic,Yes,70,Medium,0
+6551-GNYDG,80.9,14,Month-to-month,Fiber optic,No,70,Medium,0
+6557-BZXLQ,69.65,16,Month-to-month,Fiber optic,No,70,Medium,0
+6559-PDZLR,98.65,26,Month-to-month,Fiber optic,No,65,Medium,0
+6559-RAKOZ,97.95,49,One year,Fiber optic,No,50,Medium,0
+6563-VNPMN,85.7,45,Month-to-month,Fiber optic,No,60,Medium,0
+6567-HOOPW,79.2,1,Month-to-month,Fiber optic,Yes,90,High,0
+6572-ADKRS,74.8,46,Month-to-month,Fiber optic,No,60,Medium,0
+6578-KRMAW,93.4,32,Month-to-month,Fiber optic,No,65,Medium,0
+6583-KQJLK,94.65,15,Month-to-month,Fiber optic,No,80,High,0
+6583-QGCSI,88.05,50,Month-to-month,Fiber optic,Yes,70,Medium,0
+6591-QGOYB,106.65,17,Month-to-month,Fiber optic,No,70,Medium,0
+6595-YGXIT,88.95,25,Month-to-month,Fiber optic,Yes,70,Medium,0
+6599-CEBNN,73.95,34,Month-to-month,Fiber optic,Yes,60,Medium,0
+6599-GZWCM,74.65,13,One year,Fiber optic,No,55,Medium,0
+6599-RCLCJ,109.55,47,Month-to-month,Fiber optic,Yes,65,Medium,0
+6615-NGGZJ,100.55,14,Month-to-month,Fiber optic,Yes,80,High,0
+6617-WLBQC,81.85,23,One year,Fiber optic,No,50,Medium,0
+6618-RYATB,79.55,1,Month-to-month,Fiber optic,Yes,90,High,0
+6627-CFOSN,99.45,59,Month-to-month,Fiber optic,No,65,Medium,0
+6630-UJZMY,83.25,4,Month-to-month,Fiber optic,No,90,High,0
+6633-SYEUS,83.2,23,Month-to-month,Fiber optic,No,65,Medium,0
+6635-CPNUN,96.6,28,Month-to-month,Fiber optic,No,70,Medium,0
+6641-XRPSU,70.0,34,Month-to-month,Fiber optic,Yes,60,Medium,0
+6645-MXQJT,97.1,2,Month-to-month,Fiber optic,No,95,High,0
+6646-JPPHA,78.85,14,Month-to-month,Fiber optic,No,65,Medium,0
+6646-QVXLR,103.75,62,One year,Fiber optic,Yes,55,Medium,0
+6646-VRFOL,103.85,53,Month-to-month,Fiber optic,Yes,70,Medium,0
+6647-ZEDXT,110.45,30,One year,Fiber optic,No,50,Medium,0
+6651-AZVTJ,99.8,49,Month-to-month,Fiber optic,Yes,70,Medium,0
+6653-CBBOM,70.3,1,Month-to-month,Fiber optic,Yes,90,High,0
+6655-LHBYW,114.35,50,One year,Fiber optic,No,45,Medium,0
+6661-HBGWL,104.75,42,Month-to-month,Fiber optic,Yes,70,Medium,0
+6664-FPDAC,111.95,56,One year,Fiber optic,Yes,50,Medium,0
+6668-CNMFP,89.35,19,One year,Fiber optic,No,60,Medium,0
+6680-WKXRZ,74.4,3,Month-to-month,Fiber optic,Yes,90,High,0
+6683-VLCTZ,98.55,20,Month-to-month,Fiber optic,Yes,80,High,0
+6686-YPGHK,85.5,47,Month-to-month,Fiber optic,Yes,65,Medium,0
+6688-UZPWD,102.0,11,Month-to-month,Fiber optic,Yes,90,High,0
+6689-TCZHQ,78.95,5,Month-to-month,Fiber optic,Yes,90,High,0
+6689-VRRTK,109.8,44,One year,Fiber optic,No,50,Medium,0
+6692-UDPJC,91.65,14,Month-to-month,Fiber optic,Yes,75,Medium,0
+6692-YQHXC,69.95,16,Month-to-month,Fiber optic,No,70,Medium,0
+6693-FRIRW,101.3,18,Month-to-month,Fiber optic,No,80,High,0
+6705-LXORM,70.05,5,Month-to-month,Fiber optic,No,90,High,0
+6710-HSJRD,114.1,61,Month-to-month,Fiber optic,No,65,Medium,0
+6711-FLDFB,74.9,7,Month-to-month,Fiber optic,Yes,80,High,0
+6711-VTNRE,87.55,36,Month-to-month,Fiber optic,Yes,65,Medium,0
+6712-OAWRH,91.25,26,Month-to-month,Fiber optic,Yes,70,Medium,0
+6719-OXYBR,85.3,15,Month-to-month,Fiber optic,No,80,High,0
+6723-WSNTY,108.1,66,One year,Fiber optic,No,50,Medium,0
+6726-WEXXK,85.9,27,One year,Fiber optic,No,50,Medium,0
+6728-DKUCO,104.15,72,One year,Fiber optic,No,50,Medium,0
+6728-VOIFY,96.0,63,One year,Fiber optic,No,55,Medium,0
+6729-GDNGC,80.7,20,Month-to-month,Fiber optic,No,70,Medium,0
+6732-FZUGP,94.9,47,One year,Fiber optic,No,50,Medium,0
+6734-GMPVK,105.3,5,Month-to-month,Fiber optic,No,100,High,0
+6736-DHUQI,84.8,67,One year,Fiber optic,No,40,Medium,0
+6741-EGCBI,90.5,30,Month-to-month,Fiber optic,No,65,Medium,0
+6745-JEFZB,91.5,35,Month-to-month,Fiber optic,No,65,Medium,0
+6769-DCQLI,105.0,52,One year,Fiber optic,Yes,50,Medium,0
+6769-DYBQN,85.0,46,Month-to-month,Fiber optic,Yes,55,Medium,0
+6771-XWBDM,104.5,57,Month-to-month,Fiber optic,Yes,70,Medium,0
+6772-KSATR,81.7,1,Month-to-month,Fiber optic,Yes,85,High,0
+6777-TGHTM,106.95,53,One year,Fiber optic,Yes,50,Medium,0
+6786-OBWQR,80.85,5,Month-to-month,Fiber optic,No,90,High,0
+6794-HKIAJ,90.7,62,Month-to-month,Fiber optic,No,65,Medium,0
+6797-UCJHZ,104.6,66,One year,Fiber optic,No,55,Medium,0
+6807-SIWJI,104.85,38,One year,Fiber optic,No,50,Medium,0
+6815-ABQFQ,107.25,56,One year,Fiber optic,No,50,Medium,0
+6818-DJXAA,91.1,10,Month-to-month,Fiber optic,No,85,High,0
+6818-WOBHJ,89.6,68,Month-to-month,Fiber optic,Yes,70,Medium,0
+6821-BUXUX,96.65,13,Month-to-month,Fiber optic,Yes,75,Medium,0
+6821-JPCDC,97.05,48,One year,Fiber optic,No,55,Medium,0
+6825-UYPFK,75.6,23,Month-to-month,Fiber optic,Yes,70,Medium,0
+6833-JMZYP,94.0,15,Month-to-month,Fiber optic,No,80,High,0
+6845-RGTYS,98.75,47,Month-to-month,Fiber optic,Yes,65,Medium,0
+6847-KJLTS,100.4,58,Month-to-month,Fiber optic,No,65,Medium,0
+6849-OYAMU,100.0,19,One year,Fiber optic,Yes,60,Medium,0
+6851-WEFYX,100.8,35,Month-to-month,Fiber optic,No,70,Medium,0
+6856-RAURS,74.9,2,Month-to-month,Fiber optic,No,90,High,0
+6857-VWJDT,95.65,1,Month-to-month,Fiber optic,Yes,100,High,0
+6860-YRJZP,74.05,9,Month-to-month,Fiber optic,No,80,High,0
+6861-XWTWQ,99.25,7,Month-to-month,Fiber optic,Yes,90,High,0
+6862-CQUMB,96.1,37,Month-to-month,Fiber optic,No,70,Medium,0
+6869-FGJJC,79.6,68,One year,Fiber optic,No,45,Medium,0
+6874-SGLHU,97.0,30,One year,Fiber optic,No,55,Medium,0
+6877-LGWXO,78.55,18,Month-to-month,Fiber optic,Yes,70,Medium,0
+6877-TJMBR,84.8,1,Month-to-month,Fiber optic,Yes,85,High,0
+6891-JPYFF,105.25,48,Month-to-month,Fiber optic,No,65,Medium,0
+6892-EZDTG,91.65,4,Month-to-month,Fiber optic,Yes,100,High,0
+6892-XPFPU,104.25,24,Month-to-month,Fiber optic,Yes,80,High,0
+6893-ODYYE,90.1,50,One year,Fiber optic,No,45,Medium,0
+6894-LFHLY,75.75,1,Month-to-month,Fiber optic,Yes,90,High,0
+6896-SRVYQ,73.85,44,Month-to-month,Fiber optic,No,60,Medium,0
+6897-UUBNU,89.65,29,Month-to-month,Fiber optic,No,65,Medium,0
+6899-PPEEA,96.55,37,Month-to-month,Fiber optic,Yes,70,Medium,0
+6900-PXRMS,105.75,26,Month-to-month,Fiber optic,Yes,70,Medium,0
+6906-ANDWJ,74.9,15,Month-to-month,Fiber optic,Yes,70,Medium,0
+6906-MPARY,89.6,40,One year,Fiber optic,No,50,Medium,0
+6907-NZZIJ,99.15,36,Month-to-month,Fiber optic,Yes,70,Medium,0
+6908-VVYHM,90.65,65,Month-to-month,Fiber optic,No,70,Medium,0
+6910-HADCM,76.35,1,Month-to-month,Fiber optic,Yes,90,High,0
+6917-YACBP,89.75,59,Month-to-month,Fiber optic,No,65,Medium,0
+6918-UMQCG,80.2,5,Month-to-month,Fiber optic,No,90,High,0
+6923-JHPMP,80.45,2,Month-to-month,Fiber optic,No,85,High,0
+6927-WTFIV,71.3,20,Month-to-month,Fiber optic,Yes,70,Medium,0
+6941-PMGEP,80.0,5,Month-to-month,Fiber optic,Yes,90,High,0
+6946-LMSQS,89.05,25,One year,Fiber optic,Yes,50,Medium,0
+6952-OMNWB,80.35,68,Month-to-month,Fiber optic,No,60,Medium,0
+6956-SMUCM,99.0,3,Month-to-month,Fiber optic,Yes,95,High,0
+6960-HVYXR,76.0,1,Month-to-month,Fiber optic,Yes,90,High,0
+6961-VCPMC,80.4,46,Month-to-month,Fiber optic,Yes,60,Medium,0
+6967-QIQRV,101.9,15,One year,Fiber optic,No,55,Medium,0
+6968-GMKPR,81.55,55,Month-to-month,Fiber optic,No,60,Medium,0
+6969-MVBAI,90.1,9,Month-to-month,Fiber optic,No,90,High,0
+6979-ZNSFF,87.05,8,Month-to-month,Fiber optic,Yes,90,High,0
+6985-HAYWX,79.3,26,Month-to-month,Fiber optic,No,60,Medium,0
+6986-IJDHX,86.3,39,Month-to-month,Fiber optic,Yes,70,Medium,0
+6986-IXNDM,92.9,14,Month-to-month,Fiber optic,No,80,High,0
+6987-XQSJT,79.5,54,Month-to-month,Fiber optic,Yes,60,Medium,0
+6988-CJEYV,98.7,49,Month-to-month,Fiber optic,No,70,Medium,0
+6993-OHLXR,68.95,2,Month-to-month,Fiber optic,Yes,90,High,0
+6994-FGRHH,106.15,70,One year,Fiber optic,No,50,Medium,0
+6996-KNSML,74.9,1,Month-to-month,Fiber optic,Yes,90,High,0
+7005-CCBKV,84.4,6,Month-to-month,Fiber optic,Yes,90,High,0
+7011-CVEUC,95.7,25,Month-to-month,Fiber optic,No,65,Medium,0
+7016-NVRIC,90.1,29,One year,Fiber optic,No,50,Medium,0
+7018-WBJNK,78.3,13,Month-to-month,Fiber optic,No,70,Medium,0
+7020-OZKXZ,75.5,9,Month-to-month,Fiber optic,No,80,High,0
+7024-OHCCK,93.85,2,Month-to-month,Fiber optic,Yes,100,High,0
+7025-IWFHT,89.55,41,One year,Fiber optic,No,50,Medium,0
+7028-DVOIQ,99.05,35,Month-to-month,Fiber optic,Yes,70,Medium,0
+7029-RPUAV,100.45,17,Month-to-month,Fiber optic,Yes,80,High,0
+7030-NJVDP,89.25,24,Month-to-month,Fiber optic,No,70,Medium,0
+7044-YAACC,70.2,4,Month-to-month,Fiber optic,No,90,High,0
+7047-FWEYA,103.15,46,One year,Fiber optic,No,50,Medium,0
+7048-GXDAY,106.4,39,Month-to-month,Fiber optic,No,65,Medium,0
+7055-VKGDA,105.4,54,One year,Fiber optic,Yes,45,Medium,0
+7056-IMHCC,101.9,53,Month-to-month,Fiber optic,Yes,70,Medium,0
+7064-FRRSW,99.0,48,One year,Fiber optic,No,55,Medium,0
+7067-KSAZT,106.25,65,One year,Fiber optic,Yes,55,Medium,0
+7072-MBHEV,78.1,11,Month-to-month,Fiber optic,No,80,High,0
+7074-IEVOJ,79.4,3,Month-to-month,Fiber optic,Yes,90,High,0
+7079-QRCBC,98.75,24,Month-to-month,Fiber optic,Yes,80,High,0
+7080-TNUWP,95.0,70,One year,Fiber optic,No,55,Medium,0
+7089-IVVAZ,103.35,8,Month-to-month,Fiber optic,Yes,80,High,0
+7103-IPXPJ,99.4,50,One year,Fiber optic,No,50,Medium,0
+7112-OPOTK,68.25,33,Month-to-month,Fiber optic,Yes,60,Medium,0
+7120-RFMVS,84.5,1,Month-to-month,Fiber optic,Yes,90,High,0
+7123-WQUHX,95.0,38,One year,Fiber optic,No,50,Medium,0
+7124-UGSUR,104.4,61,One year,Fiber optic,Yes,55,Medium,0
+7126-RBHSD,78.9,17,Month-to-month,Fiber optic,No,65,Medium,0
+7128-GGCNO,72.8,46,Month-to-month,Fiber optic,No,60,Medium,0
+7129-AZJDE,78.95,34,One year,Fiber optic,No,45,Medium,0
+7129-CAKJW,80.05,17,Month-to-month,Fiber optic,No,70,Medium,0
+7130-VTEWQ,75.75,8,Month-to-month,Fiber optic,Yes,80,High,0
+7130-YXBRO,111.45,48,Month-to-month,Fiber optic,No,65,Medium,0
+7133-VBDCG,79.85,25,Month-to-month,Fiber optic,Yes,55,Medium,0
+7134-MJPDY,102.85,66,One year,Fiber optic,No,50,Medium,0
+7137-RYLPP,85.7,37,Month-to-month,Fiber optic,Yes,70,Medium,0
+7142-HVGBG,103.0,43,Month-to-month,Fiber optic,Yes,70,Medium,0
+7145-FEJWU,105.3,12,Month-to-month,Fiber optic,No,90,High,0
+7147-AYBAA,70.35,37,Month-to-month,Fiber optic,No,60,Medium,0
+7148-XZPHA,79.4,55,Month-to-month,Fiber optic,No,55,Medium,0
+7153-OANIO,69.95,1,Month-to-month,Fiber optic,Yes,90,High,0
+7156-MHUGY,90.5,13,Month-to-month,Fiber optic,Yes,80,High,0
+7180-PISOG,74.5,1,Month-to-month,Fiber optic,Yes,90,High,0
+7181-BQYBV,102.45,1,Month-to-month,Fiber optic,Yes,95,High,0
+7181-OQCUT,103.85,21,Month-to-month,Fiber optic,No,75,Medium,0
+7188-CBBBA,95.5,65,One year,Fiber optic,No,55,Medium,0
+7198-GLXTC,79.0,2,Month-to-month,Fiber optic,Yes,90,High,0
+7203-OYKCT,104.95,72,One year,Fiber optic,No,55,Medium,0
+7206-GZCDC,69.25,1,Month-to-month,Fiber optic,Yes,90,High,0
+7206-PQBBZ,70.2,11,Month-to-month,Fiber optic,No,80,High,0
+7207-RMRDB,105.5,65,Month-to-month,Fiber optic,Yes,70,Medium,0
+7209-JCUDS,94.9,10,Month-to-month,Fiber optic,Yes,90,High,0
+7216-EWTRS,100.8,1,Month-to-month,Fiber optic,Yes,100,High,0
+7218-HKQFK,94.2,2,Month-to-month,Fiber optic,Yes,95,High,0
+7225-CBZPL,94.8,17,Month-to-month,Fiber optic,No,80,High,0
+7228-OMTPN,88.45,4,Month-to-month,Fiber optic,Yes,100,High,0
+7233-DRTRF,102.4,63,Month-to-month,Fiber optic,No,70,Medium,0
+7234-FECYN,101.35,8,Month-to-month,Fiber optic,Yes,90,High,0
+7235-NXZCP,74.85,2,Month-to-month,Fiber optic,Yes,90,High,0
+7240-FQLHE,99.75,18,Month-to-month,Fiber optic,Yes,75,Medium,0
+7241-AJHFS,87.65,32,Month-to-month,Fiber optic,No,60,Medium,0
+7245-JMTTQ,111.5,51,One year,Fiber optic,No,50,Medium,0
+7245-NIIWQ,69.85,3,Month-to-month,Fiber optic,No,90,High,0
+7248-VZQLC,85.2,47,Month-to-month,Fiber optic,Yes,70,Medium,0
+7249-WBIYX,85.6,10,Month-to-month,Fiber optic,Yes,90,High,0
+7251-LJBQN,103.75,40,One year,Fiber optic,No,50,Medium,0
+7251-XFOIL,89.2,61,Month-to-month,Fiber optic,No,70,Medium,0
+7254-IQWOZ,69.65,1,Month-to-month,Fiber optic,Yes,90,High,0
+7268-IGMFD,93.9,18,Month-to-month,Fiber optic,No,75,Medium,0
+7270-BDIOA,90.0,22,Month-to-month,Fiber optic,Yes,75,Medium,0
+7271-AJDTL,94.45,55,Month-to-month,Fiber optic,No,70,Medium,0
+7272-QDCKA,100.2,28,One year,Fiber optic,No,55,Medium,0
+7274-RTAPZ,90.55,1,Month-to-month,Fiber optic,Yes,100,High,0
+7277-OZCGZ,89.05,22,Month-to-month,Fiber optic,No,70,Medium,0
+7278-CKDNC,80.5,24,Month-to-month,Fiber optic,No,70,Medium,0
+7279-BUYWN,113.2,41,Month-to-month,Fiber optic,Yes,65,Medium,0
+7294-TMAOP,90.55,1,Month-to-month,Fiber optic,Yes,100,High,0
+7295-JOMMD,98.1,4,Month-to-month,Fiber optic,Yes,95,High,0
+7296-PIXQY,70.2,14,Month-to-month,Fiber optic,No,70,Medium,0
+7299-GNVPL,84.4,23,Month-to-month,Fiber optic,No,60,Medium,0
+7314-OXENN,82.0,2,Month-to-month,Fiber optic,Yes,90,High,0
+7315-WYOAW,100.75,13,Month-to-month,Fiber optic,No,75,Medium,0
+7321-PKUYW,90.15,11,Month-to-month,Fiber optic,Yes,85,High,0
+7321-VGNKU,70.35,2,Month-to-month,Fiber optic,No,90,High,0
+7326-RIGQZ,69.8,6,Month-to-month,Fiber optic,No,90,High,0
+7330-WZLNC,90.8,5,Month-to-month,Fiber optic,Yes,100,High,0
+7341-LXCAF,74.65,4,Month-to-month,Fiber optic,Yes,90,High,0
+7346-MEDWM,83.25,59,Month-to-month,Fiber optic,No,60,Medium,0
+7354-OIJLX,75.85,9,Month-to-month,Fiber optic,No,80,High,0
+7356-IWLFW,80.0,46,Month-to-month,Fiber optic,No,60,Medium,0
+7363-QTBIW,79.75,9,Month-to-month,Fiber optic,No,80,High,0
+7379-FNIUJ,100.2,2,Month-to-month,Fiber optic,No,95,High,0
+7379-POKDZ,70.3,3,Month-to-month,Fiber optic,Yes,90,High,0
+7392-YYPYJ,100.65,22,Month-to-month,Fiber optic,No,80,High,0
+7394-FKDNK,89.45,9,Month-to-month,Fiber optic,Yes,90,High,0
+7394-LWLYN,70.15,2,Month-to-month,Fiber optic,No,90,High,0
+7395-IGJOS,81.5,17,Month-to-month,Fiber optic,Yes,70,Medium,0
+7398-LXGYX,84.8,44,Month-to-month,Fiber optic,No,55,Medium,0
+7398-SKNQZ,94.9,3,Month-to-month,Fiber optic,No,100,High,0
+7401-RUBNK,74.8,18,Month-to-month,Fiber optic,No,65,Medium,0
+7402-EYFXX,93.6,26,Month-to-month,Fiber optic,No,70,Medium,0
+7402-PWYJJ,91.15,53,One year,Fiber optic,No,50,Medium,0
+7409-JURKQ,111.8,53,One year,Fiber optic,No,50,Medium,0
+7409-KIUTL,71.0,1,Month-to-month,Fiber optic,Yes,90,High,0
+7410-OIEDU,79.85,10,Month-to-month,Fiber optic,No,75,Medium,0
+7410-YTJIK,75.45,7,Month-to-month,Fiber optic,Yes,80,High,0
+7422-WNBTY,93.35,33,Month-to-month,Fiber optic,No,70,Medium,0
+7426-GSWPO,103.5,64,Month-to-month,Fiber optic,No,65,Medium,0
+7426-RHZGU,95.9,9,Month-to-month,Fiber optic,No,85,High,0
+7426-WEIJX,80.95,60,Month-to-month,Fiber optic,No,55,Medium,0
+7432-FFVAR,90.95,46,One year,Fiber optic,No,50,Medium,0
+7439-DKZTW,80.55,1,Month-to-month,Fiber optic,No,90,High,0
+7449-HVPIV,90.4,55,Month-to-month,Fiber optic,No,70,Medium,0
+7450-NWRTR,99.45,12,Month-to-month,Fiber optic,Yes,90,High,0
+7460-ITWWP,86.1,45,Month-to-month,Fiber optic,No,70,Medium,0
+7465-ZZRVX,70.35,1,Month-to-month,Fiber optic,No,90,High,0
+7472-EQOAV,86.7,71,One year,Fiber optic,No,50,Medium,0
+7479-NITWS,89.35,7,Month-to-month,Fiber optic,Yes,90,High,0
+7480-QNVZJ,95.7,50,Month-to-month,Fiber optic,Yes,70,Medium,0
+7481-ATQQS,90.85,49,Month-to-month,Fiber optic,Yes,70,Medium,0
+7483-IQWIB,92.95,37,Month-to-month,Fiber optic,No,70,Medium,0
+7486-KSRVI,100.0,43,One year,Fiber optic,Yes,50,Medium,0
+7488-MXJIV,85.65,4,Month-to-month,Fiber optic,Yes,100,High,0
+7493-TPUWZ,79.15,1,Month-to-month,Fiber optic,Yes,90,High,0
+7495-OOKFY,80.65,8,Month-to-month,Fiber optic,Yes,80,High,0
+7503-QQRVF,74.3,16,Month-to-month,Fiber optic,Yes,70,Medium,0
+7503-ZGUZJ,84.65,1,Month-to-month,Fiber optic,Yes,90,High,0
+7504-UWHNB,69.75,25,Month-to-month,Fiber optic,No,60,Medium,0
+7508-MYBOG,86.1,14,Month-to-month,Fiber optic,Yes,80,High,0
+7508-SMHXL,89.0,15,Month-to-month,Fiber optic,No,80,High,0
+7517-LDMPS,84.6,12,Month-to-month,Fiber optic,No,80,High,0
+7517-SAWMO,73.2,19,Month-to-month,Fiber optic,Yes,65,Medium,0
+7526-BEZQB,96.05,12,Month-to-month,Fiber optic,Yes,90,High,0
+7529-ZDFXI,89.85,57,Month-to-month,Fiber optic,No,70,Medium,0
+7530-HDYDS,84.25,38,Month-to-month,Fiber optic,Yes,55,Medium,0
+7534-BFESC,76.1,24,Month-to-month,Fiber optic,Yes,70,Medium,0
+7537-CBQUZ,109.4,63,Month-to-month,Fiber optic,No,65,Medium,0
+7538-GWHML,69.65,2,Month-to-month,Fiber optic,Yes,90,High,0
+7544-ZVIKX,105.05,58,One year,Fiber optic,No,50,Medium,0
+7547-EKNFS,95.25,42,Month-to-month,Fiber optic,Yes,70,Medium,0
+7548-SEPYI,96.25,5,Month-to-month,Fiber optic,Yes,100,High,0
+7549-MYGPK,100.55,63,Month-to-month,Fiber optic,Yes,65,Medium,0
+7550-WIQVA,108.25,50,One year,Fiber optic,No,50,Medium,0
+7562-GSUHK,93.2,16,Month-to-month,Fiber optic,Yes,80,High,0
+7562-UXTPG,70.15,13,Month-to-month,Fiber optic,No,70,Medium,0
+7563-BIUPC,80.6,5,Month-to-month,Fiber optic,Yes,90,High,0
+7567-ECMCM,79.85,24,Month-to-month,Fiber optic,No,70,Medium,0
+7571-YXDAD,74.9,2,Month-to-month,Fiber optic,Yes,90,High,0
+7576-JMYWV,110.2,46,Month-to-month,Fiber optic,No,60,Medium,0
+7576-OYWBN,76.05,3,Month-to-month,Fiber optic,Yes,90,High,0
+7577-SWIFR,89.25,1,Month-to-month,Fiber optic,No,100,High,0
+7586-ZATGZ,84.9,40,Month-to-month,Fiber optic,No,60,Medium,0
+7587-AOVVU,100.75,27,Month-to-month,Fiber optic,No,60,Medium,0
+7594-LZNWR,69.15,34,Month-to-month,Fiber optic,No,60,Medium,0
+7594-RQHXR,79.6,1,Month-to-month,Fiber optic,Yes,90,High,0
+7595-EUIVN,75.8,1,Month-to-month,Fiber optic,Yes,90,High,0
+7596-LDUXP,85.15,12,One year,Fiber optic,No,70,Medium,0
+7598-UAASY,76.4,2,Month-to-month,Fiber optic,Yes,90,High,0
+7599-FKVXZ,106.15,42,Month-to-month,Fiber optic,Yes,65,Medium,0
+7603-USHJS,73.75,12,Month-to-month,Fiber optic,Yes,80,High,0
+7607-QKKTJ,95.0,45,One year,Fiber optic,No,55,Medium,0
+7611-YKYTC,75.0,22,Month-to-month,Fiber optic,No,65,Medium,0
+7613-LLQFO,84.45,12,Month-to-month,Fiber optic,Yes,80,High,0
+7621-VPNET,85.9,42,Month-to-month,Fiber optic,No,65,Medium,0
+7625-XCQRH,76.5,11,Month-to-month,Fiber optic,Yes,80,High,0
+7627-JKIAZ,78.95,37,Month-to-month,Fiber optic,Yes,60,Medium,0
+7629-WFGLW,95.65,56,One year,Fiber optic,No,45,Medium,0
+7632-MNYOY,110.9,66,One year,Fiber optic,Yes,50,Medium,0
+7638-QVMVY,79.0,7,Month-to-month,Fiber optic,Yes,80,High,0
+7641-EUYET,100.7,46,Month-to-month,Fiber optic,Yes,65,Medium,0
+7654-YWJUF,84.25,43,One year,Fiber optic,No,35,Low,0
+7658-UYUQS,86.55,21,Month-to-month,Fiber optic,No,80,High,0
+7660-HDPJV,69.2,1,Month-to-month,Fiber optic,Yes,90,High,0
+7661-CPURM,87.7,19,One year,Fiber optic,No,60,Medium,0
+7663-ZTEGJ,100.55,29,One year,Fiber optic,No,50,Medium,0
+7665-TOALD,69.6,1,Month-to-month,Fiber optic,Yes,90,High,0
+7668-XCFYV,92.55,17,Month-to-month,Fiber optic,No,80,High,0
+7674-YTAFD,79.95,33,One year,Fiber optic,No,40,Medium,0
+7682-AZNDK,89.85,34,Month-to-month,Fiber optic,No,70,Medium,0
+7693-LCKZL,80.15,5,Month-to-month,Fiber optic,Yes,90,High,0
+7693-QPEFS,72.95,52,Month-to-month,Fiber optic,No,60,Medium,0
+7694-VLBWQ,104.1,67,One year,Fiber optic,Yes,55,Medium,0
+7703-ZEKEF,81.0,23,Month-to-month,Fiber optic,Yes,70,Medium,0
+7714-YXSMB,100.5,26,Month-to-month,Fiber optic,No,70,Medium,0
+7716-YTYHG,82.05,48,One year,Fiber optic,Yes,45,Medium,0
+7718-RXDGG,68.6,15,Month-to-month,Fiber optic,No,70,Medium,0
+7718-UPSKJ,106.4,69,One year,Fiber optic,No,45,Medium,0
+7722-CVFXN,105.2,54,One year,Fiber optic,No,50,Medium,0
+7730-IUTDZ,75.2,43,Month-to-month,Fiber optic,Yes,55,Medium,0
+7739-LAXOG,91.05,32,Month-to-month,Fiber optic,Yes,70,Medium,0
+7748-UMTRK,101.3,30,Month-to-month,Fiber optic,No,65,Medium,0
+7752-XUSCI,105.9,60,Month-to-month,Fiber optic,Yes,70,Medium,0
+7760-OYPDY,80.65,2,Month-to-month,Fiber optic,Yes,90,High,0
+7774-OJSXI,103.45,31,One year,Fiber optic,Yes,55,Medium,0
+7776-QGYJC,81.5,39,Month-to-month,Fiber optic,No,55,Medium,0
+7779-LGOVN,86.65,10,Month-to-month,Fiber optic,Yes,90,High,0
+7780-OTDSO,99.4,18,Month-to-month,Fiber optic,Yes,75,Medium,0
+7783-YKGDV,99.7,12,Month-to-month,Fiber optic,Yes,85,High,0
+7786-WBJYI,77.95,4,Month-to-month,Fiber optic,Yes,90,High,0
+7789-CRUVC,94.2,61,Month-to-month,Fiber optic,No,60,Medium,0
+7789-HKSBS,105.2,42,One year,Fiber optic,No,50,Medium,0
+7801-KICAO,74.15,18,Month-to-month,Fiber optic,No,70,Medium,0
+7803-XOCCZ,84.05,52,Month-to-month,Fiber optic,No,50,Medium,0
+7813-ZGGAW,96.6,31,Month-to-month,Fiber optic,No,65,Medium,0
+7817-BOQPW,75.55,2,Month-to-month,Fiber optic,Yes,90,High,0
+7820-ZYGNY,90.45,63,One year,Fiber optic,No,55,Medium,0
+7821-DPRQE,107.7,68,Month-to-month,Fiber optic,No,60,Medium,0
+7823-JSOAG,74.5,3,Month-to-month,Fiber optic,No,90,High,0
+7824-PANSQ,80.65,58,Month-to-month,Fiber optic,No,55,Medium,0
+7825-ECJRF,106.6,19,Month-to-month,Fiber optic,Yes,70,Medium,0
+7826-VVKWT,96.55,24,Two year,Fiber optic,No,50,Medium,0
+7831-QGOXH,85.2,18,Month-to-month,Fiber optic,Yes,80,High,0
+7850-VWJUU,75.0,23,Month-to-month,Fiber optic,No,65,Medium,0
+7851-WZEKY,95.15,2,Month-to-month,Fiber optic,Yes,100,High,0
+7852-LECYP,93.8,13,Month-to-month,Fiber optic,No,75,Medium,0
+7855-DIWPO,68.65,21,Month-to-month,Fiber optic,No,70,Medium,0
+7856-GANIL,98.7,45,One year,Fiber optic,No,50,Medium,0
+7858-GTZSP,86.55,12,Month-to-month,Fiber optic,No,90,High,0
+7861-UVUFT,84.3,15,Month-to-month,Fiber optic,Yes,70,Medium,0
+7879-CGSFV,100.9,55,One year,Fiber optic,No,50,Medium,0
+7881-INRLC,100.85,45,Month-to-month,Fiber optic,Yes,70,Medium,0
+7892-POOKP,104.8,28,Month-to-month,Fiber optic,Yes,65,Medium,0
+7892-QVYKW,85.6,23,Month-to-month,Fiber optic,No,80,High,0
+7901-HXJVA,76.45,14,Month-to-month,Fiber optic,No,70,Medium,0
+7901-TBKJX,101.05,56,Month-to-month,Fiber optic,No,70,Medium,0
+7903-CMPEY,80.3,1,Month-to-month,Fiber optic,Yes,85,High,0
+7908-QCBCA,69.4,1,Month-to-month,Fiber optic,Yes,90,High,0
+7912-SYRQT,75.1,7,Month-to-month,Fiber optic,Yes,80,High,0
+7916-VCCPB,73.25,16,Month-to-month,Fiber optic,No,70,Medium,0
+7921-LMDFQ,94.0,51,One year,Fiber optic,No,55,Medium,0
+7924-GJZFI,69.3,25,Month-to-month,Fiber optic,No,60,Medium,0
+7927-AUXBZ,85.15,30,Month-to-month,Fiber optic,Yes,65,Medium,0
+7928-VJYAB,90.6,11,Month-to-month,Fiber optic,No,90,High,0
+7929-DMBCV,81.0,20,Month-to-month,Fiber optic,No,65,Medium,0
+7938-OUHIO,98.7,3,Month-to-month,Fiber optic,Yes,95,High,0
+7940-UQQUG,104.4,64,One year,Fiber optic,No,45,Medium,0
+7943-RQCHR,94.75,9,Month-to-month,Fiber optic,Yes,90,High,0
+7952-OBOYL,89.85,3,Month-to-month,Fiber optic,No,95,High,0
+7957-RYHQD,79.2,40,Month-to-month,Fiber optic,Yes,55,Medium,0
+7964-VEXDG,80.35,21,Month-to-month,Fiber optic,No,65,Medium,0
+7964-ZRKKG,88.4,67,One year,Fiber optic,No,55,Medium,0
+7967-HYCDE,70.7,8,Month-to-month,Fiber optic,No,80,High,0
+7969-AULMZ,97.35,21,Month-to-month,Fiber optic,Yes,80,High,0
+7975-TZMLR,103.1,47,One year,Fiber optic,No,55,Medium,0
+7978-DKUQH,74.6,25,Month-to-month,Fiber optic,No,60,Medium,0
+7979-CORPM,90.55,24,Month-to-month,Fiber optic,Yes,80,High,0
+7982-VCELR,94.8,36,Month-to-month,Fiber optic,No,70,Medium,0
+7993-NQLJE,75.1,15,Month-to-month,Fiber optic,No,65,Medium,0
+7993-PYKOF,75.0,8,Month-to-month,Fiber optic,Yes,75,Medium,0
+7994-UYIVZ,85.65,8,Month-to-month,Fiber optic,No,90,High,0
+7997-EASSD,81.2,63,One year,Fiber optic,No,40,Medium,0
+8000-REIQB,69.95,1,Month-to-month,Fiber optic,Yes,90,High,0
+8008-ESFLK,110.5,53,One year,Fiber optic,No,45,Medium,0
+8010-EZLOU,80.2,15,Month-to-month,Fiber optic,Yes,70,Medium,0
+8012-SOUDQ,90.25,43,Month-to-month,Fiber optic,No,70,Medium,0
+8016-NCFVO,116.5,55,Month-to-month,Fiber optic,No,60,Medium,0
+8017-LXHFA,94.75,23,Month-to-month,Fiber optic,Yes,80,High,0
+8019-ENHXU,99.45,42,Month-to-month,Fiber optic,Yes,65,Medium,0
+8020-BWHYL,75.3,15,Month-to-month,Fiber optic,Yes,70,Medium,0
+8023-QHAIO,76.85,56,Month-to-month,Fiber optic,No,55,Medium,0
+8033-VCZGH,103.95,50,One year,Fiber optic,No,50,Medium,0
+8034-RYTVV,84.25,55,One year,Fiber optic,No,40,Medium,0
+8035-PWSEV,89.25,6,Month-to-month,Fiber optic,No,95,High,0
+8040-MNRTF,71.1,1,Month-to-month,Fiber optic,No,90,High,0
+8042-JVNFH,71.35,1,Month-to-month,Fiber optic,Yes,90,High,0
+8051-HJRLT,70.55,1,Month-to-month,Fiber optic,Yes,90,High,0
+8058-DMYRU,90.05,54,Month-to-month,Fiber optic,No,70,Medium,0
+8058-INTPH,79.65,1,Month-to-month,Fiber optic,Yes,90,High,0
+8058-JMEQO,84.45,9,Month-to-month,Fiber optic,Yes,80,High,0
+8059-UDZFY,105.35,33,Month-to-month,Fiber optic,No,70,Medium,0
+8062-YBDOE,69.65,1,Month-to-month,Fiber optic,Yes,90,High,0
+8063-GBATB,85.25,27,Month-to-month,Fiber optic,Yes,70,Medium,0
+8063-RJYNF,94.25,16,Month-to-month,Fiber optic,Yes,75,Medium,0
+8065-BVEPF,99.1,65,Month-to-month,Fiber optic,No,70,Medium,0
+8065-QBYTO,99.65,71,One year,Fiber optic,No,45,Medium,0
+8065-YKXKD,74.75,10,Month-to-month,Fiber optic,Yes,80,High,0
+8079-XRJRS,89.75,65,One year,Fiber optic,Yes,50,Medium,0
+8083-YTZES,74.35,4,Month-to-month,Fiber optic,Yes,90,High,0
+8086-OVPWV,80.2,2,Month-to-month,Fiber optic,Yes,90,High,0
+8087-LGYHQ,94.05,9,Month-to-month,Fiber optic,No,90,High,0
+8091-TTVAX,100.35,58,One year,Fiber optic,No,55,Medium,0
+8098-LLAZX,95.45,4,Month-to-month,Fiber optic,Yes,100,High,0
+8104-OSKWT,79.8,12,Month-to-month,Fiber optic,No,75,Medium,0
+8107-KNCIM,75.1,14,Month-to-month,Fiber optic,No,70,Medium,0
+8111-RKSPX,72.2,4,Month-to-month,Fiber optic,Yes,90,High,0
+8111-SLLHI,105.65,39,Month-to-month,Fiber optic,Yes,70,Medium,0
+8118-LSUEL,106.4,23,Month-to-month,Fiber optic,Yes,80,High,0
+8118-TJAFG,101.5,9,Month-to-month,Fiber optic,No,85,High,0
+8120-JDCAM,69.55,4,Month-to-month,Fiber optic,No,90,High,0
+8123-QBNAZ,104.5,36,Month-to-month,Fiber optic,No,65,Medium,0
+8128-YVJRG,79.65,7,Month-to-month,Fiber optic,Yes,75,Medium,0
+8132-YPVBX,85.95,6,Month-to-month,Fiber optic,No,100,High,0
+8133-ANHHJ,103.0,49,One year,Fiber optic,No,45,Medium,0
+8149-AIQCG,73.15,39,Month-to-month,Fiber optic,No,60,Medium,0
+8149-RSOUN,93.85,1,Month-to-month,Fiber optic,Yes,100,High,0
+8152-UOBNY,106.8,50,One year,Fiber optic,No,50,Medium,0
+8155-IBNHG,75.4,24,Month-to-month,Fiber optic,Yes,70,Medium,0
+8161-QYMTT,94.1,7,Month-to-month,Fiber optic,No,90,High,0
+8166-ORCHU,93.55,33,One year,Fiber optic,No,45,Medium,0
+8168-UQWWF,97.85,11,Month-to-month,Fiber optic,Yes,90,High,0
+8178-EYZUO,93.7,46,Month-to-month,Fiber optic,Yes,65,Medium,0
+8182-BJDSI,89.95,28,Month-to-month,Fiber optic,Yes,70,Medium,0
+8183-ONMXC,80.75,2,Month-to-month,Fiber optic,Yes,90,High,0
+8185-UPYBR,75.5,6,Month-to-month,Fiber optic,Yes,90,High,0
+8189-HBVRW,90.8,53,Month-to-month,Fiber optic,No,65,Medium,0
+8189-XRIKE,90.95,32,Month-to-month,Fiber optic,No,70,Medium,0
+8199-ZLLSA,118.35,67,One year,Fiber optic,Yes,45,Medium,0
+8212-CRQXP,80.0,22,Month-to-month,Fiber optic,No,70,Medium,0
+8212-DJRCH,90.35,5,Month-to-month,Fiber optic,No,95,High,0
+8213-TAZPM,108.75,69,One year,Fiber optic,No,50,Medium,0
+8224-DWCKX,73.3,12,Month-to-month,Fiber optic,No,80,High,0
+8225-BTJAU,79.25,10,Month-to-month,Fiber optic,Yes,80,High,0
+8226-BXGES,89.45,64,One year,Fiber optic,No,50,Medium,0
+8231-BSWXX,79.05,71,One year,Fiber optic,No,45,Medium,0
+8242-SOQUO,84.7,5,Month-to-month,Fiber optic,No,90,High,0
+8245-UMPYT,96.4,16,Month-to-month,Fiber optic,Yes,80,High,0
+8258-GSTJK,77.0,3,Month-to-month,Fiber optic,Yes,90,High,0
+8266-VBFQL,90.4,4,Month-to-month,Fiber optic,No,95,High,0
+8267-ZNYVZ,103.75,33,One year,Fiber optic,Yes,45,Medium,0
+8268-YDIXR,93.15,56,One year,Fiber optic,No,50,Medium,0
+8270-RKSAP,70.5,9,Month-to-month,Fiber optic,No,80,High,0
+8272-ONJLV,95.7,12,One year,Fiber optic,No,75,Medium,0
+8276-MQBYC,97.8,51,Month-to-month,Fiber optic,Yes,70,Medium,0
+8290-YWKHZ,93.2,32,Month-to-month,Fiber optic,Yes,70,Medium,0
+8294-UIMBA,94.4,30,One year,Fiber optic,No,50,Medium,0
+8309-IEYJD,70.6,1,Month-to-month,Fiber optic,No,90,High,0
+8313-NDOIA,104.15,24,Month-to-month,Fiber optic,No,80,High,0
+8325-QRPZR,75.15,7,Month-to-month,Fiber optic,No,80,High,0
+8327-LZKAS,107.55,43,One year,Fiber optic,Yes,50,Medium,0
+8329-GWVPJ,69.75,50,Month-to-month,Fiber optic,No,60,Medium,0
+8329-UTMVM,104.65,27,One year,Fiber optic,No,50,Medium,0
+8337-MSSXB,86.3,14,Month-to-month,Fiber optic,Yes,80,High,0
+8337-UPOAQ,89.8,10,Month-to-month,Fiber optic,Yes,90,High,0
+8348-JLBUG,80.3,64,One year,Fiber optic,No,40,Medium,0
+8357-EQXFO,95.35,7,Month-to-month,Fiber optic,Yes,90,High,0
+8361-LTMKD,74.4,4,Month-to-month,Fiber optic,Yes,90,High,0
+8372-JUXUI,74.35,1,Month-to-month,Fiber optic,Yes,90,High,0
+8374-XGEJJ,101.0,43,Month-to-month,Fiber optic,Yes,70,Medium,0
+8375-DKEBR,69.6,1,Month-to-month,Fiber optic,Yes,90,High,0
+8375-KVTHK,100.3,68,One year,Fiber optic,No,50,Medium,0
+8378-LKJAF,101.15,38,Month-to-month,Fiber optic,No,70,Medium,0
+8380-PEFPE,71.65,1,Month-to-month,Fiber optic,Yes,90,High,0
+8382-SHQEH,84.9,8,Month-to-month,Fiber optic,Yes,80,High,0
+8384-FZBJK,100.6,57,Month-to-month,Fiber optic,No,70,Medium,0
+8387-MOJJT,77.95,42,Month-to-month,Fiber optic,Yes,60,Medium,0
+8393-DLHGA,95.9,25,Month-to-month,Fiber optic,Yes,70,Medium,0
+8397-MVTAZ,100.05,34,Month-to-month,Fiber optic,Yes,70,Medium,0
+8402-EIVQS,100.9,67,One year,Fiber optic,No,50,Medium,0
+8404-FYDIB,86.65,26,Month-to-month,Fiber optic,No,65,Medium,0
+8405-IGQFX,90.05,63,One year,Fiber optic,No,50,Medium,0
+8406-LNMHF,82.95,59,One year,Fiber optic,No,40,Medium,0
+8413-VONUO,95.65,2,Month-to-month,Fiber optic,Yes,100,High,0
+8414-MYSHR,91.4,5,Month-to-month,Fiber optic,Yes,100,High,0
+8417-FMLZI,83.55,6,Month-to-month,Fiber optic,Yes,90,High,0
+8417-GSODA,92.2,28,One year,Fiber optic,No,55,Medium,0
+8421-WZOOW,95.3,57,Month-to-month,Fiber optic,No,65,Medium,0
+8429-XIBUM,101.35,22,Month-to-month,Fiber optic,Yes,75,Medium,0
+8433-WPJTV,103.9,65,One year,Fiber optic,No,50,Medium,0
+8433-WXGNA,75.7,2,Month-to-month,Fiber optic,Yes,85,High,0
+8436-BJUMM,83.75,26,Month-to-month,Fiber optic,Yes,60,Medium,0
+8443-WVPSS,99.85,10,Month-to-month,Fiber optic,Yes,85,High,0
+8443-ZRDBZ,76.05,4,Month-to-month,Fiber optic,Yes,90,High,0
+8444-WRIDW,80.45,66,Month-to-month,Fiber optic,Yes,60,Medium,0
+8456-QDAVC,78.7,19,Month-to-month,Fiber optic,No,70,Medium,0
+8468-EHYJA,99.65,57,Month-to-month,Fiber optic,No,65,Medium,0
+8473-VUVJN,73.65,1,Month-to-month,Fiber optic,Yes,90,High,0
+8481-YYXWG,89.35,5,Month-to-month,Fiber optic,Yes,95,High,0
+8485-GJCDN,69.05,5,Month-to-month,Fiber optic,Yes,90,High,0
+8486-AYEQH,76.05,31,Month-to-month,Fiber optic,No,60,Medium,0
+8490-BXHEO,80.55,18,Month-to-month,Fiber optic,No,70,Medium,0
+8495-LJDFO,108.95,64,Month-to-month,Fiber optic,No,60,Medium,0
+8496-DMZUK,90.4,30,One year,Fiber optic,No,50,Medium,0
+8496-EJAUI,73.85,19,Month-to-month,Fiber optic,Yes,70,Medium,0
+8510-AWCXC,100.8,13,Month-to-month,Fiber optic,Yes,75,Medium,0
+8519-IMDHU,85.6,15,Month-to-month,Fiber optic,Yes,80,High,0
+8519-QJGJD,75.35,14,Month-to-month,Fiber optic,Yes,70,Medium,0
+8535-SFUTN,106.45,61,Month-to-month,Fiber optic,No,65,Medium,0
+8541-QVFKM,73.5,8,Month-to-month,Fiber optic,No,80,High,0
+8544-GOQSH,80.05,14,Month-to-month,Fiber optic,No,65,Medium,0
+8547-NSBBO,96.75,35,Month-to-month,Fiber optic,No,60,Medium,0
+8552-OBVRU,104.5,48,Month-to-month,Fiber optic,No,60,Medium,0
+8561-NMTBD,112.35,67,One year,Fiber optic,No,50,Medium,0
+8563-OYMQY,90.95,17,Month-to-month,Fiber optic,No,80,High,0
+8564-LDKFL,106.0,40,One year,Fiber optic,No,55,Medium,0
+8565-CLBZW,89.85,24,Month-to-month,Fiber optic,Yes,80,High,0
+8565-HBFNN,107.2,69,One year,Fiber optic,No,45,Medium,0
+8580-AECUZ,79.1,1,Month-to-month,Fiber optic,Yes,90,High,0
+8584-KMVXD,75.6,8,Month-to-month,Fiber optic,No,80,High,0
+8593-WHYHV,85.3,3,Month-to-month,Fiber optic,Yes,100,High,0
+8597-CWYHH,94.35,43,One year,Fiber optic,No,55,Medium,0
+8603-IJWDN,86.6,1,Month-to-month,Fiber optic,Yes,100,High,0
+8610-WFCJF,95.6,49,Month-to-month,Fiber optic,Yes,70,Medium,0
+8617-ENBDS,73.6,3,Month-to-month,Fiber optic,No,90,High,0
+8621-MNIHH,94.25,34,Month-to-month,Fiber optic,Yes,70,Medium,0
+8622-ZLFKO,90.75,6,Month-to-month,Fiber optic,No,100,High,0
+8623-TMRBY,84.2,51,Month-to-month,Fiber optic,Yes,60,Medium,0
+8625-AZYZY,104.65,24,Month-to-month,Fiber optic,Yes,80,High,0
+8627-ZYGSZ,78.9,47,One year,Fiber optic,No,45,Medium,0
+8630-FJLIB,69.8,18,Month-to-month,Fiber optic,No,70,Medium,0
+8631-WUXGY,99.8,46,Month-to-month,Fiber optic,No,70,Medium,0
+8634-CILSZ,104.7,69,One year,Fiber optic,Yes,50,Medium,0
+8634-MPHTR,100.05,47,Month-to-month,Fiber optic,Yes,70,Medium,0
+8637-XJIVR,78.95,12,Month-to-month,Fiber optic,Yes,75,Medium,0
+8642-GVWRF,79.7,2,Month-to-month,Fiber optic,Yes,90,High,0
+8644-XLFBW,71.65,1,Month-to-month,Fiber optic,Yes,90,High,0
+8646-JCOMS,90.55,66,One year,Fiber optic,No,50,Medium,0
+8647-SDTWQ,74.3,57,Month-to-month,Fiber optic,No,60,Medium,0
+8651-ENBZX,106.0,60,One year,Fiber optic,Yes,50,Medium,0
+8652-YHIYU,79.5,16,One year,Fiber optic,No,50,Medium,0
+8676-TRMJS,75.0,3,Month-to-month,Fiber optic,Yes,90,High,0
+8677-HDZEE,105.45,56,Month-to-month,Fiber optic,No,65,Medium,0
+8679-LZBMD,90.65,44,One year,Fiber optic,No,55,Medium,0
+8685-WHQPW,74.4,22,Month-to-month,Fiber optic,Yes,70,Medium,0
+8687-BAFGU,74.0,1,Month-to-month,Fiber optic,No,85,High,0
+8695-ARGXZ,75.55,34,Month-to-month,Fiber optic,No,60,Medium,0
+8696-JKZNU,76.25,37,Month-to-month,Fiber optic,Yes,60,Medium,0
+8699-ASUFO,74.4,7,Month-to-month,Fiber optic,Yes,80,High,0
+8705-DWKTI,83.8,52,Month-to-month,Fiber optic,No,60,Medium,0
+8707-RMEZH,87.3,69,One year,Fiber optic,No,50,Medium,0
+8708-XPXHZ,94.2,42,Month-to-month,Fiber optic,Yes,70,Medium,0
+8709-KRDVL,100.0,33,Month-to-month,Fiber optic,No,70,Medium,0
+8714-CTZJW,82.85,4,Month-to-month,Fiber optic,No,90,High,0
+8714-EUHJO,91.15,31,Month-to-month,Fiber optic,Yes,70,Medium,0
+8715-KKTFG,103.3,61,One year,Fiber optic,No,50,Medium,0
+8725-JEDFD,69.05,27,Month-to-month,Fiber optic,No,60,Medium,0
+8728-SKJLR,74.25,41,Month-to-month,Fiber optic,No,55,Medium,0
+8734-DKSTZ,85.95,10,Month-to-month,Fiber optic,No,90,High,0
+8739-WWKDU,89.5,25,Month-to-month,Fiber optic,Yes,70,Medium,0
+8739-XNIKG,84.0,5,Month-to-month,Fiber optic,No,90,High,0
+8740-CRYFY,78.95,1,Month-to-month,Fiber optic,Yes,90,High,0
+8749-JMNKX,93.8,51,Month-to-month,Fiber optic,Yes,65,Medium,0
+8751-EDEKA,89.9,28,Month-to-month,Fiber optic,No,70,Medium,0
+8752-GHJFU,92.0,71,One year,Fiber optic,No,45,Medium,0
+8752-STIVR,79.0,4,Month-to-month,Fiber optic,Yes,90,High,0
+8755-IWJHN,95.35,69,Month-to-month,Fiber optic,No,70,Medium,0
+8761-NSOBC,100.55,44,Month-to-month,Fiber optic,Yes,65,Medium,0
+8769-KKTPH,99.65,63,One year,Fiber optic,No,50,Medium,0
+8775-ERLNB,74.3,1,Month-to-month,Fiber optic,No,90,High,0
+8775-LHDJH,90.6,1,Month-to-month,Fiber optic,Yes,100,High,0
+8778-LMWTJ,74.85,9,Month-to-month,Fiber optic,No,75,Medium,0
+8780-IXSTS,90.1,6,Month-to-month,Fiber optic,Yes,100,High,0
+8782-LKFPK,90.4,44,Month-to-month,Fiber optic,No,70,Medium,0
+8784-CGILN,99.85,18,Month-to-month,Fiber optic,Yes,75,Medium,0
+8785-CJSHH,99.8,60,Month-to-month,Fiber optic,No,70,Medium,0
+8800-JOOCF,84.05,12,Month-to-month,Fiber optic,No,80,High,0
+8800-ZKRFW,107.5,30,Month-to-month,Fiber optic,No,65,Medium,0
+8802-UNOJF,83.8,12,Month-to-month,Fiber optic,Yes,75,Medium,0
+8808-ELEHO,81.25,8,Month-to-month,Fiber optic,Yes,80,High,0
+8812-ZRHFP,86.45,30,One year,Fiber optic,No,55,Medium,0
+8816-VXNZD,75.1,1,Month-to-month,Fiber optic,Yes,90,High,0
+8818-DOPVL,104.45,46,Month-to-month,Fiber optic,No,70,Medium,0
+8818-XYFCQ,99.55,32,Month-to-month,Fiber optic,Yes,65,Medium,0
+8819-IMISP,80.45,31,Month-to-month,Fiber optic,No,60,Medium,0
+8821-XNHVZ,80.05,1,Month-to-month,Fiber optic,Yes,90,High,0
+8835-VSDSE,70.7,2,Month-to-month,Fiber optic,Yes,90,High,0
+8837-VVWLQ,84.95,8,Month-to-month,Fiber optic,Yes,75,Medium,0
+8840-DQLGN,100.5,35,Month-to-month,Fiber optic,Yes,60,Medium,0
+8844-TONUD,96.65,13,Month-to-month,Fiber optic,Yes,80,High,0
+8849-AYPTR,91.25,33,Month-to-month,Fiber optic,No,70,Medium,0
+8849-GYOKR,106.55,54,One year,Fiber optic,Yes,50,Medium,0
+8849-PRIQJ,109.4,67,One year,Fiber optic,No,45,Medium,0
+8854-CCVSQ,80.65,18,Month-to-month,Fiber optic,Yes,70,Medium,0
+8861-HGGKB,86.45,10,Month-to-month,Fiber optic,Yes,90,High,0
+8868-GAGIO,84.55,45,Month-to-month,Fiber optic,No,55,Medium,0
+8868-WOZGU,105.7,28,Month-to-month,Fiber optic,Yes,70,Medium,0
+8873-GLDMH,73.85,6,Month-to-month,Fiber optic,No,90,High,0
+8875-AKBYH,84.35,20,Month-to-month,Fiber optic,No,70,Medium,0
+8884-ADFVN,101.95,7,Month-to-month,Fiber optic,Yes,90,High,0
+8894-JVDCV,115.05,62,One year,Fiber optic,No,45,Medium,0
+8903-WMRNW,101.75,15,Month-to-month,Fiber optic,No,75,Medium,0
+8905-IAZPF,95.65,69,One year,Fiber optic,No,55,Medium,0
+8910-ICHIU,95.65,46,One year,Fiber optic,No,50,Medium,0
+8910-LEDAG,71.55,34,Month-to-month,Fiber optic,No,60,Medium,0
+8914-RBTSB,93.8,31,Month-to-month,Fiber optic,Yes,70,Medium,0
+8920-NAVAY,110.75,62,One year,Fiber optic,No,50,Medium,0
+8922-LIEGH,89.7,25,Month-to-month,Fiber optic,Yes,70,Medium,0
+8931-GJJIQ,83.3,9,Month-to-month,Fiber optic,Yes,80,High,0
+8937-RDTHP,84.6,1,Month-to-month,Fiber optic,Yes,85,High,0
+8938-UMKPI,106.4,47,Month-to-month,Fiber optic,Yes,70,Medium,0
+8943-URTMR,79.65,2,Month-to-month,Fiber optic,Yes,90,High,0
+8945-GRKHX,78.65,1,Month-to-month,Fiber optic,Yes,90,High,0
+8945-MUQUF,94.8,51,One year,Fiber optic,Yes,50,Medium,0
+8947-YRTDV,94.8,32,One year,Fiber optic,No,50,Medium,0
+8949-JTMAY,98.6,29,Month-to-month,Fiber optic,Yes,70,Medium,0
+8952-WCVCD,104.45,41,One year,Fiber optic,No,50,Medium,0
+8961-QDZZJ,95.0,57,One year,Fiber optic,No,55,Medium,0
+8972-HJWNV,84.55,7,Month-to-month,Fiber optic,Yes,80,High,0
+8979-CAMGB,102.1,64,One year,Fiber optic,No,50,Medium,0
+8981-FJGLA,78.0,11,Month-to-month,Fiber optic,No,80,High,0
+8982-NHAVY,100.5,27,One year,Fiber optic,No,55,Medium,0
+8988-ECPJR,79.6,34,Month-to-month,Fiber optic,Yes,60,Medium,0
+8990-ZXLSU,69.05,9,Month-to-month,Fiber optic,No,80,High,0
+8993-IZEUX,69.15,7,Month-to-month,Fiber optic,No,80,High,0
+8999-BOHSE,89.7,11,Month-to-month,Fiber optic,Yes,90,High,0
+8999-XXGNS,105.75,72,One year,Fiber optic,No,55,Medium,0
+9003-CPATH,79.9,42,Month-to-month,Fiber optic,No,60,Medium,0
+9019-QVLZD,79.55,1,Month-to-month,Fiber optic,Yes,90,High,0
+9025-AOMKI,93.55,6,Month-to-month,Fiber optic,Yes,100,High,0
+9029-FEGVJ,79.3,32,Month-to-month,Fiber optic,No,60,Medium,0
+9036-CSKBW,107.45,51,One year,Fiber optic,No,50,Medium,0
+9040-KZVWO,75.5,26,One year,Fiber optic,No,45,Medium,0
+9050-IKDZA,81.5,2,Month-to-month,Fiber optic,No,90,High,0
+9050-QLROH,90.7,18,Month-to-month,Fiber optic,Yes,80,High,0
+9052-VKDUW,109.4,65,Month-to-month,Fiber optic,No,65,Medium,0
+9053-EJUNL,89.2,41,Month-to-month,Fiber optic,No,70,Medium,0
+9054-FOWNV,88.75,22,Month-to-month,Fiber optic,No,80,High,0
+9057-SIHCH,96.6,3,Month-to-month,Fiber optic,Yes,100,High,0
+9058-HRZSV,94.4,65,Month-to-month,Fiber optic,No,65,Medium,0
+9058-MJLZC,94.6,24,Month-to-month,Fiber optic,No,75,Medium,0
+9061-TIHDA,95.25,13,Month-to-month,Fiber optic,Yes,80,High,0
+9079-LWTFD,100.75,47,Month-to-month,Fiber optic,No,60,Medium,0
+9079-YEXQJ,111.1,54,Month-to-month,Fiber optic,Yes,65,Medium,0
+9090-SGQXL,105.3,68,Month-to-month,Fiber optic,Yes,70,Medium,0
+9093-FPDLG,94.2,11,Month-to-month,Fiber optic,No,85,High,0
+9094-AZPHK,100.15,15,Month-to-month,Fiber optic,No,80,High,0
+9095-HFAFX,81.0,5,Month-to-month,Fiber optic,Yes,90,High,0
+9101-BWFSS,108.55,50,One year,Fiber optic,Yes,45,Medium,0
+9102-IAYHT,85.45,17,Month-to-month,Fiber optic,Yes,80,High,0
+9112-WSNPU,70.55,35,Month-to-month,Fiber optic,No,60,Medium,0
+9114-VEPUF,96.1,62,One year,Fiber optic,No,50,Medium,0
+9121-PHQSR,85.05,16,Month-to-month,Fiber optic,No,80,High,0
+9124-LHCJQ,85.45,1,Month-to-month,Fiber optic,Yes,100,High,0
+9129-UXERG,103.6,18,Month-to-month,Fiber optic,No,75,Medium,0
+9133-AYJZG,98.7,23,Month-to-month,Fiber optic,No,80,High,0
+9134-CEQMF,89.5,7,Month-to-month,Fiber optic,Yes,90,High,0
+9134-WYRVP,86.35,51,One year,Fiber optic,No,50,Medium,0
+9137-UIYPG,106.9,35,Month-to-month,Fiber optic,No,60,Medium,0
+9138-EFSMO,78.95,26,One year,Fiber optic,No,45,Medium,0
+9139-WQQDY,100.45,49,One year,Fiber optic,Yes,55,Medium,0
+9142-KZXOP,68.85,44,Month-to-month,Fiber optic,No,60,Medium,0
+9154-QDGTH,104.3,43,One year,Fiber optic,No,50,Medium,0
+9158-VCTQB,113.6,41,Month-to-month,Fiber optic,Yes,60,Medium,0
+9167-APMXZ,84.15,22,Month-to-month,Fiber optic,No,70,Medium,0
+9168-INPSZ,104.15,44,Month-to-month,Fiber optic,No,65,Medium,0
+9170-CCKOU,90.2,17,Month-to-month,Fiber optic,Yes,75,Medium,0
+9172-ANCRX,98.7,10,Month-to-month,Fiber optic,Yes,85,High,0
+9172-JITSM,90.8,26,Month-to-month,Fiber optic,Yes,70,Medium,0
+9185-TQCVP,85.15,14,Month-to-month,Fiber optic,Yes,80,High,0
+9189-JWSHV,93.55,24,Month-to-month,Fiber optic,Yes,80,High,0
+9190-MFJLN,95.9,19,Month-to-month,Fiber optic,Yes,80,High,0
+9191-MYQKX,75.15,7,Month-to-month,Fiber optic,Yes,80,High,0
+9208-OLGAQ,84.95,18,Month-to-month,Fiber optic,No,70,Medium,0
+9221-OTIVJ,104.85,14,Month-to-month,Fiber optic,Yes,80,High,0
+9223-UCPVT,94.4,1,Month-to-month,Fiber optic,Yes,100,High,0
+9231-ZJYAM,78.85,4,Month-to-month,Fiber optic,Yes,90,High,0
+9233-PSYHO,100.15,45,One year,Fiber optic,No,55,Medium,0
+9237-HQITU,70.7,2,Month-to-month,Fiber optic,Yes,90,High,0
+9248-OJYKK,76.45,1,Month-to-month,Fiber optic,Yes,90,High,0
+9249-FXSCK,111.25,52,One year,Fiber optic,Yes,45,Medium,0
+9250-WYPLL,75.55,5,Month-to-month,Fiber optic,Yes,90,High,0
+9253-QXKBE,94.45,29,Month-to-month,Fiber optic,Yes,70,Medium,0
+9254-RBFON,98.6,17,One year,Fiber optic,Yes,60,Medium,0
+9272-LSVYH,70.15,10,Month-to-month,Fiber optic,No,80,High,0
+9274-CNFMO,74.95,4,Month-to-month,Fiber optic,Yes,90,High,0
+9274-UARKJ,83.2,15,Month-to-month,Fiber optic,No,70,Medium,0
+9278-VZKCD,109.1,52,Month-to-month,Fiber optic,No,65,Medium,0
+9279-CJEOJ,95.4,21,Month-to-month,Fiber optic,No,80,High,0
+9281-OFDMF,90.7,39,Month-to-month,Fiber optic,No,70,Medium,0
+9282-IZGQK,85.0,1,Month-to-month,Fiber optic,Yes,90,High,0
+9283-LZQOH,74.4,13,Month-to-month,Fiber optic,Yes,70,Medium,0
+9286-DOJGF,74.95,38,Month-to-month,Fiber optic,Yes,60,Medium,0
+9290-SHCMB,96.85,13,Month-to-month,Fiber optic,No,80,High,0
+9300-AGZNL,94.0,1,Month-to-month,Fiber optic,Yes,100,High,0
+9300-RENDD,79.95,1,Month-to-month,Fiber optic,Yes,90,High,0
+9305-CDSKC,99.65,8,Month-to-month,Fiber optic,Yes,90,High,0
+9306-CPCBC,74.25,3,Month-to-month,Fiber optic,Yes,90,High,0
+9314-IJWSQ,84.8,14,Month-to-month,Fiber optic,No,70,Medium,0
+9317-WZPGV,79.75,2,Month-to-month,Fiber optic,Yes,90,High,0
+9323-HGFWY,101.9,27,One year,Fiber optic,No,45,Medium,0
+9330-IJWIO,100.35,13,Month-to-month,Fiber optic,Yes,75,Medium,0
+9334-GWGOW,74.85,7,Month-to-month,Fiber optic,No,80,High,0
+9350-VLHMB,89.55,67,Month-to-month,Fiber optic,No,70,Medium,0
+9355-NPPFS,78.8,26,Month-to-month,Fiber optic,No,60,Medium,0
+9356-AXGMP,110.7,38,One year,Fiber optic,No,45,Medium,0
+9360-AHGNL,109.55,43,One year,Fiber optic,Yes,45,Medium,0
+9360-OMDZZ,94.1,24,Month-to-month,Fiber optic,No,80,High,0
+9365-SRSZE,70.55,27,Month-to-month,Fiber optic,No,60,Medium,0
+9367-WXLCH,84.5,8,Month-to-month,Fiber optic,Yes,80,High,0
+9369-XFEHK,80.6,33,Month-to-month,Fiber optic,Yes,60,Medium,0
+9386-LDCZR,90.65,43,One year,Fiber optic,No,45,Medium,0
+9389-ACWBI,69.95,5,Month-to-month,Fiber optic,No,90,High,0
+9391-DXGGG,89.15,44,One year,Fiber optic,No,55,Medium,0
+9391-EOYLI,80.45,12,Month-to-month,Fiber optic,Yes,80,High,0
+9391-LMANN,95.95,53,One year,Fiber optic,No,50,Medium,0
+9391-YZEJW,94.0,62,One year,Fiber optic,No,55,Medium,0
+9398-MMQTO,74.45,3,Month-to-month,Fiber optic,No,90,High,0
+9399-APLBT,74.7,1,Month-to-month,Fiber optic,Yes,90,High,0
+9402-CXWPL,98.9,70,One year,Fiber optic,No,55,Medium,0
+9402-ORRAH,91.5,15,Month-to-month,Fiber optic,No,80,High,0
+9402-ROUMJ,100.25,67,One year,Fiber optic,No,45,Medium,0
+9408-HRXRK,105.15,45,Month-to-month,Fiber optic,No,65,Medium,0
+9408-SSNVZ,70.15,4,Month-to-month,Fiber optic,Yes,90,High,0
+9412-GHEEC,104.8,40,Month-to-month,Fiber optic,Yes,65,Medium,0
+9415-DPEWS,88.35,18,Month-to-month,Fiber optic,Yes,75,Medium,0
+9419-IPPBE,90.15,51,One year,Fiber optic,No,55,Medium,0
+9420-LOJKX,99.1,15,Month-to-month,Fiber optic,Yes,75,Medium,0
+9430-FRQOC,87.1,4,Month-to-month,Fiber optic,Yes,95,High,0
+9432-VOFYX,70.8,17,Month-to-month,Fiber optic,No,70,Medium,0
+9436-ZBZCT,89.95,14,Month-to-month,Fiber optic,Yes,75,Medium,0
+9444-JTXHZ,76.2,1,Month-to-month,Fiber optic,Yes,90,High,0
+9445-SZLCH,97.35,36,Month-to-month,Fiber optic,Yes,70,Medium,0
+9445-ZUEQE,85.2,27,Month-to-month,Fiber optic,No,65,Medium,0
+9450-TRJUU,83.15,35,Month-to-month,Fiber optic,No,60,Medium,0
+9451-LPGOO,86.8,7,Month-to-month,Fiber optic,Yes,90,High,0
+9465-RWMXL,78.9,32,Month-to-month,Fiber optic,Yes,60,Medium,0
+9469-WEJBT,90.35,37,Month-to-month,Fiber optic,No,65,Medium,0
+9470-XCCEM,89.65,35,Month-to-month,Fiber optic,No,70,Medium,0
+9475-NNDGC,113.15,71,One year,Fiber optic,No,50,Medium,0
+9480-BQJEI,92.3,62,One year,Fiber optic,No,50,Medium,0
+9481-IEBZY,112.9,72,Month-to-month,Fiber optic,No,60,Medium,0
+9488-HGMJH,71.15,1,Month-to-month,Fiber optic,Yes,90,High,0
+9490-DFPMD,84.65,42,Month-to-month,Fiber optic,Yes,60,Medium,0
+9492-TOKRI,90.0,18,Month-to-month,Fiber optic,Yes,80,High,0
+9494-BDNNC,95.3,66,One year,Fiber optic,No,55,Medium,0
+9494-MRNYX,75.05,10,Month-to-month,Fiber optic,No,80,High,0
+9495-SKLKD,95.95,45,Month-to-month,Fiber optic,No,70,Medium,0
+9497-QCMMS,93.55,1,Month-to-month,Fiber optic,Yes,100,High,0
+9500-LTVBP,80.05,35,Month-to-month,Fiber optic,No,55,Medium,0
+9506-UXUSK,70.15,13,Month-to-month,Fiber optic,No,70,Medium,0
+9507-EXLTT,79.35,1,Month-to-month,Fiber optic,Yes,90,High,0
+9508-ILZDG,96.35,34,Month-to-month,Fiber optic,No,65,Medium,0
+9512-UIBFX,95.15,18,Month-to-month,Fiber optic,Yes,80,High,0
+9518-RWHZL,100.05,64,One year,Fiber optic,Yes,55,Medium,0
+9518-XXBXE,75.3,10,Month-to-month,Fiber optic,No,75,Medium,0
+9524-EGPJC,90.1,18,Month-to-month,Fiber optic,Yes,75,Medium,0
+9526-JAWYF,89.8,26,Month-to-month,Fiber optic,Yes,70,Medium,0
+9529-OFXHY,87.75,15,Month-to-month,Fiber optic,No,75,Medium,0
+9540-JYROE,70.1,8,Month-to-month,Fiber optic,Yes,80,High,0
+9544-PYPSJ,96.1,62,Month-to-month,Fiber optic,No,70,Medium,0
+9546-CQJSU,91.4,2,Month-to-month,Fiber optic,Yes,100,High,0
+9547-ITEFG,102.6,9,Month-to-month,Fiber optic,No,90,High,0
+9552-TGUZV,75.0,8,Month-to-month,Fiber optic,No,75,Medium,0
+9560-ARGQJ,81.0,16,Month-to-month,Fiber optic,Yes,70,Medium,0
+9565-DJPIB,89.6,4,Month-to-month,Fiber optic,Yes,100,High,0
+9565-JSNFM,70.45,38,One year,Fiber optic,Yes,45,Medium,0
+9571-EDEBV,98.65,71,One year,Fiber optic,No,55,Medium,0
+9572-MTILT,106.75,59,Month-to-month,Fiber optic,Yes,60,Medium,0
+9574-RKJIF,94.4,30,Month-to-month,Fiber optic,Yes,65,Medium,0
+9576-ANLXO,69.55,3,Month-to-month,Fiber optic,Yes,90,High,0
+9576-SYUHJ,91.15,37,Month-to-month,Fiber optic,No,65,Medium,0
+9584-EXCDZ,70.5,17,Month-to-month,Fiber optic,No,70,Medium,0
+9600-NAXZN,101.4,43,Month-to-month,Fiber optic,Yes,70,Medium,0
+9600-UDOPK,94.05,30,Month-to-month,Fiber optic,Yes,70,Medium,0
+9601-BRXPO,104.95,25,Month-to-month,Fiber optic,Yes,65,Medium,0
+9603-OAIHC,70.05,1,Month-to-month,Fiber optic,No,90,High,0
+9605-WGJVW,70.2,1,Month-to-month,Fiber optic,No,90,High,0
+9606-PBKBQ,85.0,32,Month-to-month,Fiber optic,Yes,60,Medium,0
+9611-CTWIH,89.45,3,Month-to-month,Fiber optic,Yes,100,High,0
+9614-RMGHA,91.85,65,Month-to-month,Fiber optic,Yes,70,Medium,0
+9617-INGJY,70.6,1,Month-to-month,Fiber optic,No,90,High,0
+9620-ENEJV,70.55,6,Month-to-month,Fiber optic,No,90,High,0
+9625-QSTYE,81.15,13,Month-to-month,Fiber optic,Yes,70,Medium,0
+9626-VFRGG,88.5,41,Month-to-month,Fiber optic,No,70,Medium,0
+9633-XQABV,70.25,3,Month-to-month,Fiber optic,No,90,High,0
+9643-AVVWI,80.0,3,Month-to-month,Fiber optic,No,85,High,0
+9644-KVCNC,92.15,66,One year,Fiber optic,No,55,Medium,0
+9647-ERGBE,100.05,30,Month-to-month,Fiber optic,Yes,70,Medium,0
+9651-GTSAQ,106.1,53,One year,Fiber optic,Yes,50,Medium,0
+9658-WYUFB,94.4,17,Month-to-month,Fiber optic,Yes,75,Medium,0
+9659-QEQSY,115.65,45,Month-to-month,Fiber optic,No,60,Medium,0
+9659-ZTWSM,107.35,66,One year,Fiber optic,No,50,Medium,0
+9661-ACXBS,105.2,42,Month-to-month,Fiber optic,Yes,65,Medium,0
+9681-KYGYB,88.2,49,Month-to-month,Fiber optic,No,65,Medium,0
+9681-OXGVC,100.5,5,Month-to-month,Fiber optic,Yes,100,High,0
+9685-WKZGT,74.95,14,Month-to-month,Fiber optic,Yes,70,Medium,0
+9688-YGXVR,88.15,44,Month-to-month,Fiber optic,No,70,Medium,0
+9689-PTNPG,80.25,2,Month-to-month,Fiber optic,Yes,90,High,0
+9692-TUSXH,96.05,18,Month-to-month,Fiber optic,Yes,75,Medium,0
+9696-RMYBA,80.1,5,Month-to-month,Fiber optic,No,90,High,0
+9699-UBQFS,94.5,43,Month-to-month,Fiber optic,No,65,Medium,0
+9701-CDXHR,69.15,51,Month-to-month,Fiber optic,No,60,Medium,0
+9705-IOVQQ,99.0,61,One year,Fiber optic,No,55,Medium,0
+9710-ZUSHQ,106.75,37,Month-to-month,Fiber optic,Yes,65,Medium,0
+9711-FJTBX,85.85,56,One year,Fiber optic,No,50,Medium,0
+9714-EDSUC,94.9,4,Month-to-month,Fiber optic,No,90,High,0
+9717-QEBGU,70.3,2,Month-to-month,Fiber optic,No,90,High,0
+9722-UJOJR,70.75,29,Month-to-month,Fiber optic,Yes,60,Medium,0
+9725-SCPZG,90.85,1,Month-to-month,Fiber optic,Yes,100,High,0
+9728-FTTVZ,69.2,1,Month-to-month,Fiber optic,Yes,90,High,0
+9732-EQMWY,99.4,49,Month-to-month,Fiber optic,No,70,Medium,0
+9734-YWGEX,98.3,9,Month-to-month,Fiber optic,Yes,90,High,0
+9738-QLWTP,81.9,39,One year,Fiber optic,No,40,Medium,0
+9741-YLNTD,87.95,6,Month-to-month,Fiber optic,No,95,High,0
+9742-XOKTS,89.55,67,One year,Fiber optic,No,45,Medium,0
+9746-MDMBK,113.45,47,One year,Fiber optic,No,45,Medium,0
+9747-DDZOS,73.5,1,Month-to-month,Fiber optic,Yes,90,High,0
+9762-YAQAA,81.4,39,One year,Fiber optic,No,45,Medium,0
+9763-PDTKK,94.4,4,Month-to-month,Fiber optic,Yes,90,High,0
+9767-FFLEM,69.5,38,Month-to-month,Fiber optic,No,60,Medium,0
+9770-KXGQU,98.6,53,One year,Fiber optic,No,50,Medium,0
+9773-PEQBZ,79.85,10,Month-to-month,Fiber optic,No,80,High,0
+9776-CLUJA,77.5,51,Month-to-month,Fiber optic,Yes,55,Medium,0
+9776-OJUZI,95.45,65,Month-to-month,Fiber optic,No,70,Medium,0
+9777-WJJPR,88.65,31,Month-to-month,Fiber optic,No,70,Medium,0
+9779-DPNEJ,80.15,22,Month-to-month,Fiber optic,No,70,Medium,0
+9787-XVQIU,75.3,1,Month-to-month,Fiber optic,Yes,90,High,0
+9793-WECQC,95.3,23,Month-to-month,Fiber optic,No,80,High,0
+9796-BPKIW,69.95,8,Month-to-month,Fiber optic,No,80,High,0
+9799-CAYJJ,69.3,2,Month-to-month,Fiber optic,No,90,High,0
+9800-ONTFE,75.8,22,Month-to-month,Fiber optic,No,70,Medium,0
+9801-GDWGV,103.45,39,Month-to-month,Fiber optic,Yes,70,Medium,0
+9804-ICWBG,69.9,1,Month-to-month,Fiber optic,Yes,90,High,0
+9809-IMGCQ,96.7,22,Month-to-month,Fiber optic,Yes,80,High,0
+9812-GHVRI,83.85,40,Month-to-month,Fiber optic,No,60,Medium,0
+9819-FBNSV,72.25,37,Month-to-month,Fiber optic,No,60,Medium,0
+9821-BESNZ,104.25,66,One year,Fiber optic,No,50,Medium,0
+9821-POOTN,75.2,35,Month-to-month,Fiber optic,Yes,60,Medium,0
+9822-WMWVG,106.5,41,Month-to-month,Fiber optic,No,60,Medium,0
+9824-BEMCV,69.0,17,Month-to-month,Fiber optic,Yes,70,Medium,0
+9825-YCXWZ,101.1,41,One year,Fiber optic,No,50,Medium,0
+9831-BPFRI,89.55,39,One year,Fiber optic,Yes,50,Medium,0
+9833-TGFHX,97.1,42,One year,Fiber optic,No,50,Medium,0
+9835-ZIITK,110.85,66,One year,Fiber optic,Yes,50,Medium,0
+9837-BMCLM,78.5,3,Month-to-month,Fiber optic,Yes,90,High,0
+9840-DVNDC,80.5,6,Month-to-month,Fiber optic,Yes,90,High,0
+9840-EFJQB,74.35,1,Month-to-month,Fiber optic,No,90,High,0
+9844-FELAJ,107.9,70,One year,Fiber optic,No,50,Medium,0
+9846-GKXAS,90.8,9,Month-to-month,Fiber optic,Yes,90,High,0
+9850-OWRHQ,74.1,3,Month-to-month,Fiber optic,Yes,90,High,0
+9851-KIELU,110.1,10,Month-to-month,Fiber optic,Yes,80,High,0
+9851-QXEEQ,104.7,41,Month-to-month,Fiber optic,Yes,70,Medium,0
+9866-QEVEE,86.0,19,Month-to-month,Fiber optic,Yes,80,High,0
+9874-QLCLH,104.2,17,Month-to-month,Fiber optic,Yes,75,Medium,0
+9878-TNQGW,80.95,2,Month-to-month,Fiber optic,Yes,90,High,0
+9885-AIBVB,85.8,29,Month-to-month,Fiber optic,No,70,Medium,0
+9885-CSMWE,78.45,1,Month-to-month,Fiber optic,Yes,90,High,0
+9889-TMAHG,100.3,8,Month-to-month,Fiber optic,Yes,80,High,0
+9894-EZEWG,74.3,1,Month-to-month,Fiber optic,Yes,90,High,0
+9896-UYMIE,114.3,66,One year,Fiber optic,No,45,Medium,0
+9897-KXHCM,80.3,3,Month-to-month,Fiber optic,Yes,90,High,0
+9898-KZQDZ,94.55,40,Month-to-month,Fiber optic,Yes,70,Medium,0
+9903-LYSAB,73.15,18,Month-to-month,Fiber optic,No,70,Medium,0
+9904-EHEVJ,91.35,32,Month-to-month,Fiber optic,No,70,Medium,0
+9909-DFRJA,95.85,26,One year,Fiber optic,No,45,Medium,0
+9909-IDLEK,96.8,20,Month-to-month,Fiber optic,No,75,Medium,0
+9912-GVSEQ,93.85,26,Month-to-month,Fiber optic,Yes,70,Medium,0
+9912-OMZDS,106.15,59,One year,Fiber optic,No,55,Medium,0
+9919-KNPOO,94.3,21,Month-to-month,Fiber optic,No,80,High,0
+9919-YLNNG,103.8,42,Month-to-month,Fiber optic,No,65,Medium,0
+9921-EZKBY,95.3,33,Month-to-month,Fiber optic,No,65,Medium,0
+9921-QFQUL,90.15,23,Month-to-month,Fiber optic,No,80,High,0
+9921-ZVRHG,80.45,14,Month-to-month,Fiber optic,Yes,70,Medium,0
+9927-DSWDF,104.6,22,Month-to-month,Fiber optic,No,70,Medium,0
+9940-HPQPG,91.75,9,Month-to-month,Fiber optic,Yes,85,High,0
+9940-RHLFB,75.3,1,Month-to-month,Fiber optic,Yes,90,High,0
+9943-VSZUV,75.7,67,Month-to-month,Fiber optic,No,60,Medium,0
+9944-AEXBM,85.65,32,Month-to-month,Fiber optic,No,70,Medium,0
+9944-HKVVB,95.1,3,Month-to-month,Fiber optic,Yes,100,High,0
+9947-OTFQU,74.4,15,Month-to-month,Fiber optic,Yes,70,Medium,0
+9948-YPTDG,79.45,38,Month-to-month,Fiber optic,Yes,55,Medium,0
+9957-YODKZ,80.8,6,Month-to-month,Fiber optic,No,90,High,0
+9961-JBNMK,96.8,21,Month-to-month,Fiber optic,Yes,80,High,0
+9965-YOKZB,83.85,9,Month-to-month,Fiber optic,Yes,80,High,0
+9971-ZWPBF,108.9,34,Month-to-month,Fiber optic,No,65,Medium,0
+9972-VAFJJ,94.0,53,One year,Fiber optic,No,50,Medium,0
+9974-JFBHQ,99.15,64,Month-to-month,Fiber optic,No,65,Medium,0
+9978-HYCIN,84.95,47,One year,Fiber optic,No,45,Medium,0
+9979-RGMZT,94.05,7,One year,Fiber optic,No,75,Medium,0
+9985-MWVIX,70.15,1,Month-to-month,Fiber optic,Yes,90,High,0
+9992-RRAMN,85.1,22,Month-to-month,Fiber optic,Yes,80,High,0
